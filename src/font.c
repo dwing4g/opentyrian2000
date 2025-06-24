@@ -21,6 +21,8 @@
 #include "fonthand.h"
 #include "sprite.h"
 
+#include "font_chs.h"
+
 /**
  * \file font.c
  * \brief Text drawing routines.
