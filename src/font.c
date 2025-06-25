@@ -131,7 +131,13 @@ void draw_font_hv(SDL_Surface *surface, int x, int y, const char *text, Font fon
 		x -= JE_textWidth(text, font);
 		break;
 	}
-	
+
+	if (font == small_font)
+	{
+		draw_font_hv_chs(surface, x, y, text, hue, value);
+		return;
+	}
+
 	bool highlight = false;
 	
 	for (; *text != '\0'; ++text)
@@ -194,7 +200,13 @@ void draw_font_hv_blend(SDL_Surface *surface, int x, int y, const char *text, Fo
 		x -= JE_textWidth(text, font);
 		break;
 	}
-	
+
+	if (font == small_font)
+	{
+		draw_font_hv_blend_chs(surface, x, y, text, hue, value);
+		return;
+	}
+
 	for (; *text != '\0'; ++text)
 	{
 		int sprite_id = font_ascii[(unsigned char)*text];
@@ -250,7 +262,13 @@ void draw_font_dark(SDL_Surface *surface, int x, int y, const char *text, Font f
 		x -= JE_textWidth(text, font);
 		break;
 	}
-	
+
+	if (font == small_font)
+	{
+		draw_font_dark_chs(surface, x, y, text, (int)black);
+		return;
+	}
+
 	for (; *text != '\0'; ++text)
 	{
 		int sprite_id = font_ascii[(unsigned char)*text];

@@ -25,6 +25,7 @@
 #include <assert.h>
 #include <ctype.h>
 #include <stdlib.h>
+#include "font_chs.h"
 
 Sprite_array sprite_table[SPRITE_TABLES_MAX];
 
@@ -289,6 +290,12 @@ void blit_sprite_hv_unsafe(SDL_Surface *surface, int x, int y, unsigned int tabl
 // does not clip on left or right edges of surface
 void blit_sprite_hv(SDL_Surface *surface, int x, int y, unsigned int table, unsigned int index, Uint8 hue, Sint8 value)
 {
+	if (table == TINY_FONT)
+	{
+		blit_sprite_hv_chs(surface, x, y, index, hue, value);
+		return;
+	}
+
 	if (index >= sprite_table[table].count || !sprite_exists(table, index))
 	{
 		assert(false);
@@ -425,6 +432,12 @@ void blit_sprite_hv_blend(SDL_Surface *surface, int x, int y, unsigned int table
 // does not clip on left or right edges of surface
 void blit_sprite_dark(SDL_Surface *surface, int x, int y, unsigned int table, unsigned int index, bool black)
 {
+	if (table == TINY_FONT)
+	{
+		blit_sprite_dark_chs(surface, x, y, index, (int)black);
+		return;
+	}
+
 	if (index >= sprite_table[table].count || !sprite_exists(table, index))
 	{
 		assert(false);

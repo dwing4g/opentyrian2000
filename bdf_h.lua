@@ -18,10 +18,10 @@ ENDCHAR
 local floor = math.floor
 local codes = {}
 local code, width, height, dataLine, bbx, data = 0, 0, 0, 0, {}, {}
-local f = io.open(arg[2] or "src/font_chs.h", "wb")
+local f = io.open(arg[2] or "src/font_chs_data.h", "wb")
 f:write "#include <stdint.h>\n\n"
 f:write "uint64_t font_chs_data[] = {\n"
-local i = 0
+local i, n = 0, 0
 for line in io.lines(arg[1] or "fusion-pixel-12px-monospaced-zh_hans.bdf") do -- https://github.com/TakWolf/fusion-pixel-font
 	i = i + 1
 	if dataLine == 0 then
@@ -59,9 +59,10 @@ for line in io.lines(arg[1] or "fusion-pixel-12px-monospaced-zh_hans.bdf") do --
 			end
 			v = v + width * b
 			h[#h + 1] = string.format("%08X", v)
-			if code < 0x10000 then
-				codes[#codes + 1] = code
-				f:write(string.format("\t0x%s%sULL, 0x%s%sULL, // 0x%x\n", h[2], h[1], h[4], h[3], code))
+			if code <= 0xffff then
+				codes[code] = n
+				f:write(string.format("\t0x%s%sULL,0x%s%sULL,//%04X,%d\n", h[2], h[1], h[4], h[3], code, n))
+				n = n + 1
 			end
 			code, width, height, dataLine, bbx, data = 0, 0, 0, 0, {}, {}
 		elseif tag == "PIXEL_SIZE" then
@@ -81,15 +82,16 @@ for line in io.lines(arg[1] or "fusion-pixel-12px-monospaced-zh_hans.bdf") do --
 	end
 end
 f:write "};\n"
-f:write "uint16_t font_chs_codes[] = {\n\t"
-local lastCode = 0
-for i, code in ipairs(codes) do
-	if lastCode >= code then
-		error("ERROR: unordered code: " .. lastCode .. " >= " .. code)
+f:write "uint16_t font_chs_index[0x10000] = {\n"
+for i = 0, 0xffff do
+	if i % 16 == 0 then
+		f:write(string.format("\t/*%04X*/", i))
 	end
-	lastCode = code
-	f:write(string.format("0x%x,", code), i % 16 == 0 and "\n\t" or " ")
+	f:write(string.format("%d,", codes[i] or -1))
+	if i % 16 == 15 then
+		f:write "\n"
+	end
 end
-f:write "\n};\n"
+f:write "};\n"
 f:close()
 print "DONE!"

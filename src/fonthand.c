@@ -27,6 +27,8 @@
 #include "vga256d.h"
 #include "video.h"
 
+#include "font_chs.h"
+
 const int font_ascii[256] =
 {
 	 -1,  -1,  -1,  -1,  -1,  -1,  -1,  -1,  -1,  -1,  -1,  -1,  -1,  -1,  -1,  -1,
@@ -102,6 +104,9 @@ int JE_fontCenter(const char *s, unsigned int font)
 
 int JE_textWidth(const char *s, unsigned int font)
 {
+	if (font == TINY_FONT)
+		return JE_textWidth_chs(s, font);
+
 	int x = 0;
 
 	for (int i = 0; s[i] != '\0'; ++i)
@@ -143,6 +148,8 @@ void JE_textShade(SDL_Surface * screen, int x, int y, const char *s, unsigned in
 
 void JE_outText(SDL_Surface * screen, int x, int y, const char *s, unsigned int colorbank, int brightness)
 {
+	JE_outText_chs(screen, x, y, s, colorbank, brightness);
+/*
 	int bright = 0;
 
 	for (int i = 0; s[i] != '\0'; ++i)
@@ -172,10 +179,17 @@ void JE_outText(SDL_Surface * screen, int x, int y, const char *s, unsigned int 
 			break;
 		}
 	}
+*/
 }
 
 void JE_outTextModify(SDL_Surface * screen, int x, int y, const char *s, unsigned int filter, unsigned int brightness, unsigned int font)
 {
+	if (font == TINY_FONT)
+	{
+		JE_outTextModify_chs(screen, x, y, s, filter, brightness);
+		return;
+	}
+
 	for (int i = 0; s[i] != '\0'; ++i)
 	{
 		int sprite_id = font_ascii[(unsigned char)s[i]];
@@ -195,6 +209,12 @@ void JE_outTextModify(SDL_Surface * screen, int x, int y, const char *s, unsigne
 
 void JE_outTextAdjust(SDL_Surface * screen, int x, int y, const char *s, unsigned int filter, int brightness, unsigned int font, JE_boolean shadow)
 {
+	if (font == TINY_FONT)
+	{
+		JE_outTextAdjust_chs(screen, x, y, s, filter, brightness, shadow);
+		return;
+	}
+
 	int bright = 0;
 
 	for (int i = 0; s[i] != '\0'; ++i)
@@ -227,6 +247,12 @@ void JE_outTextAdjust(SDL_Surface * screen, int x, int y, const char *s, unsigne
 
 void JE_outTextAndDarken(SDL_Surface * screen, int x, int y, const char *s, unsigned int colorbank, unsigned int brightness, unsigned int font)
 {
+	if (font == TINY_FONT)
+	{
+		JE_outTextAndDarken_chs(screen, x, y, s, colorbank, brightness);
+		return;
+	}
+
 	int bright = 0;
 
 	for (int i = 0; s[i] != '\0'; ++i)

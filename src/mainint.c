@@ -55,6 +55,8 @@
 #include <ctype.h>
 #include <string.h>
 
+#include "font_chs.h"
+
 bool button[4];
 
 #define MAX_PAGE 8
@@ -103,7 +105,7 @@ void JE_outCharGlow(JE_word x, JE_word y, const char *s)
 	}
 	else
 	{
-		maxloc = strlen(s);
+		maxloc = strlen_utf8(s);
 		for (z = 0; z < 60; z++)
 		{
 			glowcol[z] = -8;
@@ -111,19 +113,14 @@ void JE_outCharGlow(JE_word x, JE_word y, const char *s)
 		}
 
 		loc = x;
+		const char* p = s;
 		for (z = 0; z < maxloc; z++)
 		{
 			textloc[z] = loc;
-
-			int sprite_id = font_ascii[(unsigned char)s[z]];
-
-			if (s[z] == ' ')
-				loc += 6;
-			else if (sprite_id != -1)
-				loc += sprite(TINY_FONT, sprite_id)->width + 1;
+			loc += char_advance(next_utf8_char(&p));
 		}
 
-		for (loc = 0; (unsigned)loc < strlen(s) + 28; loc++)
+		for (loc = 0; (unsigned)loc < maxloc + 28; loc++)
 		{
 			if (!ESCPressed)
 			{
@@ -133,13 +130,16 @@ void JE_outCharGlow(JE_word x, JE_word y, const char *s)
 
 				int sprite_id = -1;
 
-				for (z = loc - 28; z <= loc; z++)
+				z = loc - 28;
+				p = s;
+				for (int i = 0; i < z; i++)
+					next_utf8_char(&p);
+				for (; z <= loc; z++)
 				{
 					if (z >= 0 && z < maxloc)
 					{
-						sprite_id = font_ascii[(unsigned char)s[z]];
-
-						if (sprite_id != -1)
+						sprite_id = next_utf8_char(&p);
+						if (sprite_id > 0)
 						{
 							blit_sprite_hv(VGAScreen, textloc[z], y, TINY_FONT, sprite_id, bank, glowcol[z]);
 
@@ -149,7 +149,7 @@ void JE_outCharGlow(JE_word x, JE_word y, const char *s)
 						}
 					}
 				}
-				if (sprite_id != -1 && --z < maxloc)
+				if (sprite_id > 0 && --z < maxloc)
 					blit_sprite_dark(VGAScreen, textloc[z] + 1, y + 1, TINY_FONT, sprite_id, true);
 
 				if (JE_anyButton())
