@@ -3314,7 +3314,7 @@ bool titleScreen(void)
 
 			JE_loadPic(VGAScreen, 4, false);
 
-			draw_font_hv_shadow(VGAScreen, 2, 192, opentyrian_version, small_font, left_aligned, 15, 0, false, 1);
+			draw_font_hv_shadow(VGAScreen, 2, 188, opentyrian_version, small_font, left_aligned, 15, 0, false, 1);
 
 			if (moveTyrianLogoUp)
 			{

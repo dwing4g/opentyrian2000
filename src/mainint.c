@@ -105,6 +105,7 @@ void JE_outCharGlow(JE_word x, JE_word y, const char *s)
 	}
 	else
 	{
+		s = translate(s);
 		maxloc = strlen_utf8(s);
 		for (z = 0; z < 60; z++)
 		{
@@ -419,10 +420,10 @@ static bool helpSystemPage(Uint8 *topic, bool *restart)
 		JE_char buffer[128];
 
 		snprintf(buffer, sizeof buffer, "%s %d", miscText[24], page - topicStart[*topic - 1] + 1);
-		draw_font_hv(VGAScreen, 10, 192, buffer, small_font, left_aligned, 13, 5);
+		draw_font_hv(VGAScreen, 10, 188, buffer, small_font, left_aligned, 13, 5);
 
 		snprintf(buffer, sizeof buffer, "%s %d of %d", miscText[25], page, MAX_PAGE);
-		draw_font_hv(VGAScreen, 320 - 10, 192, buffer, small_font, right_aligned, 13, 5);
+		draw_font_hv(VGAScreen, 320 - 10, 188, buffer, small_font, right_aligned, 13, 5);
 
 		// Draw text.
 
