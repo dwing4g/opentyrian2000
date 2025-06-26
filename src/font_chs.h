@@ -26,6 +26,7 @@ void JE_outTextAdjust_chs(SDL_Surface* screen, int x, int y, const char* s, unsi
 void JE_outTextAndDarken_chs(SDL_Surface* screen, int x, int y, const char* s, unsigned int colorbank, unsigned int brightness);
 
 const char* translate(const char* msg);
+const char* translate2(const char* msg, int may_export);
 
 #ifdef __cplusplus
 }

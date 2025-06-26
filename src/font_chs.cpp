@@ -67,7 +67,7 @@ extern "C" int char_advance(int c)
 extern "C" int JE_textWidth_chs(const char* s, unsigned int font)
 {
 	(void)font; // only support tiny font now
-	s = translate(s);
+	s = translate2(s, 0);
 	for (int w = 0;;)
 	{
 		int c = next_utf8_char(&s);
@@ -345,6 +345,11 @@ extern "C" void JE_outTextAndDarken_chs(SDL_Surface* screen, int x, int y, const
 
 extern "C" const char* translate(const char* msg)
 {
+	return translate2(msg, 1);
+}
+
+extern "C" const char* translate2(const char* msg, int may_export)
+{
 	if (!msg)
 		return msg;
 	static std::unordered_map<std::string, std::string>* s_trans = 0;
@@ -369,8 +374,8 @@ extern "C" const char* translate(const char* msg)
 						std::string bufe;
 						while (fgets(buf, MAX_BUF_SIZE, fp))
 						{
-							int n = strlen(buf);
-							while (n > 0 && (unsigned char)buf[n - 1] < 0x20)
+							size_t n = strlen(buf);
+							while (n && (unsigned char)buf[n - 1] < 0x20)
 								n--;
 							buf[n] = 0;
 							if (*buf)
@@ -405,7 +410,7 @@ extern "C" const char* translate(const char* msg)
 		untrans = new std::unordered_set<std::string>;
 		s_fp = _wfopen(L"untrans.txt", L"ab");
 	}
-	if (s_fp && untrans->insert(msg).second)
+	if (may_export && s_fp && untrans->insert(msg).second)
 	{
 		fputs(msg, s_fp);
 		fputs("\n\n", s_fp);
