@@ -1,3 +1,7 @@
+-- luajit shape_dec.lua data/shapes).dat shapes).tga
+-- luajit shape_dec.lua data/shapesW.dat shapesW.tga
+-- luajit shape_dec.lua data/shapesX.dat shapesX.tga
+-- luajit shape_dec.lua data/shapesY.dat shapesY.tga
 -- luajit shape_dec.lua data/shapesZ.dat shapesZ.tga
 --[[ tga header
 00: 00

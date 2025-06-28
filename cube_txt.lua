@@ -1,3 +1,9 @@
+-- luajit cube_txt.lua data/cubetxt1.dat cubetxt1.txt
+-- luajit cube_txt.lua data/cubetxt2.dat cubetxt2.txt
+-- luajit cube_txt.lua data/cubetxt3.dat cubetxt3.txt
+-- luajit cube_txt.lua data/cubetxt4.dat cubetxt4.txt
+-- luajit cube_txt.lua data/cubetxt5.dat cubetxt5.txt
+
 local f = io.open(arg[2], "wb")
 local s = 0
 local t = {}

@@ -1,4 +1,8 @@
--- luajit lvl_dec.lua data/tyrian1.lvl
+-- luajit lvl_dec.lua data/tyrian1.lvl > level1.txt
+-- luajit lvl_dec.lua data/tyrian2.lvl > level2.txt
+-- luajit lvl_dec.lua data/tyrian3.lvl > level3.txt
+-- luajit lvl_dec.lua data/tyrian4.lvl > level4.txt
+-- luajit lvl_dec.lua data/tyrian5.lvl > level5.txt
 --[[ map tiles
 tile_size : 24 * 28
 tile_count: 14/15 * 600 (360 * 16800)
@@ -113,11 +117,11 @@ end
 
 outln("level_count[2]: %d", read2("n") / 2)
 for i = 0, var.n / 2 - 1 do
-	outln("  level_%03d_offset[4]: %06X %06X", i, read4("offsetA" .. i), read4("offsetB" .. i))
+	outln("  level_%02d_offset[4]: %06X %06X", i+1, read4("offsetA" .. i), read4("offsetB" .. i))
 end
 for i = 0, var.n / 2 - 1 do
 	pos = var["offsetA" .. i]
-	outln("level_%03d", i)
+	outln("level_%02d", i+1)
 	outln("  char_map_file  [1]: %s", char(read1()))
 	outln("  char_shape_file[1]: %s -- shapes%s.dat", char(read1("sn")), char(var.sn))
 	outln("  map_x[2*3]: %d,%d,%d", read2(), read2(), read2())
