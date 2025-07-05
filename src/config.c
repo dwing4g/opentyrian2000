@@ -99,7 +99,7 @@ static const char *const mouseSettingValues[] =
 };
 
 char defaultHighScoreNames[39][23]; /* [1..39] of string [22] */
-char defaultTeamNames[10][25]; /* [1..22] of string [24] */
+char defaultTeamNames[10][36]; /* [1..22] of string [35] */
 
 const JE_EditorItemAvailType initialItemAvail =
 {
@@ -762,7 +762,7 @@ const char *get_user_directory(void)
 			}
 		}
 #else
-		strcpy(user_dir, ".");
+		strcpy(user_dir, "data");
 #endif
 	}
 	

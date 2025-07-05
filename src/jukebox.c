@@ -34,6 +34,8 @@
 
 #include <stdio.h>
 
+#include "font_chs.h"
+
 void jukebox(void)  // FKA Setup.jukeboxGo
 {
 	bool trigger_quit = false,  // true when user wants to quit
@@ -104,9 +106,9 @@ void jukebox(void)  // FKA Setup.jukeboxGo
 			
 			const int x = VGAScreen->w / 2;
 			
-			draw_font_hv(VGAScreen, x, 170, "Press ESC to quit the jukebox.",           small_font, centered, 1, 0);
-			draw_font_hv(VGAScreen, x, 180, "Arrow keys change the song being played.", small_font, centered, 1, 0);
-			draw_font_hv(VGAScreen, x, 190, buffer,                                     small_font, centered, 1, 4);
+			draw_font_hv(VGAScreen, x, 164, translate("Press ESC to quit the jukebox."),           small_font, centered, 1, 0);
+			draw_font_hv(VGAScreen, x, 176, translate("Arrow keys change the song being played."), small_font, centered, 1, 0);
+			draw_font_hv(VGAScreen, x, 188, buffer,                                                small_font, centered, 1, 4);
 		}
 
 		if (palette_fade_steps > 0)

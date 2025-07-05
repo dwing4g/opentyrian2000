@@ -55,6 +55,8 @@
 #include <ctype.h>
 #include <string.h>
 
+#include "font_chs.h"
+
 bool button[4];
 
 #define MAX_PAGE 8
@@ -78,7 +80,7 @@ void JE_drawTextWindow(const char *text)
 		blit_sprite(VGAScreenSeg, 16, 189, OPTION_SHAPES, 36);  // in-game text area
 
 	textErase = 100;
-	JE_outText(VGAScreenSeg, 20, 190, text, 0, 4);
+	JE_outText(VGAScreenSeg, 20, 188, text, 0, 4);
 }
 
 void JE_outCharGlow(JE_word x, JE_word y, const char *s)
@@ -103,7 +105,7 @@ void JE_outCharGlow(JE_word x, JE_word y, const char *s)
 	}
 	else
 	{
-		maxloc = strlen(s);
+		maxloc = strlen_utf8(s);
 		for (z = 0; z < 60; z++)
 		{
 			glowcol[z] = -8;
@@ -111,19 +113,25 @@ void JE_outCharGlow(JE_word x, JE_word y, const char *s)
 		}
 
 		loc = x;
+#if ENABLE_CHS
+		const char* p = s;
+#endif
 		for (z = 0; z < maxloc; z++)
 		{
 			textloc[z] = loc;
-
+#if ENABLE_CHS
+			loc += char_advance(next_utf8_char(&p));
+#else
 			int sprite_id = font_ascii[(unsigned char)s[z]];
 
 			if (s[z] == ' ')
 				loc += 6;
 			else if (sprite_id != -1)
 				loc += sprite(TINY_FONT, sprite_id)->width + 1;
+#endif
 		}
 
-		for (loc = 0; (unsigned)loc < strlen(s) + 28; loc++)
+		for (loc = 0; (unsigned)loc < maxloc + 28; loc++)
 		{
 			if (!ESCPressed)
 			{
@@ -133,13 +141,24 @@ void JE_outCharGlow(JE_word x, JE_word y, const char *s)
 
 				int sprite_id = -1;
 
-				for (z = loc - 28; z <= loc; z++)
+				z = loc - 28;
+#if ENABLE_CHS
+				p = s;
+				for (int i = 0; i < z; i++)
+					next_utf8_char(&p);
+#endif
+				for (; z <= loc; z++)
 				{
 					if (z >= 0 && z < maxloc)
 					{
+#if ENABLE_CHS
+						sprite_id = next_utf8_char(&p);
+						if (sprite_id > 0)
+#else
 						sprite_id = font_ascii[(unsigned char)s[z]];
 
 						if (sprite_id != -1)
+#endif
 						{
 							blit_sprite_hv(VGAScreen, textloc[z], y, TINY_FONT, sprite_id, bank, glowcol[z]);
 
@@ -149,7 +168,11 @@ void JE_outCharGlow(JE_word x, JE_word y, const char *s)
 						}
 					}
 				}
+#if ENABLE_CHS
+				if (sprite_id > 0 && --z < maxloc)
+#else
 				if (sprite_id != -1 && --z < maxloc)
+#endif
 					blit_sprite_dark(VGAScreen, textloc[z] + 1, y + 1, TINY_FONT, sprite_id, true);
 
 				if (JE_anyButton())
@@ -419,70 +442,70 @@ static bool helpSystemPage(Uint8 *topic, bool *restart)
 		JE_char buffer[128];
 
 		snprintf(buffer, sizeof buffer, "%s %d", miscText[24], page - topicStart[*topic - 1] + 1);
-		draw_font_hv(VGAScreen, 10, 192, buffer, small_font, left_aligned, 13, 5);
+		draw_font_hv(VGAScreen, 10, 188, buffer, small_font, left_aligned, 13, 5);
 
 		snprintf(buffer, sizeof buffer, "%s %d of %d", miscText[25], page, MAX_PAGE);
-		draw_font_hv(VGAScreen, 320 - 10, 192, buffer, small_font, right_aligned, 13, 5);
+		draw_font_hv(VGAScreen, 320 - 10, 188, buffer, small_font, right_aligned, 13, 5);
 
 		// Draw text.
 
 		helpBoxBrightness = 3;
-		verticalHeight = 8;
+		verticalHeight = 12;
 
 		switch (page)
 		{
 		case 1: /* One-Player Menu */
-			JE_HBox(VGAScreen, 10,  20,  2, 60);
-			JE_HBox(VGAScreen, 10,  50,  5, 60);
-			JE_HBox(VGAScreen, 10,  80, 21, 60);
-			JE_HBox(VGAScreen, 10, 110,  1, 60);
-			JE_HBox(VGAScreen, 10, 140, 28, 60);
+			JE_HBox(VGAScreen, 10,  20,  2, 75);
+			JE_HBox(VGAScreen, 10,  60,  5, 75);
+			JE_HBox(VGAScreen, 10,  90, 21, 75);
+			JE_HBox(VGAScreen, 10, 120,  1, 75);
+			JE_HBox(VGAScreen, 10, 140, 28, 75);
 			break;
 		case 2: /* Two-Player Menu */
-			JE_HBox(VGAScreen, 10,  20,  1, 60);
-			JE_HBox(VGAScreen, 10,  60,  2, 60);
-			JE_HBox(VGAScreen, 10, 100, 21, 60);
-			JE_HBox(VGAScreen, 10, 140, 28, 60);
+			JE_HBox(VGAScreen, 10,  20,  1, 75);
+			JE_HBox(VGAScreen, 10,  40,  2, 75);
+			JE_HBox(VGAScreen, 10,  90, 21, 75);
+			JE_HBox(VGAScreen, 10, 120, 28, 75);
 			break;
 		case 3: /* Upgrade Ship */
-			JE_HBox(VGAScreen, 10,  20,  5, 60);
-			JE_HBox(VGAScreen, 10,  70,  6, 60);
-			JE_HBox(VGAScreen, 10, 110,  7, 60);
+			JE_HBox(VGAScreen, 10,  20,  5, 75);
+			JE_HBox(VGAScreen, 10,  60,  6, 75);
+			JE_HBox(VGAScreen, 10, 110,  7, 75);
 			break;
 		case 4:
-			JE_HBox(VGAScreen, 10,  20,  8, 60);
-			JE_HBox(VGAScreen, 10,  55,  9, 60);
-			JE_HBox(VGAScreen, 10,  87, 10, 60);
-			JE_HBox(VGAScreen, 10, 120, 11, 60);
-			JE_HBox(VGAScreen, 10, 170, 13, 60);
+			JE_HBox(VGAScreen, 10,  20,  8, 75);
+			JE_HBox(VGAScreen, 10,  60,  9, 75);
+			JE_HBox(VGAScreen, 10,  90, 10, 75);
+			JE_HBox(VGAScreen, 10, 130, 11, 75);
+			JE_HBox(VGAScreen, 10, 170, 13, 75);
 			break;
 		case 5:
-			JE_HBox(VGAScreen, 10,  20, 14, 60);
-			JE_HBox(VGAScreen, 10,  80, 15, 60);
-			JE_HBox(VGAScreen, 10, 120, 16, 60);
+			JE_HBox(VGAScreen, 10,  20, 14, 75);
+			JE_HBox(VGAScreen, 10,  80, 15, 75);
+			JE_HBox(VGAScreen, 10, 120, 16, 75);
 			break;
 		case 6:
-			JE_HBox(VGAScreen, 10,  20, 17, 60);
-			JE_HBox(VGAScreen, 10,  40, 18, 60);
-			JE_HBox(VGAScreen, 10, 130, 20, 60);
+			JE_HBox(VGAScreen, 10,  20, 17, 75);
+			JE_HBox(VGAScreen, 10,  50, 18, 75);
+			JE_HBox(VGAScreen, 10, 130, 20, 75);
 			break;
 		case 7: /* Options */
-			JE_HBox(VGAScreen, 10,  20, 21, 60);
-			JE_HBox(VGAScreen, 10,  70, 22, 60);
-			JE_HBox(VGAScreen, 10, 110, 23, 60);
-			JE_HBox(VGAScreen, 10, 140, 24, 60);
+			JE_HBox(VGAScreen, 10,  20, 21, 75);
+			JE_HBox(VGAScreen, 10,  50, 22, 75);
+			JE_HBox(VGAScreen, 10,  90, 23, 75);
+			JE_HBox(VGAScreen, 10, 130, 24, 75);
 			break;
 		case 8:
-			JE_HBox(VGAScreen, 10,  20, 25, 60);
-			JE_HBox(VGAScreen, 10,  60, 26, 60);
-			JE_HBox(VGAScreen, 10, 100, 27, 60);
-			JE_HBox(VGAScreen, 10, 140, 28, 60);
-			JE_HBox(VGAScreen, 10, 170, 29, 60);
+			JE_HBox(VGAScreen, 10,  20, 25, 75);
+			JE_HBox(VGAScreen, 10,  58, 26, 75);
+			JE_HBox(VGAScreen, 10,  96, 27, 75);
+			JE_HBox(VGAScreen, 10, 134, 28, 75);
+			JE_HBox(VGAScreen, 10, 160, 29, 75);
 			break;
 		}
 
 		helpBoxBrightness = 1;
-		verticalHeight = 7;
+		verticalHeight = 12;
 
 		if (*restart)
 		{
@@ -696,7 +719,7 @@ bool JE_loadScreen(void)
 			{
 				JE_textShade(VGAScreen, xMenuItemName, y, saveFile->name, 13, selected ? 6 : 2, FULL_SHADE);
 
-				snprintf(buffer, sizeof buffer, "%s %s", miscTextB[2], saveFile->levelName);
+				snprintf(buffer, sizeof buffer, "%s %s", miscTextB[2], translate(saveFile->levelName));
 				JE_textShade(VGAScreen, xMenuItemLastLevel, y, buffer, 5, selected ? 6 : 2, FULL_SHADE);
 
 				snprintf(buffer, sizeof buffer, "%s %u", miscTextB[1], saveFile->episode);
@@ -716,7 +739,7 @@ bool JE_loadScreen(void)
 			blit_sprite2x2(VGAScreen, xRightControl, yControls, shopSpriteSheet, 281);
 
 		helpBoxColor = 15;
-		JE_helpBox(VGAScreen, 103, 182, miscText[55], 25);
+		JE_helpBox(VGAScreen, 103, 182, miscText[55], 60);
 
 		if (restart)
 		{
@@ -1176,7 +1199,7 @@ void JE_highScoreScreen(void)
 
 		for (Uint8 i = 0; i < 3; ++i)
 		{
-			const int y = 75 + 10 * i;
+			const int y = 70 + 12 * i;
 
 			if (t2kHighScores[boardOnePlayer][i].difficulty > 9)
 				t2kHighScores[boardOnePlayer][i].difficulty = 0;
@@ -1198,7 +1221,7 @@ void JE_highScoreScreen(void)
 
 			for (Uint8 i = 0; i < 3; ++i)
 			{
-				const int y = 135 + 10 * i;
+				const int y = 135 + 12 * i;
 
 				if (t2kHighScores[boardTwoPlayer][i].difficulty > 9)
 					t2kHighScores[boardTwoPlayer][i].difficulty = 0;
@@ -1226,7 +1249,7 @@ void JE_highScoreScreen(void)
 			blit_sprite2x2(VGAScreen, xRightControl, yControls, shopSpriteSheet, 281);
 
 		helpBoxColor = 15;
-		JE_helpBox(VGAScreen, 103, 182, miscText[56], 25);
+		JE_helpBox(VGAScreen, 103, 182, miscText[56], 60);
 
 		if (restart)
 		{
@@ -1943,26 +1966,26 @@ void JE_inGameHelp(void)
 		blit_sprite(VGAScreenSeg, 2, 21, OPTION_SHAPES, 43);
 		helpBoxColor = 5;
 		helpBoxBrightness = 3;
-		JE_HBox(VGAScreen, 55, 20, 37, 40);
+		JE_HBox(VGAScreen, 55, 18, 37, 60);
 
 		// sidekick help
 		blit_sprite(VGAScreenSeg, 5, 36, OPTION_SHAPES, 41);
 		helpBoxColor = 5;
 		helpBoxBrightness = 3;
-		JE_HBox(VGAScreen, 40, 43, 34, 44);
+		JE_HBox(VGAScreen, 40, 44, 34, 60);
 
 		// shield/armor help
 		blit_sprite(VGAScreenSeg, 2, 79, OPTION_SHAPES, 42);
 		helpBoxColor = 5;
 		helpBoxBrightness = 3;
-		JE_HBox(VGAScreen, 54, 84, 35, 40);
+		JE_HBox(VGAScreen, 54, 82, 35, 60);
 
 		helpBoxColor = 5;
 		helpBoxBrightness = 3;
-		JE_HBox(VGAScreen, 5, 126, 38, 55);
+		JE_HBox(VGAScreen, 5, 124, 38, 60);
 		helpBoxColor = 5;
 		helpBoxBrightness = 3;
-		JE_HBox(VGAScreen, 5, 160, 39, 55);
+		JE_HBox(VGAScreen, 5, 160, 39, 60);
 	}
 	else
 	{
@@ -1970,33 +1993,33 @@ void JE_inGameHelp(void)
 		blit_sprite(VGAScreenSeg, 15, 5, OPTION_SHAPES, 40);
 		helpBoxColor = 5;
 		helpBoxBrightness = 3;
-		JE_HBox(VGAScreen, 40, 10, 31, 45);
+		JE_HBox(VGAScreen, 40, 10, 31, 60);
 
 		// weapon help
 		blit_sprite(VGAScreenSeg, 5, 37, OPTION_SHAPES, 39);
 		helpBoxColor = 5;
 		helpBoxBrightness = 3;
-		JE_HBox(VGAScreen, 40, 40, 32, 44);
+		JE_HBox(VGAScreen, 40, 36, 32, 60);
 		helpBoxColor = 5;
 		helpBoxBrightness = 3;
-		JE_HBox(VGAScreen, 40, 60, 33, 44);
+		JE_HBox(VGAScreen, 40, 60, 33, 60);
 
 		// sidekick help
 		blit_sprite(VGAScreenSeg, 5, 98, OPTION_SHAPES, 41);
 		helpBoxColor = 5;
 		helpBoxBrightness = 3;
-		JE_HBox(VGAScreen, 40, 103, 34, 44);
+		JE_HBox(VGAScreen, 40, 100, 34, 60);
 
 		// shield/armor help
 		blit_sprite(VGAScreenSeg, 2, 138, OPTION_SHAPES, 42);
 		helpBoxColor = 5;
 		helpBoxBrightness = 3;
-		JE_HBox(VGAScreen, 54, 143, 35, 40);
+		JE_HBox(VGAScreen, 54, 143, 35, 60);
 	}
 
 	// "press a key"
 	blit_sprite(VGAScreenSeg, 16, 189, OPTION_SHAPES, 36);  // in-game text area
-	JE_outText(VGAScreenSeg, 120 - JE_textWidth(miscText[5-1], TINY_FONT) / 2 + 20, 190, miscText[5-1], 0, 4);
+	JE_outText(VGAScreenSeg, 120 - JE_textWidth(miscText[5-1], TINY_FONT) / 2 + 20, 188, miscText[5-1], 0, 4);
 
 	do
 	{
@@ -2733,16 +2756,16 @@ void JE_endLevelAni(void)
 
 	if (bonusLevel)
 	{
-		JE_outTextGlow(VGAScreenSeg, 20, 20, miscText[17-1]);
+		JE_outTextGlow(VGAScreenSeg, 20, 20, untranslate(miscText[17-1]));
 	}
 	else if (all_players_alive())
 	{
-		sprintf(tempStr, "%s %s", miscText[27-1], levelName); // "Completed"
+		sprintf(tempStr, "%s %s", untranslate(miscText[27-1]), untranslate(levelName)); // "Completed"
 		JE_outTextGlow(VGAScreenSeg, 20, 20, tempStr);
 	}
 	else
 	{
-		sprintf(tempStr, "%s %s", miscText[62-1], levelName); // "Exiting"
+		sprintf(tempStr, "%s %s", untranslate(miscText[62-1]), untranslate(levelName)); // "Exiting"
 		JE_outTextGlow(VGAScreenSeg, 20, 20, tempStr);
 	}
 
@@ -2750,26 +2773,26 @@ void JE_endLevelAni(void)
 	{
 		for (uint i = 0; i < 2; ++i)
 		{
-			snprintf(tempStr, sizeof(tempStr), "%s %lu", miscText[40 + i], player[i].cash);
+			snprintf(tempStr, sizeof(tempStr), "%s %lu", untranslate(miscText[40 + i]), player[i].cash);
 			JE_outTextGlow(VGAScreenSeg, 30, 50 + 20 * i, tempStr);
 		}
 	}
 	else
 	{
-		sprintf(tempStr, "%s %lu", miscText[28-1], player[0].cash);
+		sprintf(tempStr, "%s %lu", untranslate(miscText[28-1]), player[0].cash);
 		JE_outTextGlow(VGAScreenSeg, 30, 50, tempStr);
 	}
 
 	if (timedBattleMode)
 	{
 		x = (levelTimerCountdown / 10) * 100;
-		sprintf(tempStr, "%s %d", miscTextB[6], x);
+		sprintf(tempStr, "%s %d", untranslate(miscTextB[6]), x);
 		JE_outTextGlow(VGAScreenSeg, 40, 75, tempStr);
 		player[0].cash += x;
 	}
 
 	temp = (totalEnemy == 0) ? 0 : roundf(enemyKilled * 100 / totalEnemy);
-	sprintf(tempStr, "%s %d%%", miscText[63-1], temp);
+	sprintf(tempStr, "%s %d%%", untranslate(miscText[63-1]), temp);
 	JE_outTextGlow(VGAScreenSeg, 40, 90, tempStr);
 
 	if (!constantPlay)
@@ -2811,13 +2834,13 @@ void JE_endLevelAni(void)
 			}
 		}
 		x = *player[0].lives * 1000;
-		sprintf(tempStr, "%s %d", miscTextB[7], x);
+		sprintf(tempStr, "%s %d", untranslate(miscTextB[7]), x);
 		JE_outTextGlow(VGAScreenSeg, 120, 120, tempStr);
 		player[0].cash += x;
 	}
 	else if (!onePlayerAction && !twoPlayerMode)
 	{
-		JE_outTextGlow(VGAScreenSeg, 30, 120, miscText[4-1]);   /*Cubes*/
+		JE_outTextGlow(VGAScreenSeg, 30, 120, untranslate(miscText[4-1]));   /*Cubes*/
 
 		if (cubeMax > 0)
 		{
@@ -2867,7 +2890,7 @@ void JE_endLevelAni(void)
 		}
 		else
 		{
-			JE_outTextGlow(VGAScreenSeg, 50, 135, miscText[15-1]);
+			JE_outTextGlow(VGAScreenSeg, 50, 135, untranslate(miscText[15-1]));
 		}
 
 	}
@@ -2882,7 +2905,7 @@ void JE_endLevelAni(void)
 		temp = 0;
 	}
 	temp2 = twoPlayerMode ? 150 : 160;
-	JE_outTextGlow(VGAScreenSeg, 90, temp2, miscText[5-1]);
+	JE_outTextGlow(VGAScreenSeg, 90, temp2, untranslate(miscText[5-1]));
 
 	if (!constantPlay)
 	{

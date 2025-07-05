@@ -1,0 +1,1447 @@
+                                                     dNb
+                                                    dNNP
+  .eNNNNNNNNNNNNNo                                 dNNN
+ dNN"      dNNP  _oNNNc oNNNNNNP dNNNNNo    dNNP  dNNNNb    dNNNNNNo
+ `F       dNNP  dNN"`NN "; 8NN~ dNP  "NND  dNNP  dNV"NNN   dNP   dNP
+         dNNP  dNF   NNN dNN~  dNP .odN~  dNNP  dNV  dNN  dNP   dNP       .
+         ONNbedNF    "NNNNP   dNP  "NNNeeNNNP ,NNNNe8"dNNdNP   dNP       ,ND
+          """""       dNN'   """     """""""""""""""   """"  ,dNP    .,eNNP
+                     dNF'                                  """""""""""""""
+                    !NNb            Semi-official Frequently Asked Questions
+                     "NNb           v0.71
+                        ""  (Semi-official because the Tyrian author thinks
+                             I'm odd <G>)
+
+As the version number implies, this FAQ is still developing.  Some
+information may be wrong, and some may be missing.  If you find one of
+these, please don't jump around and say "How dare I write a FAQ with an
+error in it..."..  send me the correction, and make the FAQ better,
+as well as getting yourself a place in the list of contributors!
+
+Note:  PC GAMER, for some reason, decided to put FAQ v0.41 on their
+Dec/Jan '95/'96 coverdisk (without talking to me) even though it was long
+obsolete by then.  Please drop me a note if you want to distribute the
+FAQ in non-network form; this isn't for legal reasons, it's just so I can
+send you the most up to date version!
+
+  Contributors:
+    Zach Keene                (fnlfanatic@aol.com)
+    Joseph Ball               (darco@aol.com)
+    Eric Chung                (achung@ix.netcom.com)
+    J.D.Collins               (jdcollin@ucsd.edu)
+    Mike Marcelais            (mrmarcel@eos.ncsu.edu)
+    Neal Miller               (millen3@rpi.edu)
+    Christopher Nice          (CN3612@aol.com)
+    Jared Ong                 (jong@owl.csusm.edu)
+    Paul Patricio             (ppatrici@mail.vt.edu)
+    Andy Shawaluk             (andys@solaria.mil.wi.us)
+    Andrew Schultz            (schultzaj@centum.utulsa.edu)
+    Vincent "Dr. Wily" Torre  (vtorre@skull.castle.siberia.unk)
+    Adam Williamson           (adam@scss.demon.co.uk)
+    Daniel ("Venom")          (venom@highnrg.sbay.org)
+    Sammael                   (sammael@zipnet.com)
+    Jim Youngblood            (jry@pinn.net)
+    James Johnson             (jejohnsn@mail.erols.com)
+    "Conrad"                  (CompKid486@aol.com)
+    Doug "Satan is Cheese
+      Whiz" (!) Martin        (dmartin@pomona.edu)
+    "Mike"/Baoping He         (he@saturn.med.nyu.edu)
+    Unknown                   (cdtyaggy@aol.com)
+    "Panx of Dupa"            (panx@mcs.com)
+    Ron Powell                (ronp@online1.magnus1.com)
+    Unknown                   (ac907@dial.pipex.com)
+
+INTERESTING FACT: At least 3 of the contributors, several of whom have
+been helping since the beginning, are in the aol.com domain.  So for all
+you people who discriminate by ISP...
+
+  Maintained by Mark Green  (mark@antelope.demon.co.uk)
+    * NOTE: The above is my personal address. Updates should be sent to
+            tyrian@antelope.demon.co.uk.  Please do NOT always expect
+            a reply to updates - I am very busy at the moment, but you
+            will always be credited if your material is used in the FAQ.
+            For people who wanted updates - I want to look into making a
+            mailinglist for FAQ updates, but I need to do some research
+            on that; I'll get back to y'all.
+  Ascii Logo by Rex Mendoza (rex.mendoza@789.gigo.com)
+
+  Thanks to you all (especially for not flaming me when you corrected the
+really blatant mistakes ;) ); without your help I'd never have made this!
+And thanks especially to Epic, for making this cool game!
+
+  NOTE:  This FAQ now applies to Tyrian v2.0.  Some secrets listed may
+  not work in v1.0 or v1.1.  If you have Shareware release v1.0 or v1.1, you
+  can probably find an update wherever you found the game.  Epic will
+  upgrade registered v1.1 copies to v2.0 for a nominal fee.
+    If your registered CD has the words "Manufactured in USA" on it, it's
+  v1.1.  Otherwise, it's v2.0.
+
+
+The NEW, IMPROVED Index
+  (To find a topic quickly with a text search, search for the number in
+   square brackets.)
+
+[1]  What is Tyrian?
+[2]  Where can I get the Shareware version of Tyrian?
+[3]  How much is in the game?
+[4]  What's the difference between these play modes?
+[5]  Sometimes I find the ship constantly moves in one direction.  What's
+     happening?
+[6]  Are there any other bugs?
+[7]  What happens when I finish the game?
+[8]  How do I get the registered version?
+[9]  What's the best ship configuration to get?
+[10] How much are those purple bubbles in Arcade mode worth?
+[11] What are these special weapons?
+[12] Where are the secret levels?
+[13] What are these secret tips?
+[14] Ok, I've won on Hard, now what?
+[15] How can I quickly power up my weapons?
+[16] Help!  My ship just turned into a carrot!  What's going on!?
+[17] Can I use my arcade mode weapons in full game mode?  Or vice versa?
+[18] Can I do anything with Super Arcade Mode weapons or ships?
+[19] What's a twiddle weapon?  How do I use them?
+[20] How do I play Super Arcade mode?
+[21] How do I play Super Tyrian?
+[22] Is there any way I can cheat?
+[23] What is Destruct, and how do I play that?
+[24] Miscellaneous useful stuff.
+[25] The "Why the HELL would you want to do THAT!?" awards.
+[26] Completely useless trivia.
+[27] Rumours.
+
+[1]  What is Tyrian?
+  Tyrian is the latest game from Epic MegaGames; it is a vertically
+scrolling Shoot'em'up game with considerably more features than any
+other one on the PC.  It features a complex exchangable weapon system
+allowing up to 300 different combinations of weapons, and several
+different forms of play.  And it's a darn good game, too. ;)
+
+[2]  Where can I get the shareware version of Tyrian?
+  Most major ftp sites should have a copy by now.  It can be found, in
+particular, on ftp.uml.edu, or wuarchive.wustl.edu, either in the games
+uploads directory, or the Epic MegaGames specific directory.
+  Users in the UK may prefer to get their copy from ftp.doc.ic.ac.uk or
+ftp.demon.co.uk.
+
+[3]  How much is in the game?
+  The shareware version is a 1.3mb zip file.  The shareware version of the
+game contains 7 standard levels and several more secret levels.  All of the
+play modes are active.
+  The registered version is 9mb in total, or 10mb for v2.0, provided either
+on multiple disks or on Cd-Rom.
+  The main differences between v2.0 and v1.1 are as follows:
+
+- SuperTyrian is accessible;
+- There are more weapons and ships available;
+- Bosses have a visible life bar;
+- An indicator is shown to show when special weapons are available;
+- "Bubbles" is now the only secret level from Tyrian accessible in the
+  unregistered version (there's a datacube telling you this; yes, the
+  cube turns up even in the registered version.. gee, thanks <G>).
+  This is because the extra two levels have been added at the end.
+- The fourth episode, "The end of Fate" is added; (registered only)
+- There is a custom ship editor program included; (registered only)
+
+  The map of the levels is as follows:
+
+EPISODE 1 (all secrets found):
+
+     ----- Link
+     --S-- Secret link
+     --A-- Link followed automatically if not in Full Game Mode
+     --* *-- Overlap - no actual connection
+
+     /----S--> Soh Jin              /--S-> Asteroid ?--\
+     |            V                 |        ^         V
+     |----------->+---------> Asteroid 1 ---*|*------> Savara ---\
+     |            ^      |                   S      |  ^         |
+  Tyrian          |      \A-> Asteroid 2 ---*|*-----/  |         V
+     |            |----\            |        |         |       Bonus
+     |----S--> Bubbles |            \--S-> MineMaze----/         |
+     |            /----|                                         V
+     |----S--> Holes   |                                       Mines
+     |           /-----/                                         |
+     \----S--> Windy                                             V
+                                                              Deliani
+                                                                 |
+                                                                 V
+                                                              Savara V
+                                                                 |
+                                                                 V
+                                                              Assassin
+                                                                 |
+                                                                 V
+                                                              ** ALE **
+                                                               ^ |
+                                                               \-/
+   (15 levels)
+
+Shortest route:  Tyrian -> Either asteroid -> Savara -> Bonus -> Mines
+                 -> Deliani (6 levels, 50%)
+Longest route:   Tyrian -> SohJin, Bubbles, Holes or Windy -> Asteroid 2 ->
+                 MineMaze -> Asteroid ? -> Savara -> Bonus -> Mines -> Deliani
+                 (9 levels, 75%)
+
+EPISODE 2:
+
+              /--> Gem War ---> Markers ---/--> Mistakes ----\
+              S                            S                 |
+              |                            |                 V
+  Torm ----> Gyges ----> Bonus ----> Asteroid City ----> Soh Jin
+                                                          |   |
+                                                          |   A
+                                         /--- Botany A <--/   |
+                             Gryphon <---|                    |
+                              (End)      \--- Botany B <------/
+
+EPISODE 3:
+                                             /-S-->  (not known yet)
+                                             |
+                                             /-S--> Sawblades ---------\
+                                             |                         V
+Gauntlet --> Ixmucane --> Bonus --> Stargate ------------------------>Camanis
+                                             |                         ^  |
+                                             \-S--> Asteroid City -----/  |
+                                                                          |
+                                                                          |
+                                                                          V
+New Deli <---S--- Savara-Y <---S--- Tyrian-X <---S--- Fleet <---------- Maces
+  (End)                                         (End if no secret)     (Bonus)
+
+EPISODE 4  (An End to Fate)
+
+
+Surface --> Lava Run --> Core --> Lava Exit --S--> Desertrun --> Harvest
+                                            |                 |     |
+            V------\                        \-----------------/     V
+        Squadron --/                                            Underdeli
+         ^  (End)                                                   |
+         |                                                          V
+    Nose Drip <- Brainiac <- Eyespy <- Dread-Not <- Savara Iv <- Approach
+
+  The items available in the full game are as follows; note that other items
+are available in Arcade mode, but some weapons are never available in the
+unregistered version.  The Availability field indicates from which levels you
+may buy the weapon; an X indicates that the weapon may be bought immediately
+BEFORE you fly that level.  Note: The weapon(s) you possess can ALWAYS be
+sold/upgraded, wherever you are.
+
+EPISODE 1  (Escape)
+
+Abbreviations:
+TYrian BUbbles HOles SOhjin ASteroid1/2 Asteroid? mineMaZe SAvara BOnus MInes
+DEliani WIndy
+
+Ship                          Availability                        Cost Armor
+                      Ty Bu Ho So As A? Mz Sa Bo Mi De Wi
+Talon                  x  x  x  x  x  x  x  x  x  x  x  x         6000     3
+Fang                      x  x     x  x  x     x  x  x  x         8000   4.5
+Silver                                                            8000     3
+U-Ship                                                            8000   2.5
+Stalker                                                          10000     5
+Phoenix                         x                 x  x           12000   5.5
+Maelstrom                                                        15000   6.5
+MicroCorp Stalker                                                20000     8
+Stalker-B                                                        25000     9
+Stalker-C                                                        50000     9
+SuperCarrot                                                      65000   8.5
+NortShip Z                                                       65000    10
+
+Front Gun                     Availability                        Cost
+                      Ty Bu Ho So As A? Mz Sa Bo Mi De Wi
+PulseCannon                  x              x        x             500
+Vulcan Cannon          x  x  x  x  x           x  x  x  x          600
+Protron                x           x              x                600
+MultiCannon            x  x     x  x  x  x  x  x  x  x  x          750
+Widget Beam                                                        750
+Missile Launcher                      x  x  x  x                   850
+Mega Pulse                x                             x          900
+Starburst                                                          900
+Laser                                                              950
+Banana Blast                                                       950
+Mega Cannon                              x                        1000
+Heavy Missile                x  x     x                           1000
+Lightning Cannon                                                  1000
+Hyper Pulse                  x                                    1050
+Hot Dog Front                                                     1100
+Zica Laser                                                        1100
+
+Rear Gun                      Availability                        Cost
+                      Ty Bu Ho So As A? Mz Sa Bo Mi De Wi
+Vulcan Cannon                   x        x  x  x     x             500
+Protron                      x  x  x  x  x  x  x                   650
+MultiCannon            x  x  x        x           x  x  x          750
+Wild Ball                          x                               800
+Starburst                 x                             x          900
+Rear Mega Pulse                 x                                  900
+Scatter Wave                                                       900
+Sonic Wave             x  x     x  x  x  x  x  x  x  x  x          950
+Heavy Guided Bomb      x                    x                     1000
+Fireball                                       x  x  x            1000
+Rear Heavy Missile                                                1000
+Guided MicroBomb             x                                    1100
+Hot Dog Rear                                                      1100
+Banana Blast Rear                                                 1100
+
+Shield                         Availability                        Cost Energ
+                      Ty Bu Ho So As A? Mz Sa Bo Mi De Wi
+Structural Field       x        x                                   100     2
+Advanced Field         x        x  x              x                 250     3
+Gencore Low            x  x  x     x  x  x  x  x  x  x  x           500     4
+Gencore High           x  x  x  x  x  x  x  x  x  x  x  x          1000     5
+Microcorp LXS A           x  x     x  x  x  x  x  x  x  x          2000     6
+Microcorp LXS B                                                    4000     7
+Microcorp LXS C                                                    5000     9
+Microcorp HXS A                                                   12000    10
+Microcorp HXS B                 x                                 20000    12
+
+Generator                         Availability                     Cost Power
+                      Ty Bu Ho So As A? Mz Sa Bo Mi De Wi
+MR-9                   x  x  x  x  x        x     x  x  x           500 Lo
+MR-12                  x  x  x  x  x  x  x  x  x  x  x  x          2000 Med-Lo
+Custom MR-12           x  x  x     x  x  x  x  x  x  x  x          5000 Med
+MicroFusion                     x     x  x  x  x  x  x            10000 Med-Hi
+Advanced MicroFusion                                              15000 Hi
+Graviton PulseWave                                                50000 Inf
+
+Sidekick                          Availability                     Cost
+                      Ty Bu Ho So As A? Mz Sa Bo Mi De Wi
+Mini Missile           x           x  x  x                         1000
+Satellite Marlo                                                    2000
+Single Option             x                    x  x    x           3000
+Side Ship                                                          3000
+Super Missile                               x                      4000
+Microbombs                                     x  x                4000
+MintoShip                                                          5000
+Companion Warfly                                                   5000
+Dual Option                  x              x  x  x  x             6000
+Post-it Mine                                x                      7000
+8-way Microbomb              x                                     7500
+Atom Bomb              x  x     x                      x           8000
+FrontBlaster                                                       8000
+Plasma Storm           x        x                                  8000
+Phoenix Device            x  x     x  x  x        x  x x           8000
+Companion Cherry                                                   8000
+Vulcan Option                      x                              10000
+Companion Gerund                                                  10000
+Protron Indigo                                                    12000
+Buster Rocket                                                     12500
+FrontBlaster II                                                   14000
+Charge Cannon                         x  x                        15000
+Flamethrower                                                      20000
+Wobbley                                                           25000
+Charge Laser                                                      30000
+Protron Tangerine                                                 30000
+Charge Zica                                                       50000
+
+EPISODE 2  (Treachery)
+Abbreviations:
+TOrm GYges BOnus AStcity MIstakes SOhjin BoTany GRyphon
+
+Ship                          Availability                        Cost Armor
+                      To Gy Bo As Mi So Bt Gr
+Talon                  x  x  x     x  x     x                     6000     3
+Fang                            x                                 8000   4.5
+Silver                                                            8000     3
+U-Ship                                                            8000   2.5
+Stalker                                                          10000     5
+Phoenix                x  x  x  x     x  x                       12000   5.5
+Maelstrom                    x  x        x  x                    15000   6.5
+MicroCorp Stalker                     x  x  x                    20000     8
+Stalker-B                          x                             25000     9
+Stalker-C                                                        50000     9
+SuperCarrot                        x                             65000   8.5
+NortShip Z                                                       65000    10
+
+Front Gun                     Availability                        Cost
+                      To Gy Bo As Mi So Bt Gr
+PulseCannon            x     x     x  x  x                         500
+Vulcan Cannon                                                      600
+Protron                x  x                                        600
+MultiCannon               x  x  x     x     x                      750
+Widget Beam                                                        750
+Missile Launcher       x     x                                     850
+Mega Pulse             x        x  x        x                      900
+Starburst                                x                         900
+Laser                                                              950
+Banana Blast                                                       950
+Mega Cannon               x     x        x                        1000
+Heavy Missile                x        x     x                     1000
+Lightning Cannon                                                  1000
+Hyper Pulse                        x                              1050
+Hot Dog Front                                                     1100
+Zica Laser                                                        1100
+
+Rear Gun                      Availability                        Cost
+                      To Gy Bo As Mi So Bt Gr
+Vulcan Cannon             x  x     x     x                         500
+Protron                   x        x     x                         650
+MultiCannon                  x  x        x  x                      750
+Wild Ball                                                          800
+Starburst              x        x     x     x                      900
+Rear Mega Pulse                                                    900
+Scatter Wave           x              x                            900
+Sonic Wave             x  x  x  x  x  x     x                      950
+Heavy Guided Bomb                                                 1000
+Fireball                                                          1000
+Rear Heavy Missile                                                1000
+Guided MicroBomb                                                  1100
+Hot Dog Rear                                                      1100
+Banana Blast Rear                                                 1100
+
+Shield                         Availability                        Cost Power
+                      To Gy Bo As Mi So Bt Gr
+Structural Field                   x                                100     2
+Advanced Field         x           x  x                             250     3
+Gencore Low                        x  x                             500     4
+Gencore High           x  x  x  x  x  x  x  x                      1000     5
+Microcorp LXS A        x  x  x  x        x  x                      2000     6
+Microcorp LXS B           x  x           x                         4000     7
+Microcorp LXS C                                                    5000     9
+Microcorp HXS A                 x           x                     12000    10
+Microcorp HXS B                                                   20000    12
+
+Generator                         Availability                     Cost Power
+                      To Gy Bo As Mi So Bt Gr
+MR-9                   x  x  x  x  x  x                             500 Lo
+MR-12                  x  x  x  x  x  x                            2000 Med-Lo
+Custom MR-12           x  x  x  x     x  x  x                      5000 Med
+MicroFusion                              x  x                     10000 Med-Hi
+Advanced MicroFusion                     x  x                     15000 Hi
+Graviton PulseWave                 x                              50000 Inf
+
+Sidekick                          Availability                     Cost
+                      To Gy Bo As Mi So Bt Gr
+Mini Missile           x        x     x  x                         1000
+Satellite Marlo                                                    2000
+Single Option          x                 x                         3000
+Side Ship              x                                           3000
+Super Missile             x        x        x                      4000
+Microbombs                   x                                     4000
+MintoShip                                                          5000
+Companion Warfly                                                   5000
+Dual Option                     x        x                         6000
+Post-it Mine                                                       7000
+8-way Microbomb                                                    7500
+Atom Bomb                       x  x                               8000
+Plasma Storm                 x                                     8000
+Phoenix Device            x                                        8000
+Companion Cherry                                                   8000
+Companion Gerund                                                  10000
+Vulcan Option                                                     10000
+Protron Indigo                                                    12000
+Buster Rocket                         x                           12500
+FrontBlaster II                                                   14000
+Charge Cannon                      x  x                           15000
+Flamethrower                 x              x                     20000
+Wobbley                                                           25000
+Charge Laser              x                 x                     30000
+Protron Tangerine                                                 30000
+Charge Zica                                                       50000
+
+EPISODE 3:  Mission Suicide
+
+GAuntlet IXmucane BOnus STargate SAwblades CAmanis MAces FLeet TyrianX
+SavaraY NewDeli
+
+Ship                          Availability                        Cost Armor
+                      Ga Ix Bo St Sa Ca Ma Fl Tx Sy Nd
+Talon                  x  x     x        x     x  x               6000     3
+Fang                   x  x  x        x           x               8000   4.5
+Silver                                                            8000     3
+U-Ship                                                            8000   2.5
+Stalker                                                          10000     5
+Phoenix                   x  x  x  x  x  x  x                    12000   5.5
+Maelstrom                    x  x  x  x     x     x              15000   6.5
+MicroCorp Stalker               x  x        x        x           20000     8
+Stalker-B                          x  x     x        x           25000     9
+Stalker-C                                            x           50000     9
+SuperCarrot                                                      65000   8.5
+NortShip Z                                                       65000    10
+
+Front Gun                     Availability                        Cost
+                      Ga Ix Bo St Sa Ca Ma Fl Tx Sy Nd
+PulseCannon            x           x              x                500
+Vulcan Cannon                                                      600
+Protron                x                                           600
+MultiCannon               x  x  x     x     x                      750
+Widget Beam                                                        750
+Missile Launcher       x                                           850
+Mega Pulse             x  x  x  x     x  x  x  x                   900
+Starburst                                                          900
+Laser                                    x           x             950
+Banana Blast                                                       950
+Mega Cannon                                                       1000
+Heavy Missile             x  x  x     x     x                     1000
+Lightning Cannon                   x     x        x  x            1000
+Hyper Pulse                                                       1050
+Hot Dog Front                                                     1100
+Zica Laser                         x           x  x  x            1100
+
+Rear Gun                      Availability                        Cost
+                      Ga Ix Bo St Sa Ca Ma Fl Tx Sy Nd
+Vulcan Cannon                            x                         500
+Protron                                  x                         650
+MultiCannon            x  x  x  x     x     x                      750
+Wild Ball                                      x                   800
+Starburst              x  x  x  x     x  x  x                      900
+Rear Mega Pulse                    x           x  x  x             900
+Scatter Wave                                                       900
+Sonic Wave             x  x  x  x     x     x                      950
+Heavy Guided Bomb                                                 1000
+Fireball                           x              x  x            1000
+Rear Heavy Missile                 x           x  x  x            1000
+Guided MicroBomb                                                  1100
+Hot Dog Rear                                                      1100
+Banana Blast Rear                                                 1100
+
+Shield                         Availability                        Cost Power
+                      Ga Ix Bo St Sa Ca Ma Fl Tx Sy Nd
+Structural Field                                                    100     2
+Advanced Field         x              x        x                    250     3
+Gencore Low                           x        x                    500     4
+Gencore High           x  x  x  x     x  x     x                   1000     5
+Microcorp LXS A        x  x  x  x           x                      2000     6
+Microcorp LXS B           x  x  x  x     x  x     x  x             4000     7
+Microcorp LXS C                    x              x  x             5000     9
+Microcorp HXS A                 x  x     x  x     x  x            12000    10
+Microcorp HXS B                                                   20000    12
+
+Generator                         Availability                     Cost Power
+                      Ga Ix Bo St Sa Ca Ma Fl Tx Sy Nd
+MR-9                   x  x  x  x     x  x                          500 Lo
+MR-12                  x  x  x  x     x  x  x                      2000 Med-Lo
+Custom MR-12           x  x  x  x  x  x  x  x  x  x                5000 Med
+MicroFusion                        x        x  x  x  x            10000 Med-Hi
+Advanced MicroFusion               x        x  x  x  x            15000 Hi
+Graviton PulseWave                                   x            50000 Inf
+
+Sidekick                          Availability                     Cost
+                      Ga Ix Bo St Sa Ca Ma Fl Tx Sy Nd
+Mini Missile              x                                        1000
+Satellite Marlo                                                    2000
+Single Option          x                                           3000
+Side Ship                                            x             3000
+Super Missile                            x                         4000
+Microbombs                         x     x        x                4000
+Mintoship                                                          5000
+Companion Warfly                                                   5000
+Dual Option            x  x  x  x        x  x                      6000
+Post-it Mine                                                       7000
+8-way Microbomb                       x              x             7500
+Atom Bomb                    x  x  x  x           x                8000
+Plasma Storm           x                                           8000
+Phoenix Device            x  x  x     x                            8000
+Frontblaster                                                       8000
+Companion Cherry                                                   8000
+Companion Gerund                                                  10000
+Vulcan Option                               x     x               10000
+Protron Indigo                                                    12000
+Buster Rocket                                                     12500
+FrontBlaster II                                                   14000
+Charge Cannon                      x                              15000
+Flamethrower                                   x                  20000
+Wobbley                                              x            25000
+Charge Laser                                   x                  30000
+Protron Tangerine                                                 30000
+Charge Zica                                 x  x                  50000
+
+The current best-equipped ship available is:
+
+       Hull:   Prototype Stalker, 50000 from New Deli
+       Front:  Zica Laser, 1100 from Sawblades
+       Rear:   Guided Microbomb, 1100 from Holes
+       Shld:   HXS-B, 20000 from Ep.1 Soh Jin
+       Gen:    Graviton PulseWave, 50000 from Mistakes or New Deli
+       Kick:   Charge Zica, 50000 from Fleet
+
+[4]  What's the difference between these play modes?
+  Tyrian offers a large number of different, selectable, modes of play:
+  - Arcade Mode
+  - 2-Player Arcade Mode
+  - Super Arcade Mode
+  - Network/Serial Mode
+  - Full Game Mode
+  There's another hidden game in there, but more on that later... ;)
+  Arcade Mode is basically your standard progressive shoot-em-up game.
+Killing certain enemies will drop off bubbles; collecting these allows
+you to change your weapons around and to upgrade the ones you have.
+  2-Player Arcade Mode is a cooperative two player game with the arcade
+mode rules, but with a new twist.  Both players' ships can function
+independantly, but if you wish the two ships can join together.  If this
+happens, one player controls the motion, while the other play controls
+a fully rotatable gun that is only available while they are connected.
+  Super Arcade Mode is a secret mode, discussed later on.  It allows you
+to play arcade mode with one of several special types of ship, most of
+which are not available in any other mode.  The bubbles are of different
+types, and every one of these ships has a unique set of changable weapons.
+  Network/Serial Mode is similar to the 2-player Arcade Mode, except
+both players are further away.  The game can be played over a null-modem
+cable, over an IPX network, or over a modem.  For network games, an
+arena interface is included where players can talk and challenge each
+other.
+  The game also includes a "BBS interface".  However, this feature will
+be, in practice, no use because Epic have announced they do not intend
+to release the host end.  Their statement is as follows:
+  "Despite the demand from sysops and users, Epic MegaGames and Diversions
+Entertainment have decided not to release the BBS host program for the
+network and modem release of One Must Fall 2097 and Tyrian.  With other
+projects taking precedence and the arrival of Windows 95 as a viable gaming
+platform, the window of opportunity for this product would have closed before
+it was ready for release and would have resulted in a delay in the delivery
+for the yet unnamed sequel, which will feature play over the Internet.  To
+see a copy of the press release regarding the cancellation of the OMF/Tyrian
+public challenge arena, visit us on the web at http://www.epicgames.com."
+  *OUCH*.  Looks like Bill Gates has struck again, and now the only way
+you'll ever play like that is if you're lucky enough to have a direct
+non-serial internet link into your PC..  (Why do I foresee a lot of people in
+colleges asking for a boss screen to go in the sequel? ;) )
+  Full Game Mode is the campaign game.  In this mode, you collect money
+rather than upgrades for killing enemies.  This money can be spent on
+upgrading and customising your ship at will.  In addition, data cubes can
+be gotten by killing certain enemies; these will later reveal messages
+which reveal more of the plot and possible hints as to later stages.
+Also, you will have the option to choose your own path through the levels,
+unlike Arcade Mode, where the route is fixed.
+
+[5]  Sometimes I find the ship constantly moves in one direction.  What's
+     happening?
+  This appears to be a bug.  A similar symptom can also happen on the
+scrolling data viewer.  Trying to move in the opposite direction will not
+work.  To rectify it, when playing on the keyboard, wait for the ship to
+reach the extreme point of whichever direction it is moving (the left edge if
+it's going left, etc), and then tap the key for that direction.  90% of the
+time, this will sort it out.
+  Be warned: because your ship starts at the bottom, it is possible for
+the ship to have this bug active and you to not notice it until you dodge
+upwards to avoid that bullet.. and don't move.
+  Is this bug still in v2.0?  Yes.  In fact, unbelievably, it's WORSE.  On
+my keyboard setup, Tyrian v2.0 is completely unplayable with the arrow
+keys.  Fortunately, it will play better if you use the numeric keypad
+instead; but it will still cause an effect similar to the above, only at
+random intervals and with no guarantee of escape.  I must admit that I am Not
+Terribly Impressed that this bug hasn't been fixed after a major revision.
+
+[6]  Are there any other bugs?
+
+- The simoultaneous death bug.  If you ever die at the exact same time as
+a boss in version v1.0, the game will start to scroll endlessly forward along
+the level, with neither ship visible.  If this ever happens, you must call up
+the control screen with Escape, and abort the level.  If you don't, the
+program will crash nastily when it reaches the end of the level and tries to
+scroll off it.
+
+- If you get all the data cubes on Tyrian-X, the game dies at the end of the
+level.  Confirmed and reproducable in Registered v1.1.
+
+[7]  What happens when I finish the game?
+  If you have the Shareware version, you will be able to start the game over,
+possibly choosing a different route and/or finding more secrets.  You will
+keep all the money and weapons you have earnt so far, meaning you can build
+your ship up greatly.  When you win the game, you are given a random
+"secret tip", and are told one of the passwords for Super Arcade Mode.
+  When you finish the Registered version, you will move on to the next
+episode.  When you complete the final episode, you will be rewarded with
+a ray-traced closing animation, and then the game will wrap around again
+as before.
+
+[8]  How do I get the registered version?
+  Check out the ORDER*.DOC files in the archive for more details on this.
+
+[9]  What's the best ship configuration to get?
+  Entirely up to you!  Almost all of them are powerful.  The one item that
+is truly worth special mention is the Plasma Storm sidekick.  It is the
+most powerful in the game.. if you can hold the Plasma Storm on a boss
+for about a second, it'll probably die just from that!
+  My personal favourite configuration is:
+    Front Gun:  Multi Cannon
+    Back Gun:   Fireball or Sonic Wave
+    Left Kick:  Plasma Storm    (for big stuff)
+    Right Kick: Phoenix Device  (for screens full of weenies)
+  Paul Patricio says:
+  "I've always found the Phoenix device useless. I use a Vulcan sidekick.
+I also use sonic cannon, because you can kill enemies directly behind you or
+directly beside you, while switching modes allows you to clobber anyone in
+front of you. Switching modes on the fireball is pretty useless."
+  Zach Keene:
+  "Just to add to the best weapon config debate, I personally like to use a
+laser, sonic wave (set to front), and a dual shot option on both sides."
+  Mike Marcelis:
+  "Just for difference of opinion, I prefer:
+       Front Gun:  Pulse Cannon
+       Back Gun:   Sonic Wave
+       Kicks:      Dual shot or Charge cannon {no ammo!}"
+  Andrew Schultz:
+  "Front Gun:	Mega Cannon.  It's pretty bad if it's not powered up, but
+ 	it can dish out the damage.  It doesn't have a rapid firing rate and
+ 	so doesn't penalize you for using special weapons.  It's lack of
+ 	spread doesn't clutter up the screen so you can't see anything.
+   Rear Gun:		Banana Blaster.  The banana bombs are cool and it helps
+ 	make up for the Mega Cannon's lack of spread.
+   Left&Right Sidekick:  Ammoless and powerful (doesn't seem like it if
+ 	you continuously fire, but if you let it "charge" up, it is quite
+ 	powerful)."
+
+  Actually, since reading this, I've become a sonic gun fan.. The fireball
+has good coverage at lower levels, but the sonic gun is far better at higher
+ones.
+
+[10] How much are those purple bubbles in arcade mode worth?
+  At the start, your weapon is at level 1.  To increase to level 2, you
+need one sphere; and from then on, to increase to any level, you will require
+double the number of spheres you required to increase to the previous level.
+The spheres are not worth any monetary amount.
+
+[11] What are these special weapons?
+  Special weapons are gained during the arcade mode.  To make them available
+in the arcade game, you must have reached power level 8 (in practice this is
+equivalent to having 8 lives).  Mike Marcelais points out that this power
+level is in fact equal to the power level of the front gun.
+  It *IS* possible to gain a special weapon during full game mode, although
+lots of weird things happen in full game mode later on..  It normally happens
+when you are close to maxing out either your front or rear weapon.  One of
+the ships that would normally drop you a powerup pod will drop you a special
+instead.  Note: they do sometimes still drop useless power up pods. (see the
+secrets)  But if you do get a special in full game mode, you cannot sell it.
+  (The following list, from Vincent Torre, replaces my own which was
+previously here, since Vincent's is far superior)
+
+Soul of Zinglon - (indicated by a picture of a ship with a small
+column of white light behind it) - creates a vertical beam of light
+that slowly expands out from your ship, then contracts and disappears.
+Any enemy in the beam will be damaged.  The weapon is activated when
+you press the main fire button (i.e. it will not continue to fire if
+you just hold the fire button down constantly), and takes a few
+seconds to recharge before it can be used again.
+ [Note:  "Zinglon" is the lead programmer's pseudonym]
+
+Repulsor - diverts most enemy shots away from your ship.  The weapon
+is activated by rapidly pressing the main fire button (the more you
+push the fire button, the more effective the repulsor will be in
+repelling the shots), and does not need time to recharge.
+[ This is very useful when you first hear that dreaded "chung" that tells
+  you your shield's fallen, and your armor is being hit.  Sit somewhere
+  safe and hit space rapidly and you repulse all their bullets while
+  recharging your shield! ]
+
+Attractor - (indicated by a picture of a ship with several small
+objects heading towards it) - attracts power-up and bonus items
+(coins, gems, bonus stage spheres, etc.) towards your ship.  The
+weapon is activated by rapidly pressing the main fire button, and does
+not require any recharging time between uses.
+
+Flare - (indicated by a picture of a ship with a bright red aura
+around it) - causes multiple flame explosions all over the screen for
+a few seconds.  The weapon is activated when you press the main fire
+button (as with the other weapons, simply holding down the fire button
+will not cause it to re-activate), and requires several seconds to
+recharge after each use.
+
+Pearl Wind - (indicated by a picture of a ship with three(?)
+pearl-colored spheres being fired from it) - shoots pearl-looking
+spheres from your ship.  The spheres travel in straight lines, but are
+not all fired at the same angle, thus covering a wider arc in front of
+your ship.  A sphere is fired each time you press the main fire
+button.  The weapon does not require any time to recharge.
+
+Ice Beam - (indicated by a picure of a ship with a single ice shot
+being fired from it) - shoots a ball of ice from the front of your
+ship.  If an enemy is hit by the ice, it becomes frozen (turns white
+and blue), and will not be able to fire.  The frozen enemy will not
+stop, but will continue to move in whatever direction it was traveling
+at at the time it was frozen (due to inertia, according to Epic).
+The enemy will unfreeze if hit (I think...), or if left undisturbed
+for too long.  The weapon seems to work on most of the enemies, with
+the exception of some (all?) of the larger stage-end bosses.  An ice
+ball is fired each time you press the main fire button (as with the
+other special weapons metioned above, it won't keep firing if you
+just hold down the fire button).  The weapon does not require any
+time to recharge.
+
+[12] Where are the secret levels?
+  A secret level is accessed by picking up a glowing orange orb that will
+be dropped by a destroyed enemy.  If you get an orb, then at the end of
+the current level, you will be taken to the secret level instead of the
+next in sequence.  (Once you have the orb, you cannot choose not to go to
+the secret level.)
+  If, somehow, you reveal more than one orb in any level, you will only be
+allowed to take one.  You just won't be able to pick up a second.
+  If you die on a secret level, you will leave that level and continue with
+the game (with one exception - Soh Jin).  You will still be shown the
+destruction level details, etc.  (If you don't see them, you're using v1.0.
+It's worth upgrading.)
+  A note about the following, which applies to all the information on
+secrets:  when I say "a sidekick", I mean "a sidekick that you have to fire
+specifically".  The single, double and vulcan shot options, and the charge
+cannon (and the advanced charge weapons in the registered version), are not
+fired individually and hence do not behave as normal sidekicks and can be
+used to collect secrets that normally require you not to use a sidekick.
+  So, without further ado, here is where to find those orbs:
+
+BUBBLES:  On Tyrian, you will meet a series of long ships which split up into
+three parts as they fly; destroying these by shooting the front of them
+reveals three coins.  At one point, while encountering these ships, (I
+believe it is at their second appearance) there will be a small rocky outcrop
+on the VERY maximum right (scroll the screen).  Destroying it will reveal a
+small blue area; fly over this to access the Secret Level.
+  Before you warp into this secret level, I *strongly* recommend kitting
+out your ship so that it can deliver a LOT of force into an enemy directly
+in front of you.  A plasma storm will help but may not, alone, be
+sufficient, since it has low ammo.  Contrary to my previous statement,
+it is possible to get a good enough ship right from the start of the game,
+but you need to concentrate on forward firing.  Adam Williamson recommends
+a level 4 sonic wave, level 3/4 multicannon, and mini-missiles.
+  When you enter the level, you will see why.  Large lines of bubble
+formations stretch right across the level; the one bubble in the
+middle that is a different colour is the vulnerable spot.  Shoot there
+quickly; it is important that you destroy the lines rapidly, since if
+you can't destroy the line fast enough, you'll fly into it.. and it's
+strong enough to kill you in one.  And since it's a secret level, there's
+no second chance.
+  The good point of all this is: destroying one of those lines will get you
+a big score bonus (and some odd bonus items - an Amiga tick?  A pint of
+beer?).  Even better, just beyond the lines lies a huge area of free coins,
+just lying there!  For this reason, if you get an Attractor later on, a
+visit here is highly recommended!  Watch out though, and do keep shooting -
+there are some hidden bubbles in the layout that will damage you if you hit
+them while you're collecting coins.  On harder levels, they will also
+generate smaller, moving bubbles.  But if you destroy the large bubbles,
+they'll turn into gems!  There are a couple more of those nasty lines before
+you leave the level.
+
+WINDY:  If you are playing on "Hard" level, or higher, you use the above
+method to get to "Bubbles", and you are playing v1.1, you will not go to
+"Bubbles"; you'll go to "Windy" instead.  Windy has the background of
+Tyrian a maze-like map similar to Soh Jin.  Certain walls are marked with
+dollar signs or other symbols; destroying these will reveal bonuses.
+However, there are also mean turrets mounted on some walls!
+
+HOLES:  Immediately after the computer voice on Tyrian says "Danger", and the
+screen displays "Approaching enemy platforms", a wave of circular ships enters
+on the left.  Kill the leader, then kill the one at the very back of the wave.
+The one at the very back should drop an orb when he dies.
+  The actual key to this is *not* that only those two ships should be
+destroyed, but that you must destroy at least two ships, including the last
+one, *in order*.  Even one hit with a weapon on an enemy out of sequence
+(even if it does not kill said enemy) will disqualify the orb.  The above is
+just the simplest way of achieving that.
+  Holes is a long and difficult level.  The enemies are similar to those
+encountered on Tyrian.  Be warned - there are several places where a clone
+of the Tyrian boss will pass you, firing considerably more densely than
+the original one did!
+  By the way, on both "Holes" and "Bubbles" you can find a data cube which,
+when collected, will contain a message from Steffan of OMF2097.  Another
+one has been found on "Holes" which seems to be an advert for Jazz..
+
+SOH JIN:  If I had a penny for every message I've recieved about how to get
+here, I would be a rich man.  This method works 100% for me:  At the very
+start of Tyrian, you are attacked by a wave of U-fighters.  Do not destroy
+any of these fighters (except for the leader to get your powerup pod - see
+the seperate section.)
+  Later, after you fly through the spikes, you are attacked by several waves
+of small ships, followed by a wave of five ships heading across the screen
+travelling at different speeds.  There will be a second ship behind the one
+in the centre.  Shoot it to reveal a glowing sphere, and pick it up for the
+secret level.
+  Soh Jin is a maze of walls and turrets.  The walls are very dangerous -
+flying into one will severely drain your shield.  There are no mobile enemies
+on the stage, apart from the Help Ship.  You'll see odd objects, resembling
+keys, lying around on the floor in this stage.  Each is worth 500 points!
+Also, unusually, you can retry Soh Jin until you get it right.
+  Even more usefully..  in Arcade Mode, destroying the turrets on Soh
+Jin gets you weapon pods.  In Full Game mode, check out the upgrade ship
+menu right BEFORE you battle at Soh Jin.  There are several weapons, and
+a powerful (and expensive!) shield, available there that are not available
+anywhere else.
+  SILLY CHALLENGE:  There's no award for doing it, but if you fancy a
+challenge, try this:  Fly through Soh Jin without ever firing a shot.  It's
+possible, but rather difficult.  Your shield will be up a lot of the time,
+but if your armour gets low, watch out.. 'cos you'd have to fire to destroy
+the help ship!
+
+ASTEROID?:  On Asteroid 1, there is a small platform with a face on it.
+Destroy this face to reveal the orb.
+
+MINEMAZE:  On Asteroid 2, there is a place where there are three faces on a
+platform arranged like this:  ,',  .  Destroying the one on the maximum right
+will reveal the orb.
+
+THE INTER-SECRET WARP:  You can move directly from  "MINEMAZE" to "ASTEROID?".
+Here's how (info from Vincent Torre):  At one point in "MINEMAZE" there
+is a stage where five strawberries fly down the screen, down a
+small channel.  The snag is, this channel is bracketed on the left and
+right by one-way magnetic barriers that allow you - indeed, try and force
+you - to fly out of the channel, but won't let you into it.
+  Get the strawberries if you can then head out of the channel, across the
+barriers, on the left.  Do NOT rejoin the main path of the level - stay on
+the left even when the gate/door and the new set of one-way barriers comes
+in on your right, and you will fly up a small passage on the left of the main
+level.  WARNING:  Do NOT fly back over to the right!  The barriers will
+render you unable to fly back left and hence unable to get the secret.  You
+will meet a series of small ships that swing back and forth at the top of the
+screen, dropping missiles as they go.  I believe that either the third of
+these, or the ship directly after it, holds the orb.
+
+MISTAKES:  In Ast. City (episode 2) you will be attacked by ships that fire a
+lot of shots in a wide spread.  They look like regular enemies except for
+their red gun turrets.  If you destroy all of these enemies, you will find
+the secret level floating on the right side of the screen.
+
+TYRIAN-X, SAVARA-Y, NEW DELI:  These secret levels appear automatically
+after you finish the third episode on Hard difficulty or higher.  I strongly
+encourage you to go for this - they are very nice levels; a lot of the
+data available on them is very funny, New Deli reveals something you
+probably didn't know about the game interface, and the music on the first
+bit of Savara-Y is the best in the game (Imho) - it's so good I almost
+didn't want to fire over it... ;)
+
+GEM WAR:  On the level "Gyges", just before the first wave of claw ships,
+there is a small pod. Shoot it.  This same pod occours three times during
+the level - once just after the speedup has finished, and once later on.
+Destroy all three pods to get the orb.
+
+[13]  What are these secret tips?
+  From Jim Youngblood:
+
+Episode 1
+~~~~~~~~~
+1-1-1: BONUS ROUND - Increase your score in the bonus level by waiting for
+enemies to attack you.  One of the ships is carrying a 5000-point gem.
+
+1-1-2: TYRIAN - There is a secret to the first U-Ship that attacks you.
+  (This is the weapon pod.)
+
+1-1-3: ASTEROID LEVELS - The rock faces conceal two bonus levels.
+
+1-2-1: ASTEROID 2 - There is a secret to the first tank in the level.
+  (Another weapon pod.)
+
+1-2-2: SECRET LEVEL - There is a way to go from one secret level to one other
+secret level to maximize your score.
+
+1-2-3: ASTEROID 2 - Several of the tanks on this level are worth more if you
+wait a while before destroying them.  You can earn extra power-ups this way.
+
+1-3-1: TYRIAN - The rock formations conceal a secret fortune.
+
+1-3-2: IMPOSSIBLE - Type a capital G at the difficulty selection screen.
+
+1-3-3: EPISODE 3 - Play at the hard difficulty level for an extra reward.
+  (Presumably a plug.)
+
+Episode 2
+~~~~~~~~~
+2-1-1:Jungle Level - A certain small scout ship is attacked by one of the
+dragons.  Destroying it at the last second rewards you with a power-up
+[rear gun].
+  ("Jungle Level" presumably means Torm.)
+
+(The rest of the 2-x-x hints are the same as in Episode 1.)
+
+Episode 3
+~~~~~~~~~
+3-1-1: BONUS ROUND - There are 2 sections where a solid row of purple ships
+move downward and wait.  The first purple ship that comes down each time has
+a power-up.  Others carry gems.
+
+3-1-2: CAMANIS - In the section where enemies fly straight up behind you,
+there is a slow-moving emeny with a power-up. [Front gun]
+
+3-1-3: SECRET LEVEL: SAWBLADES - The spiders, while hard to reach, contain
+10000 pts in gems.
+
+3-2-1: ?Secret Levels? - Two secret levels in Episode 3 are in the same
+place. (Mull that one over.)
+
+3-2-2: STARGATE - Two of the flying spikes can be destroyed.  Each is worth
+10000 pts.
+
+3-2-3: EPISODE 3 - Play at the hard difficulty level for an extra reward.
+
+3-3-1: EPISODE 3 - There are three levels you can access with the warp bubbles.
+
+3-3-2: GOD MODE - Type a capital G then shift right bracket.  [This is
+actually suicide difficulty]
+
+3-3-3: INSANE DETAIL - In the setup program, type a W when you have detail
+level selected.
+
+[14]  Ok, I've won on Hard, now what?
+  Try Impossible.  When the game asks you to select your difficulty level,
+type a capital G (shift-G).  A new level, "Impossible", will appear at the
+bottom of the list.
+  If even that's too easy for you, after adding "Impossible" as described
+above, type } (shift-]); this will add the level "Suicide".  On this mode,
+bullets move impossibly fast and even the basic enemies are incredibly tough.
+  I've tried shift-everything after this and haven't found another one
+yet. ;)
+  In addition, hitting Backspace and the number 1 on the main keyboard at
+the same time during the game cycles the game through three speed settings.
+These are *not* the same as the Game Speed settings on the menu.
+  While we're on the subject of extended menu items: there's one in the
+SETUP program too!  In Setup, move to the "detail level" option and press
+shift-W.  The detail will change to "Wild", which is the same as Pentium but
+with moving shadows on the ground.  If you have anything less than a Pentium,
+forget it; even with one, it might slow down.  Also, if your detail level
+is set to Wild, and you decrease it with the left arrow DURING THE GAME,
+the detail level changes to "Laptop VGA".
+
+[15]  How can I quickly power up my weapons?
+  Some ships will release special power-up pods that will immediately boost
+your weapons by 2 to 5 levels.  These are EXTREMELY useful for building up
+your ship.  Here's where they've been found:
+
+0) There are two free ones on Deliani.
+
+1) At the very beginning of the game, a batch of U-fighters zoom down dead
+vertical until they reach the bottom of the screen; then they track back up
+again on a diagonal.  Without destroying any of them, let them reach the
+bottom and move back in the diagonal and then fry the leader with a sidekick.
+He will drop a Rear Weapon PowerUp pod!  (Note: you may not get the pod if
+your sidekick weapon kills any other ship in the wave at the same time as
+the leader.  Also, killing any other ship apart from the leader scuppers your
+chances of going to Soh Jin.)
+
+2) On "Asteroid 2", at the very start of the platforms, you will see a small
+tank tracking about on the floor.  Let it alone until it turns to fire at you
+and then destroy it for a PowerUp pod!
+
+3) On "Minemaze", near the beginning, there is a spot where there is a
+magnetic barrier with an isolated blue sphere just below it.  After
+passing this barrier, keep to the extreme right, and you'll pass through
+two gates.  Destroying the weak point of the second reveals a PowerUp.
+
+4) Again on "Minemaze", try to remain in the middle when you see five
+strawberries go past.  Keep in the middle, and blast the gate you
+pass through; beyond are two ships, one of which has the Power Up.  Note
+that this makes it very difficult to get the secret level "Asteroid ?"
+
+5) On "Gyges", very near the start, is a triangle shaped enemy with smaller
+ships flying around it in a circle.  If you can destroy (or shoot through)
+the circle and destroy the triangle, it'll drop you a powerup.
+
+6) On "Sawblades", ever so often, a SuperCarrot will attack you.  If you
+destroy all the SuperCarrots on the level, the very last one will drop a
+special power-up pod that will convert both your front and rear weapons to
+HotDogs.  You may not want to do this, though, especially if you just
+bought the Zica Laser.
+
+7) On "Asteroid City" (Episode 2), destroying a wave of three of the
+yellow ships will reveal a small bomb.  If you have one of these bombs,
+then when you next fire your sidekick weapon, a small missile will be
+fired as well that will break into microbombs.  An indicator at the
+bottom of the screen tracks how many of these bombs you have left.
+
+8) On "Camanis", there are several places where crystal-type ships appear.
+Sometimes they will appear in a formation with a large crystal in the
+middle, and many small ones nearby which sweep away from it.  In this case,
+nailing the large crystal will get you a powerup.  It may be required that
+you do not hit any of the smaller ones in the process.
+
+[16] Help!  My ship just turned into a carrot!  What's going on!?
+  1/6 of the time, immediately after you complete the game in any mode, you
+will be returned to the start as usual but the layout of your ship will have
+changed!  If you are in Full Game mode, and you examine the upgrade ship
+display,  you'll discover your ship has been changed to type "Super Carrot",
+and your front and rear weapons have become "Banana Blasts".  The Super Carrot
+actually has a higher armor level than any other ship available in the game!
+  Note:  If you have the unregistered version, do not sell the Super Carrot.
+If you sell the Banana Blasters, you can get them back, but if you sell the
+Super Carrot, it's gone for good.  Also be warned - if you complete the game
+again, there's a chance of the game giving you the Carrot back again.  If it
+does this, then your weapons will go back to Level 1 Banana blasts EVEN IF
+YOU ALREADY HAD BANANA BLASTS AT A HIGHER LEVEL!
+  The carrot can fire weapons other than Banana Blasts.  See "FoodShip Nine"
+in the Super Arcade Mode section.
+
+[17] Can I use my arcade mode weapons in full game mode?  Or vice versa?
+  Yes - you can transfer your arcade-mode ship into full-game mode, or vice
+versa!  This has several advantages; you can bring a weapon into
+full-game mode that you can't buy anywhere else, and upgrade it at will,
+then take it back to arcade mode.  Or you can just start full-game mode with
+a slightly better equipped ship.
+  Ok.. here's how to go from arcade mode to full game.  (You can't get
+weapons out of Super Arcade mode.. sorry.)
+  Start a game in arcade mode.  Play until you get the weapons you want (a
+trip to Soh Jin for lots of weapon pods is a good idea).  Finish the level
+you got your weapons on.  Then start the next level and immediately hit ESC,
+and Quit the level.  Then, quit your arcade-mode game, and select Load Game
+from the main menu, then select "Last Level" at the bottom of the screen (or
+you can start a Full Game and use options/load).  Suddenly, your weapons,
+ship and score appear in Full Game mode!  Your ship is listed as a "Stalker",
+and has a value of 10000.  But be warned.. if you bring stuff into full game
+that's not normally available in full game, and you sell it, it's gone for
+good.
+  Going the other way is a little trickier, because there's normally
+no way to load a game in Arcade mode.  The way to do it is as follows:
+  1)  Select Start New Game.
+  2)  Select 1 Player Arcade.
+  3)  When the episode selection screen comes up, do NOT select an
+      episode.  Press Escape to return to the main menu.
+  4)  Load a game.
+  This will load that game as an arcade mode game!
+
+[18] Can I do anything with Super Arcade Mode weapons or ships?
+  You CAN bring Super Arcade Mode ships into the full game, but they won't
+be anything special if you do - they will lose their special power and will
+only be able to buy normal weapons.
+  To do this, type the Super Arcade password, hit escape when asked to
+choose an episode, then start a Full game, and you'll get the ship.  But
+most of the Super Arcade mode ships are just versions of standard ones:
+
+        Experimental PQZ      Microcorp Stalker
+        StormWind             USP Talon
+        TX Silvercloud        Silver Ship
+        Captured U-Fighter    U-Ship
+        FoodShip Nine         SuperCarrot
+        Ninja Star            Gencore Phoenix
+        Nortship Z            Nortship Z
+
+  Some of these ships can't normally be gotten in full game mode, so the
+game won't have a graphic for the buy/sell screen.  If this is the case,
+it will substitute a picture of a USP talon.  You may also find odd
+things appear in the weapon preview display (I've seen a Nortship appear
+in the weapon preview display as two enemy ships glued together!)
+  The Nortship Z does have one notable difference from the other ships.
+If you bring it into Full Game, you still get Nortship Dust (but not Astral
+Zone).
+
+[19]  What's a twiddle weapon?  How do I use them?
+  First of all, if you have v1.0, skip this bit.  It won't work for you.
+Go and get that upgrade.  ;)
+  Ok, in higher.. you may have, once or twice, found that your ship can fire
+a weapon it doesn't even have, or one that doesn't normally exist.  If that's
+the case, congratulations! - you've just discovered a twiddle weapon.
+  Twiddle weapons are very similar to special moves in fighting games; if you
+execute the appropriate motion using joystick or keyboard, you will get a
+powerful effect.  Be warned, however - your shield and/or armor will also be
+drained.
+  The official name for twiddle weapons, by the way, is "Street-fighter like
+commands"; in the ship editor documentation with v2.0, the author refers
+to them as..
+  "(or 'twiddles', as one person so oddly put it)"
+  It seems that having a special weapon can interfere with the operation of
+twiddle weapons.
+  Here are the twiddles currently known:
+
+USP Talon
+    Invincibility               Down, Up, Down, Up+Fire
+      - You are invincible for a second or so.
+    Missile Spread              Right, Left, Down, Up+Fire
+      - Fires two mini-missiles forward. Armor drain.
+
+USP Fang
+    Invincibility               Down, Up, Down, Up+Fire
+    Bomb Spread                 Right, Left, Right, Down+Fire
+      - Fire high-speed guided bombs.  (Look out - this drains your
+        *ARMOR*.  Too many times, and you're into Warning.)
+
+Stalker (arcade mode)
+    Armor Boost                 Hold Down, Fire twice
+      - Your armor level is increased.  You can go above the level at which
+        you start.  It is not, however, a permanent increase.  This will
+        drain your shield to a very low level; the higher your shield level
+        was when you used the twiddle, the more armor you will get.
+    Energy Barrier              Up, <hold fire>, Left, Down, <release fire>
+      - Your ship is surrounded by a barrier that lessens damage done to you
+        by collisions.  Getting hit will cause parts of the barrier to go
+        down instead of damaging you.  Bullets seem to be unaffected.
+    Microbomb Shower            <hold fire>, Right, Down, Left,
+                                   <release fire>, Up+Fire
+      [ This may not be the exact motion but it WILL give you the power
+        fairly often especially if repeated.  If it itself is not the
+        correct motion, it is certainly some permutation or translation
+        of these movements.]
+      - The ship will *FLOOD* the screen with MicroBombs.
+
+*Microcorp* Stalker (yes, it's different)
+    Energy Barrier              Up, <hold fire>, Left, Down, <release fire>
+    Repulsor                    Hold fire, alternate left/right
+      - Just like the special weapon, except for the shield drain.
+
+Prototype Stalker-C
+    Bomb Spread                 Right, Left, Right, Down+Fire
+      (more bombs than the Fang)
+    Post-it Sweep               Up, Left, <hold fire>, Down, Right, Up
+      - Five post-it bombs are fired, very quickly, from the front. Armor
+        drain.
+
+Gencore Phoenix
+    Ice Spread                  Down, Up+Fire
+      - Five ice shots; they behave like the special ice weapon.
+    Armor Boost                 Hold Down, Fire twice
+
+Gencore Maelstrom
+    Armor Boost                 Hold Down, Fire twice
+
+Super Carrot
+    Ice Spread                  Down, Up+Fire
+    Hot dog feast               Up, Down+Fire
+      - Five hotdog shots fired forwards.  Armor drain.
+
+Stalker 21.126 (the modified SuperTyrian ship, and the twiddlers dream)
+    Armor Boost                 Hold Down, fire twice
+    Ice Spread                  Down, Up+Fire
+    Hot Dog Feast               Up, Down+Fire
+    Missile Spread              Right, Left, Down, Up+Fire
+    Bomb Spread                 Right, Left, Right, Down+Fire
+    Energy Barrier              Up, <hold fire>, Left, Down, <release fire>
+    Electric Shot               X, X+Fire
+                                X can be any direction except down for a
+                                shot in that direction
+    Repulsor                    Hold fire, alternate Left/Right
+ Build sidekicks:
+    Build Companion Gerund      Down, Right, Up+Fire
+    Build FrontBlaster II       Up, Right, Down+Fire
+
+Dragonwing (two-player)
+    Symbiosis                   Hold Down, Fire twice
+      - Drain your shield to increase the other player's armour.
+    Repulsor                    Hold fire, alternate Left/Right
+    Ice Spread                  Down, Up+Fire
+
+A few notes:  Be very careful with the repulsor, since you may activate
+it accidentally while firing and dodging.   The Armor Boost becomes
+incredibly useful when you have a high-energy shield like the HXS-B -
+use it as soon as you start when things are quiet and you'll boost your
+hull fairly majorly.
+
+[20] How do I play Super Arcade mode?
+  Super Arcade Mode is a special mode where you will play an unusual ship
+with unique weapons.  You get a fixed 3 lives; and you have a super weapon
+that is always active.
+  To play Super Arcade Mode, you must type a password at the main menu to
+select the ship you want to play.  Here is a list of the ships available,
+their passwords, and their weapons.  As mentioned before, their specials
+are available all the time.
+  Instead of the standard way of upgrading weapons, the weapon pods will
+be gold with a colour in the middle.  Each colour is a different
+weapon and the power of the weapon is determined by the number you've
+collected of that colour.  You start with Level 1 Red.  Some of the ships
+available here are clones of other ships that you can play during the normal
+game mode.  If this is the case, and you have v1.1, then you'll usually find
+you can use the twiddles of the ship of which the one you are flying is a
+clone.
+
+Ship:  Experimental PQZ        Password: TECHNO
+Special:  Soul of Zinglon + Minefield  (RECHARGE):
+  A standard Soul, plus a large number of mines cover the screen.
+Red:   Hyper Pulse    - A fairly standard cannon.
+Blue:  Zica Laser     - A large laser beam, which can shoot several enemies
+                        at once.
+Green: Scatter Wave   - Shoot to the sides.  A tad useless...  (Andrew
+                        Schultz suggests this power-up was put there by the
+                        enemy to handicap your ship.. ;) )
+Purple:Guided bombs   - Just like the ones you can get in full game.
+Black: Heavy Missile Launcher
+
+Ship:  Stormwind the Elemental Password: STORMWIND
+Special:  Sandstorm (RECHARGE)
+  Just like the minefield, but the particles are smaller.
+Red:   Mega Pulse     - Another relatively standard cannon.
+Blue:  Lightning Cannon - A big energy bolt forward, and a smaller ball
+                        backwards.  The ball is fired at an angle from
+                        your ship, and inherits your velocity if you move.
+Green: Sonic Wave
+Purple:Protron Wave   - Shoot blue, whirling balls.
+Black: Rear Mega Pulse
+
+Ship:  Tx SilverCloud          Password: UNKNOWN (yes, we know it's this ;) )
+Special:  Proton Dispersal  (RECHARGE)
+  A series of mines dropped in a spiral around the ship.
+Red:   Multicannon    - Have a guess (all the reds are basic..)
+Blue:  Zica Laser     - As PQZ
+Black: Rear Heavy Missile Launcher - Two missiles fired across each other.
+Green: Laser          - A constantly fired, TRUE laser, that does major
+                        damage if held on target.
+Purple:Vulcan Cannon  - Just like in full game.
+
+Ship:  Captured U-Fighter      Password: ENEMY
+Special:  Dual Vulcan (RECHARGE)
+  A very fast series of forward shots.  Not enough to destroy a wave.  This
+ship sucks.
+Red:   Vulcan Cannon  - This is what the game calls it but it's not the
+                        same as the normal one.  It only fires at an angle to
+                        the sides.  Yeuch.  This ship REALLY sucks.
+Blue:  Mega Cannon    - Small blue/white ball shots.
+Black: Guided Microbombs
+Green: Rear Mega Pulse
+Purple:Protron
+
+Ship:  Foodship Nine           Password: WEIRD
+Special:  Banana Bomb (RECHARGE)
+  A large number of bananas are fired from the back of the ship.
+Red:   Banana Blast   - A standard gun, except it fires bananas.
+Blue:  Orange Juicer  - A series of oranges in a helix around your ship.
+Black: HotDog Front   - Similar to the banana blast, but slower and more
+                        damaging.  Fires hot dogs.  In buns.  With mustard.
+Purple:Protron Z      - White circular bullets.
+Green: Wild Balls     - As full game.
+
+Ship:  Ninja Star              Password: STEALTH
+Special:  Blade field (RECHARGE)
+  Just like minefield, but with whirling shurikens.
+Red:   Starburst      - Semi-random angled side fire.  Not a good start..
+Green: Poison bomb    - A standard bomb, but when it hits, it splits.
+Blue:  Guided Bombs   - Similar to standard homing bombs but faster.
+Black: Shruiken(sp?) field- Two blades, similar to those in the field.
+Purple:Protron wave
+
+Ship:  Nort-Ship Z             Password: NORTSHIPZ
+Special:  Nortship Dust (CONSTANT)
+  As you move left or right with this ship, a blue dust will be released
+from the sides.  It damages anything it touches.
+Special:  Astral Zone (RECHARGE)
+  This is a *Weird* one.  It turns the background into a starfield and
+fills the screen with Zica lasers.  It seems that moving, or firing, while
+the zone is actually in effect produces more lasers.
+Red:   Super Pulse    - Similar to the normal cannon, but wider range.
+Grey:  Spreader       - Similar to the U-fighter's "vulcan" cannon.
+Green: Spreader B     - Fires pearl-windish spheres at 45 degrees.  When
+                        they hit, they release a number of damaging dust
+                        particles AND bounce off.  (Overrated - quite weak.)
+Blue:  Orange Juicer  - As FoodShip Nine.
+Purple:Poison Bomb    - As Ninja Star.
+
+[21] How do I play Super Tyrian?
+  If you have v2.0, you can play Super Tyrian by typing:
+      ENGAGE
+  On the title screen.  When you do this, Susan will say "Data Acquired",
+and the title screen will begin to blur and fade.  In Super Tyrian, all
+cheats are disabled, and you have a unique ship.  Difficulty level, by
+default, is set to Lord of the Game; however, you can make it easier
+for yourself, and only get Suicide difficulty, if you hold down the Scroll
+Lock key while the screen is fading.
+  However, SuperTyrian does introduce a twist regardless - line of
+sight.  Only the area in front of your ship will be visible; the rest of
+the screen will be faded out.  This happens on some levels of v2.0 anyway,
+but it happens on all levels in SuperTyrian.  It does have the disadvantage
+that it slows the game down, but it's still a very cool effect.
+
+[22] Is there any way I can cheat?
+  Yes, there's four ways.  The first way is only for people who really don't
+believe in earning your priveleges and such.. Instead of typing TYRIAN to
+start the game, type FILE0001 LOOT but do *NOT* hit return.  Now hold down
+the ALT key on the main keyboard, and type 254 on the numeric keypad.
+(A small square should appear on the command line.)  Release ALT, and press
+RETURN.  Start a 1 player full game, and you'll have 1 Million credits!
+(Make sure the word LOOT is typed in caps.)
+  The other way is actually just as much a cheat, but it doesn't use a cheat
+code; it uses a loophole in the game itself, so you may feel better using
+this.  Besides, it lets you have technically infinate money.  Kit your ship
+out so that you can fire forwards well, and can defend against bullets from
+the side, but so that your fire range isn't TOO spread out (level 4
+multicannon, level 3 sonic wave works well).  Get to the secret level
+"ASTEROID?" by whatever route.  In this level, you'll notice that there are
+turrets that fire unusual things at you - grey bubbles, missiles, etc. At one
+point in the level, a turret firing those grey bubbles (LOTS of them!) appears
+as a mid-stage boss.
+  When you get there, move your ship into the corner such that you can
+kill the bubbles as he fires them, but such that you are not in fact shooting
+him.  Every time you kill a bubble, 100 points; and you'll be killing lots
+of them.  As long as you're defended on the sides, he probably won't be
+able to hit you with any; neither you, nor he, will ever die.  Weigh down
+the fire button and go and have a cuppa, do the crossword, whatever.. and
+come back to a massive score.  Then, kill the turret normally, finish the
+level and go and upgrade your ship rather a lot. ;)   (Don't leave it TOO
+long, though - an overflow will crash the game.)
+  The other two ways of cheating are not money cheats, but downright cheats.
+During play, hit F2, F3 and F6 together to become immortal.  (The string
+"Cheaters always prosper" should pop up at the bottom of the screen.  Your
+shield and armor will still be drained - you'll just be able to play on
+with zero armor).  There is also a cheat to skip a level, which involves
+hitting F2, F6 and F7; however I found that most of the time just hitting
+these together doesn't work; however, fiddling around with them will
+eventually work.
+
+[23] What is Destruct, and how do I play that?
+  Destruct is a small, hidden subgame.  It is a variant of Scorched Earth,
+with more variety, and played in real-time.
+  To play Destruct, simply type the word "destruct" at the main menu.  Press
+F1 to view the keys.  By default, the computer will play the left hand player,
+but you can turn this off and play 2 player by pressing F10.  A second press
+will return you to 1 player mode.
+  Destruct offers you five types of game:
+
+5-Card War:   Each of the players recieves five randomly selected vehicles.
+              Destroy all the opponent's vehicles to win!
+Traditional:  One tank each.  He who doesn't die, wins.
+Heli Assault: Fly your helicopters in against the computer's (or second
+              player's) guns.
+Heli Defence: The same in reverse.. shoot down the computer's helicopters
+              before they destroy your guns.
+Outgunned:    One player gets several jumpers and helicopters.. the other
+              just gets guns.
+
+  The types of vehicle that are available as follows:
+
+Gun:          Choose angle with left/right and force with up/down.
+              There are several types of gun, which fire different types
+              of ammo.
+Helicopter:   Arrow keys steer the copter around; it always fires at
+              45 degrees downwards.  If you switch away from the copter
+              while it's in flight, it will fall out of the sky!
+Jumper:       While on the ground, it shouts upwards.  Press up to make
+              it jump in the air; while in the air, it fires downwards.
+Repulsor:     Can't move and can't fire.  But if you select it, and hold
+              down fire, all the opponent's bullets will be pushed away
+              from it, just like the Repulsor special in the game.  It's
+              kinda fun to make them shoot themselves. ;)
+
+  Each vehicle has different weapons.  Some are more powerful than
+others, but after firing a powerful weapon you will have to wait a while
+before you can fire again, whereas weak weapons will have a far shorter
+reload time!
+
+[24] Miscellaneous useful stuff.
+
+THE HELP SHIP:  Whenever you are low on armor and the alert is sounding,
+watch for a little red ship that drops from the top of the screen, pauses in
+the middle, then heads up top again.  Shooting that ship will drop you an
+armor bonus.  If you are deep into alert (the alert noise gets faster the
+nearer you are to death), the bonus won't be enough to get you out of it,
+and you may have to wait for a second Help Ship.  Note: The Help Ship does
+not fire, and crashing into it does not destroy it or you.
+
+BONUS LEVEL:  Do not touch your sidekicks on the bonus level.  The awards
+are FAR greater for shooting down the layouts with a standard weapon than
+for gunning the lot down with specials!  Note also that sometimes a
+large enemy from the layout will swoop downwards.  Destroying that will
+generally get you a good bonus - generally at least a small gem.
+
+GAMMA CORRECTION:  Just like Doom, Tyrian has Gamma Correction.  Press F11
+during a game to cycle through the different levels.
+
+SHOT LEADING:  On levels where the screen scrolls left and right, you can
+guide your shots left or right by steering (you are actually scrolling the
+screen under the bullet rather than the bullet itself).
+
+[25]  The "why the HELL would you want to do THAT" awards.
+
+#1:  Start the game with 'FILE0001 death'.  As soon as you start any level,
+     you die immediately.
+#2:  Start Tyrian with FILE0001 CONSTANT.  You can't buy any weapons, and the
+     ship uncontrollably flies left and right, constantly firing.
+
+[26]  Completely useless trivia.
+
+- "Tyrian" means 'red or purple', or 'a native of Tyre'.
+
+- If you scan the web for "Tyrian" with a loose Lycos(tm) search, you'll
+  find (amongst other things) a poem called "Ode on the death of a favourite
+  cat by drowning in a pool of goldfish".
+
+- The computer voice in Tyrian is called Susan.
+
+- The Tyrian logo reads the same when turned upside down. (It does not *look*
+  exactly the same, though - the y and the a change.)
+
+[27]  Rumours.
+
+- There are other cheat codes.  F2+F3 + (F4, F5, or F6) generates "Cheaters
+  always prosper."; F2+F3+F4 twice makes the word "Destruction:" appear
+  in the bottom box.
+- There is another difficulty level, "Insanity", that can be reached
+  by tweaking the save game file.
+--

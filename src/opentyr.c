@@ -56,6 +56,8 @@
 #include <string.h>
 #include <time.h>
 
+#include "font_chs.h"
+
 const char *opentyrian_str = "OpenTyrian2000";
 const char *opentyrian_version = OPENTYRIAN_VERSION;
 
@@ -277,7 +279,7 @@ void setupMenu(void)
 		}
 
 		// Draw status text.
-		JE_textShade(VGAScreen, xMenuItemName, 190, menuItems[*selectedMenuItemIndex].description, 15, 4, PART_SHADE);
+		JE_textShade(VGAScreen, xMenuItemName, 188, translate(menuItems[*selectedMenuItemIndex].description), 15, 4, PART_SHADE);
 
 		// Draw picker box and items.
 

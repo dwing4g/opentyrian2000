@@ -739,8 +739,8 @@ static void JE_introScreen(void)
 {
 	memcpy(VGAScreen2->pixels, VGAScreen->pixels, VGAScreen2->h * VGAScreen2->pitch);
 	JE_outText(VGAScreen, JE_fontCenter(specialName[SA_DESTRUCT - 1], TINY_FONT), 90, specialName[SA_DESTRUCT - 1], 12, 5);
-	JE_outText(VGAScreen, JE_fontCenter(miscText[64], TINY_FONT), 180, miscText[64], 15, 2);
-	JE_outText(VGAScreen, JE_fontCenter(miscText[65], TINY_FONT), 190, miscText[65], 15, 2);
+	JE_outText(VGAScreen, JE_fontCenter(miscText[64], TINY_FONT), 176, miscText[64], 15, 2);
+	JE_outText(VGAScreen, JE_fontCenter(miscText[65], TINY_FONT), 188, miscText[65], 15, 2);
 	JE_showVGA();
 	fade_palette(colors, 15, 0, 255);
 
@@ -1375,7 +1375,7 @@ static void JE_helpScreen(void)
 		for (j = 3; j <= 12; j++)
 			JE_outText(VGAScreen, ((j - 1) % 2) * 160 + 10, 15 + ((j - 1) / 2) * 12 + i * 90, destructHelp[i * 12 + j-1], 1, 3);
 	}
-	JE_outText(VGAScreen, 30, 190, destructHelp[24], 3, 4);
+	JE_outText(VGAScreen, 30, 188, destructHelp[24], 3, 4);
 	JE_showVGA();
 	fade_palette(colors, 15, 0, 255);
 

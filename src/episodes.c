@@ -24,6 +24,8 @@
 #include "lvlmast.h"
 #include "opentyr.h"
 
+#include "font_chs.h"
+
 /* MAIN Weapons Data */
 JE_WeaponPortType weaponPort;
 JE_WeaponType     weapons[WEAP_NUM + 1]; /* [0..weapnum] */
@@ -112,6 +114,7 @@ void JE_loadItemDat(void)
 		fread_u16_die(&weaponPort[i].cost,        1, f);
 		fread_u16_die(&weaponPort[i].itemgraphic, 1, f);
 		fread_u16_die(&weaponPort[i].poweruse,    1, f);
+		translate_inline(weaponPort[i].name, sizeof(weaponPort[i].name));
 	}
 
 	for (int i = 0; i < SPECIAL_NUM + 1; ++i)
@@ -124,6 +127,7 @@ void JE_loadItemDat(void)
 		fread_u8_die( &special[i].pwr,         1, f);
 		fread_u8_die( &special[i].stype,       1, f);
 		fread_u16_die(&special[i].wpn,         1, f);
+		translate_inline(special[i].name, sizeof(special[i].name));
 	}
 
 	for (int i = 0; i < POWER_NUM + 1; ++i)
@@ -136,6 +140,7 @@ void JE_loadItemDat(void)
 		fread_u8_die( &powerSys[i].power,       1, f);
 		fread_s8_die( &powerSys[i].speed,       1, f);
 		fread_u16_die(&powerSys[i].cost,        1, f);
+		translate_inline(powerSys[i].name, sizeof(powerSys[i].name));
 	}
 
 	for (int i = 0; i < SHIP_NUM + 1; ++i)
@@ -151,6 +156,7 @@ void JE_loadItemDat(void)
 		fread_u8_die( &ships[i].dmg,            1, f);
 		fread_u16_die(&ships[i].cost,           1, f);
 		fread_u8_die( &ships[i].bigshipgraphic, 1, f);
+		translate_inline(ships[i].name, sizeof(ships[i].name));
 	}
 
 	for (int i = 0; i < OPTION_NUM + 1; ++i)
@@ -172,6 +178,7 @@ void JE_loadItemDat(void)
 		fread_u8_die(  &options[i].ammo,        1, f);
 		fread_bool_die(&options[i].stop,           f);
 		fread_u8_die(  &options[i].icongr,      1, f);
+		translate_inline(options[i].name, sizeof(options[i].name));
 	}
 
 	for (int i = 0; i < SHIELD_NUM + 1; ++i)
@@ -184,6 +191,7 @@ void JE_loadItemDat(void)
 		fread_u8_die( &shields[i].mpwr,        1, f);
 		fread_u16_die(&shields[i].itemgraphic, 1, f);
 		fread_u16_die(&shields[i].cost,        1, f);
+		translate_inline(shields[i].name, sizeof(shields[i].name));
 	}
 
 	const int enemies_bounds[2][2] = {{0, ENEMY_END1}, {ENEMY_START2, ENEMY_NUM}};

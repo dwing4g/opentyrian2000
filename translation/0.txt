@@ -1,0 +1,223 @@
+v2.1.???
+v2.1 dwing汉化
+
+Cost:
+花费:
+
+Press ESC to quit the jukebox.
+按ESC键退出音乐盒。
+
+Arrow keys change the song being played.
+按方向键更换当前播放的音乐。
+
+Change the graphics settings.
+改变图形设置。
+
+Change the sound settings.
+改变音频设置。
+
+Listen to the music of Tyrian.
+欣赏泰瑞安的音乐。
+
+Play a bonus mini-game.
+玩附赠的迷你游戏。
+
+Return to the main menu.
+返回主菜单。
+
+Change the display mode.
+改变显示模式。
+
+Change the pixel art scaling algorithm.
+改变像素图的缩放算法。
+
+Change the scaling mode.
+改变缩放模式。
+
+**---LEVEL---
+
+** ALE **
+**啤酒**
+
+?TUNNEL?
+?隧道?
+
+APPROACH
+通路
+
+ASSASSIN
+刺客
+
+AST ROCK
+星岩
+
+AST. CITY
+星之城
+
+ASTCITY
+星城
+
+ASTEROID?
+小行星?
+
+ASTEROID1
+小行星1
+
+ASTEROID2
+小行星2
+
+ASTEROIDS
+小行星
+
+BONUS
+奖励关
+
+BOTANY A
+植物学A
+
+BOTANY B
+植物学B
+
+BRAINIAC
+智狂
+
+BUBBLES
+泡泡
+
+CAMANIS
+卡曼尼
+
+CORAL
+珊瑚
+
+CORE
+核心
+
+DELI
+得里
+
+DELIANI
+得里尼
+
+DESERTRUN
+沙流
+
+DREAD-NOT
+无畏
+
+EYESPY
+监视
+
+FLEET
+舰队
+
+FRUIT
+水果
+
+GAUNTLET
+护手
+
+GEM WAR
+宝石战
+
+GRYPHON
+狮鹫
+
+GYGES
+盖吉斯
+
+HARVEST
+收获
+
+HOLES
+巢穴
+
+ICE EXIT
+冰出口
+
+ICESECRET
+冰之密
+
+IXMUCANE
+睡神
+
+LAVA EXIT
+熔岩口
+
+LAVA RUN
+熔岩流
+
+MACES
+钉锤
+
+MARKERS
+标记
+
+MINEMAZE
+雷迷宫
+
+MINERS
+矿区
+
+MINES
+雷区
+
+MISTAKES
+失误
+
+New Deli
+新得里
+
+NOSE DRIP
+鼻滴
+
+SAVARA
+萨瓦拉
+
+SAVARA IV
+萨瓦拉4
+
+SAVARA V
+萨瓦拉5
+
+SAVARA Y
+萨瓦拉Y
+
+SAWBLADES
+锯条
+
+SIDE EXIT
+副出口
+
+SOH JIN
+索津
+
+SQUADRON
+中队
+
+STARGATE
+星门
+
+STATION
+车站
+
+SURFACE
+表面
+
+TIME WAR
+时战
+
+TORM
+托姆
+
+TYRIAN
+泰瑞安
+
+TYRIAN X
+泰瑞安X
+
+UNDERDELI
+下得里
+
+WINDY
+狂风

@@ -29,6 +29,8 @@
 #include <assert.h>
 #include <string.h>
 
+#include "font_chs.h"
+
 const JE_byte menuHelp[MENU_MAX][11] = /* [1..maxmenu, 1..11] */
 {
 	{  1, 34,  2,  3,  4,  5,                  0, 0, 0, 0, 0 },
@@ -48,7 +50,7 @@ const JE_byte menuHelp[MENU_MAX][11] = /* [1..maxmenu, 1..11] */
 	{ 35, 35, 35, 36, 12,                   0, 0, 0, 0, 0, 0 }
 };
 
-JE_byte verticalHeight = 7;
+JE_byte verticalHeight = 12;
 JE_byte helpBoxColor = 12;
 JE_byte helpBoxBrightness = 1;
 JE_byte helpBoxShadeType = FULL_SHADE;
@@ -96,7 +98,12 @@ static void decrypt_string(char *s, size_t len)
 	}
 }
 
-void read_encrypted_pascal_string(char *s, size_t size, FILE *f)
+void read_encrypted_pascal_string(char* s, size_t size, FILE* f)
+{
+	read_encrypted_pascal_string2(s, size, f, 1);
+}
+
+void read_encrypted_pascal_string2(char *s, size_t size, FILE *f, int translate)
 {
 	Uint8 len;
 	char buffer[255];
@@ -114,6 +121,9 @@ void read_encrypted_pascal_string(char *s, size_t size, FILE *f)
 	len = MIN(len, size - 1);
 	memcpy(s, buffer, len);
 	s[len] = '\0';
+
+	if (translate)
+		translate_inline(s, (int)size);
 }
 
 void skip_pascal_string(FILE *f)
@@ -127,7 +137,7 @@ void skip_pascal_string(FILE *f)
 
 void JE_helpBox(SDL_Surface *screen,  int x, int y, const char *message, unsigned int boxwidth)
 {
-	JE_byte startpos, endpos, pos;
+	JE_byte startpos, endpos, pos, brightnum;
 	JE_boolean endstring;
 
 	char substring[256];
@@ -140,6 +150,7 @@ void JE_helpBox(SDL_Surface *screen,  int x, int y, const char *message, unsigne
 	pos = 1;
 	endpos = 0;
 	endstring = false;
+	brightnum = message[0] == '~';
 
 	do
 	{
@@ -150,6 +161,8 @@ void JE_helpBox(SDL_Surface *screen,  int x, int y, const char *message, unsigne
 			endpos = pos;
 			do
 			{
+				if (message[pos] == '~')
+					brightnum++;
 				pos++;
 				if (pos == strlen(message))
 				{
@@ -159,12 +172,11 @@ void JE_helpBox(SDL_Surface *screen,  int x, int y, const char *message, unsigne
 						endpos = pos + 1;
 					}
 				}
+			} while (!(endstring || message[pos-1] == ' ' || (brightnum & 1) == 0 && (unsigned char)message[pos] >= 0xc0));
 
-			} while (!(message[pos-1] == ' ' || endstring));
+		} while (!(endstring || (unsigned)(pos - startpos) > boxwidth));
 
-		} while (!((unsigned)(pos - startpos) > boxwidth || endstring));
-
-		SDL_strlcpy(substring, message + startpos - 1, MIN((size_t)(endpos - startpos + 1), sizeof(substring)));
+		SDL_strlcpy(substring, message + startpos - 1, MIN((size_t)(endpos - startpos + 2), sizeof(substring)));
 		JE_textShade(screen, x, y, substring, helpBoxColor, helpBoxBrightness, helpBoxShadeType);
 
 		y += verticalHeight;

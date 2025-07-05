@@ -1,0 +1,1160 @@
+** Section 1 - Online Help - 255 chars max
+
+~Start Level~  Select the next level to play (usually there is only one selection).
+~开始关卡~  选择要玩的下个关卡（通常只有一个选择）。
+
+~DATA~  Here you read the datacubes you collect during some levels.  Some cubes have certain... hints.  Be sure to read them!  Select DONE when you are finished reading your cubes.
+~数据~  在这里您可以阅读在某些关卡中收集的数据方块。有些方块包含某些……提示。一定要阅读它们！阅读完您的方块后点“完成”。
+
+~Player Input~  Select the input device you want to use by pushing left or right.  Tyrian will not allow both players to use the same input device.
+~玩家输入~  通过按左右键选择您想要使用的输入设备。泰瑞安不允许两名玩家使用相同的输入设备。
+
+-nogood-
+
+~Upgrade Ship~  You can configure many aspects of your ship.  Upgrade points for your ship are gained by shooting enemies and collecting various items.
+~升级飞船~  您可以配置飞船的许多方面。通过射击敌人和收集各种物品来获得飞船的升级点数。
+
+~Purchasing~  Use the up/down arrow keys to select the item you want to view.  When you purchase the item, a bar will move to show the item you have purchased.  You may then exit the menu using done or ESC.
+~购买~  使用上下方向键选择您想要查看的物品。购买物品时，会出现一个指示条来显示您已购买的物品。然后您可以点“完成”或ESC键退出菜单。
+
+The amount of money you will have available after purchasing the item selected is shown at the bottom.  Items that are darkened out cost more than you can afford and you will be unable to select them.
+在购买所选物品后您将拥有的可用资金的数额显示在底部。价格超出您承受能力的物品会变暗，您将无法选择它们。
+
+~Ship Type~  Each ship has a different armor rating.  Armor is your last line of protection from enemy attack and is not easily repaired in the middile of combat.
+~飞船类型~  每艘飞船都有不同的装甲等级。装甲是您抵御敌人攻击的最后一道防线，在战斗中不容易修复。
+
+~Front Gun~/~Rear Gun~  Your ship can carry both a front and rear gun.  You can change your weapons or upgrade them from here.
+~前炮~/~后炮~  您的飞船可以携带一对前炮和后炮。您可以在这里更换或升级武器。
+
+To ~upgrade~ or ~downgrade~ your existing gun, use the right and left arrow keys or click on the red arrows below your ship.  The bars in the center show you what power level your weapons are at.
+要~升级~或~降级~现有武器，请使用左右方向键或点击飞船下方的红色箭头。中间的进度条显示您的武器处于何种威力等级。
+
+The red arrows and cost displays indicate when you can upgrade or downgrade your weapons.  If the right arrow is darkened or the cost is displayed in red, you cannot upgrade further.
+红色箭头和费用显示会提示您何时可以升级或降级武器。如果右箭头变暗或费用显示为红色，则表示无法进一步升级。
+
+-nogood-
+
+Be sure to watch the power bar to see how quickly your energy level will drop while firing.
+请留意能量条，以了解开火时能量下降的速度。
+
+~Shield~  Your ship is protected by a shield, which you upgrade in the same manner as your ship. Just select the shield you like with the up/down arrow keys, and buy it by pressing the "enter" key or the space bar.
+~护盾~  您的飞船有护盾保护，您可以通过与升级飞船相同的方式升级护盾。只需使用上下方向键选择您喜欢的护盾， 然后按回车键或空格键购买。
+
+~Generator~  You need power to fly that ship you're in. Your generator is the most important part of your ship. It determines how many shots you can fire at a time as well as how fast your shield recharges.
+~发电机~  您需要电力来驾驶飞船。您的发电机是飞船最重要的部分。它决定了您一次能发射多少炮弹以及护盾的恢复速度。
+
+Buy a better generator and you'll have a much better edge. Select your option in the same manner as the other items.
+购买更好的发电机，您将获得更加强大的优势。选择方式与其它物品相同。
+
+~Sidekicks~  You can have both a left and right sidekick.  These are special weapons that fly alongside your ship.
+~副武器~  您可以拥有一对左右副武器。这些是能与您的飞船并肩飞行的特殊武器。
+
+They range from just a simple cannon to the awesome "Atom" bomb. Some are much more powerful than others.  Many have limited ammo, but they will recharge slowly during a level!
+它们从简单的加农炮到威力惊人的“原子”炸弹应有尽有。有些武器的威力远超其他武器。许多武器的弹药有限，但会在关卡中会慢慢补充！
+
+-nogood-
+
+~Done~  This selection allows you to return to the Main Menu. Click on it when you're ready to fly!
+~完成~  选择此项可让您返回主菜单。准备好飞行时点击它！
+
+~Options Menu~  From this menu you may configure your joystick or keyboard, and load and save your games.
+~选项菜单~  从这个菜单中您可以配置操纵杆或键盘，以及加载和保存游戏。
+
+~Save Game~  The game you have in progress is automatically saved when you finish the level. So if you forget to save your game, just load "Last Level" and the last level you played will be loaded.
+~保存游戏~  您正在进行的游戏会在完成关卡时自动保存。所以如果您忘记保存游戏，只需加载“上一关卡”，您上次玩的关卡就会被加载。
+
+To save a game select "save game" from the Options menu, find an empty slot, press the Enter key or spacebar, and enter the name of your choice.
+要保存游戏，请从选项菜单中选择“保存游戏”，找到一个空槽，按回车键或空格键，然后输入您选择的名称。
+
+~Load Game~  To load a game, follow the same procedure except all you need to do is highlight the name of the game you wish to load and press Enter or hit the spacebar.
+~加载游戏~  要加载游戏，请按照相同的步骤操作，只需高亮您想要加载的游戏名称，然后按回车键或空格键即可。
+
+~Keyboard~  To configure your keyboard select "Keyboard" from the Options menu. Then, hit the key you wish to use for the function that is highlighted (example: when "up" is highlighted, hit the up arrow on your numeric keypad).
+~键盘~  要配置键盘，请从选项菜单中选择“键盘”。然后，按高亮显示的功能所对应的键（例如：当“上”被高亮时按数字小键盘的上方向键）。
+
+~Joystick~  To configure your joystick, simply select "Joystick" from the Options menu and follow the on-screen instructions.
+~操纵杆~  要配置您的操纵杆，只需从选项菜单中选择“操纵杆”，然后按照屏幕上的说明操作即可。
+
+~Volume~  You may also change the volume of the music or the sound in the game by highlighting either "Music" or "Sound" in the Options menu and using the left and right arrow keys to change the volume.
+~音量~  您还可以通过在选项菜单中高亮显示“音乐”或“音效”，然后按左右方向键来更改游戏中的音乐或音效音量。
+
+~Quit Game~  Select this to quit your game.  You will be returned to the title screen.  Use Alt-X for a quick way to quit the game.
+~退出游戏~  选择此选项可退出游戏。您将返回到标题画面。使用Alt-X可快速退出游戏。
+
+To exit the game from the title screen simply select "Quit Game" again and press Enter or the spacebar.
+要从标题画面退出游戏，请再次选择“退出游戏”，然后按回车键或空格键。
+
+Select Ordering Info from Main Menu to find out how to order.
+从主菜单选择“订购信息”以了解如何订购。
+
+~Power Bar~  Current power available.  Your weapons and shields draw power from here.
+~能量条~  当前可用能量。您的武器和护盾从这里摄取能量。
+
+~Weapons~  The two bars show your weapon power for both front and rear weapons.
+~武器~  两个进度条分别显示前后武器的威力。
+
+~Weapon Mode~  Some rear weapons can have their firing pattern changed with the keyboard command ~change fire~ or a joystick button assigned to ~Change rear weapon~.
+~武器模式~  某些后武器可通过~改变射击模式~键盘命令或~改变后武器~操纵杆按钮来改变射击方式。
+
+~Sidekicks~  You can have up to two side weapons, usually fired with separate buttons.  The number of shots left are shown under the weapon name.
+~副武器~  您最多可以拥有两个副武器，通常用单独的按钮发射。剩余的射击次数显示在武器名下方。
+
+~Shield/Armor~  These bars show how much damage you can take.  Shields will recharge with time from your ~power bar~ and a repair ship may appear if your armor is low - shoot it!
+~护盾/装甲~  这俩条显示能承受的伤害量。护盾会利用~能量条~随时间自动恢复，如果装甲过低,可能出现维修船-射击它！
+
+~Side-Panel~  Top: Player 1    Bottom: Player 2
+~侧面板~  上：玩家1    下：玩家2
+
+~Weapon Power~  This shows the level of power for each player's main weapon.
+~武器威力~  显示每个玩家主武器的威力等级。
+
+~Linking~  Move both ships together to combine them.  Player 1 disengages by holding down a sidekick firing button and moving up.  Player 2 disengages by moving without firing the main gun.
+~链接~  移动两艘飞船使其靠拢来组合。玩家1通过按住副武器射击键并向上移动来脱离。玩家2通过不发射主炮而移动来脱离。
+
+~Rotation Cannon~  Player 2 can aim the cannon by holding down the fire button and moving in any direction.
+~旋转炮~  玩家2可以通过按住射击按钮，并朝任意方向移动来移动炮的瞄准方向。
+
+** Section 4 - Misc text - 50 chars max
+
+Last Level Completed
+上一关卡已完成
+
+~Save name:  ~
+~保存名称：~
+
+EMPTY SLOT
+空槽位
+
+Cubes collected:
+已收集的方块：
+
+Press a key
+按任意键
+
+Exit to Game Menu
+退出到游戏菜单
+
+Press C to recalibrate
+按C键重新校准
+
+INSERT COIN
+投入硬币
+
+Joystick recalibrated
+操纵杆已重新校准
+
+OK
+确定
+
+CANCEL
+取消
+
+Read:
+阅读：
+
+EXIT
+退出
+
+DONE
+完成
+
+None
+无
+
+No Data is available at this time.
+现在没有数据可用。
+
+Warping to secret level!
+翘曲进入秘密关卡！
+
+SOUND OFF
+音效关闭
+
+SOUND ON
+音效开启
+
+NEW GAME
+新游戏
+
+Good luck...
+祝好运……
+
+GAME OVER
+游戏结束
+
+PAUSED
+已暂停
+
+Enter your beta password:
+输入你的beta密码：
+
+PART
+部分
+
+Page
+页码
+
+Completed:
+已完成：
+
+Current Score:
+当前分数：
+
+Are you sure you want to exit?
+你确定要退出吗？
+
+You will quit this level.
+你将推出此关卡。
+
+You will be returned to the main menu.
+你将返回到主菜单。
+
+Use arrow keys to select and press Enter.
+使用方向键选择并按回车键。
+
+Press the key to use for this function.
+按此键来实验这个功能。
+
+Exit to Main Menu
+退出到主菜单
+
+Beta Test Version
+Beta测试版
+
+MUSIC OFF
+音乐关闭
+
+MUSIC ON
+音乐开启
+
+Your total Score:
+你的总分数：
+
+One Player Saved Games
+单人玩家保存的游戏进度
+
+Two Player Saved Games
+双人玩家保存的游戏进度
+
+Player 1 Score:
+玩家1分数：
+
+Player 2 Score:
+玩家2分数：
+
+Player 1 got
+玩家1获得
+
+Player 2 got
+玩家2获得
+
+Front Weapon Power-Up
+前武器威力提升
+
+Rear Weapon Power-Up
+后武器威力提升
+
+One Player
+单人玩家
+
+Two Player
+双人玩家
+
+Player 1
+玩家1
+
+Player 2
+玩家2
+
+High Scores
+高分榜
+
+Congratulations!
+恭喜！
+
+You have earned a high score!
+你赚取了一个高分！
+
+Enter your name:
+输入你的名字：
+
+Levels in Episode  1:17  2:12  3:12  4:20
+章节中的关卡数  1:17  2:12  3:12  4:20
+
+~Left~ or ~right~ for 1 or 2 player game.
+~左右~切换1或2名玩家。
+
+~Left~ or ~right~ to select episode.
+~左右~切换章节。
+
+Player 1 has earned a high score!
+玩家1赚取了一个高分！
+
+Player 2 has earned a high score!
+玩家2赚取了一个高分！
+
+Secret Level!
+秘密关卡！
+
+* Game Saved *
+* 游戏已保存 *
+
+Exiting:
+退出：
+
+Destruction:
+破坏：
+
+You got the
+你得到了
+
+Press F1 for help.
+按F1键获取帮助。
+
+F10 toggles left CPU/Human player.
+按F10键切换左侧的CPU/人类玩家。
+
+TIME REMAINING
+剩余时间
+
+>> Bonus Game <<
+>> 奖励游戏 <<
+
+Are you sure you want to save?
+你确认要保存吗？
+
+Original save:
+之前保存：
+
+[/] Rear Weapon Mode
+[/] 切换后武器模式
+
+Type Engage or
+输入Engage或
+
+** Section 5 - LittleMiscText - 12 chars max
+
+Ep
+章
+
+Episode
+章节
+
+Last Level
+上一关
+
+got
+获得
+
+SUPER
+超级
+
+POWER:
+威力:
+
+Time Bonus
+时间奖励
+
+Lives Bonus
+生命奖励
+
+** Section 6 - Key names - 16 chars max
+
+KEY CONFIG
+键盘配置
+
+UP
+上
+
+DOWN
+下
+
+LEFT
+左
+
+RIGHT
+右
+
+FIRE
+开火
+
+CHANGE FIRE
+切换副武器
+
+LEFT SIDEKICK
+左副武器
+
+RIGHT SIDEKICK
+右副武器
+
+Reset to Defaults
+重置成默认
+
+Done
+完成
+
+** Section 10 - Interface Icons & Other Mini-Help Text - 65 chars max
+
+Communications : Read incoming messages
+通讯：阅读收到的消息
+
+Purchase new weapons and ship components.
+购买新武器和飞船组件。
+
+Configuration and Load/Save game
+配置和加载/保存游戏
+
+Journey onward to another level.
+继续前行到下个关卡。
+
+Quit the game.
+退出游戏。
+
+Each ship has a different armor rating.
+每艘飞船都有不同的护甲等级。
+
+Change and upgrade your forward weapon.
+更换和升级您的前武器。
+
+Change and upgrade your rear/side weapon.
+更换和升级您的后/侧武器。
+
+Shields are your first line of defense.
+护盾是您的第一道防线。
+
+Generators power your weapons and shields.
+发电机为您的武器和护盾提供能量。
+
+Take a chance : Purchase a special weapon.
+冒险一试：购买一件特殊武器。
+
+Return to the previous menu.
+返回上一级菜单。
+
+Load a saved game.  (Shortcut is ALT-L)
+加载已保存过的游戏。（快捷键是ALT-L）
+
+Save your game for later.  (Shortcut is ALT-S)
+保存游戏以便稍后继续。（快捷键是ALT-S）
+
+Change volume with the left/right arrow keys.
+按左右方向键改变音量。
+
+Configure your Joystick buttons.
+配置您的操纵杆按钮。
+
+Change the keys used to play the game.
+更改用于玩游戏的按键。
+
+Select this location to visit next.
+选择下一个要访问的位置。
+
+Select the item you want.
+选择您想要的物品。
+
+Press ENTER to change this key.
+按回车键更改此键。
+
+Press up or down to select the save slot you want.
+使用上下方向键选择您的存档槽位。
+
+Press up or down to select the cube you want to read.
+使用上下方向键选择您想要读取的方块。
+
+Press ESC to exit.
+按ESC键退出。
+
+Select a weapon.  Left/right arrow keys to change power level.
+选择一件武器。使用左右方向键更改威力等级。
+
+Reset all key selections to the original settings.
+将所有按键选择重置为初始设置。
+
+Continue playing the level.
+继续玩此关卡。
+
+Quit playing the level.
+退出此关卡。
+
+Change detail level with the left/right arrow keys.
+按左右方向键更改细节等级。
+
+Change game speed with the left/right arrow keys.
+按左右方向键更改游戏速度。
+
+Use the arrow keys to select the interface device to use.
+按方向键选择要使用的接口设备。
+
+Change the function with the left/right arrow keys.
+按左右方向键更改功能。
+
+Select this if the position mark is not in the center rectangle.
+如果位置标记不在中心矩形内，请选择此项。
+
+Leave the joystick in the center position and push a button.
+将操纵杆置于中间位置并按下按钮。
+
+Access schematics and detailed info on your ship.
+访问您飞船的原理图和详细信息。
+
+Configure your mouse buttons.
+配置鼠标按钮。
+
+Reset all buttons selections to the original settings.
+将所有按钮选择重置为原始设置。
+
+Configuration settings.
+配置设置。
+
+** Section 23 - Difficulty Levels
+
+Unranked
+未上榜
+
+Easy
+简单
+
+Normal
+普通
+
+Hard
+困难
+
+Impossible
+不可能
+
+Insanity
+疯狂
+
+Suicide
+自杀
+
+Maniacal
+狂野
+
+Terror
+恐怖
+
+Master
+大师
+
+Zinglon
+劲仑
+
+** SHIP Data Info
+
+The ~USP Talon~ provides you with ~one~ ~full~ ~inch~ of armor plating and a generous full-sized generator and engine area.  With both forward and rear mounting systems and 2 cargo bays, it's just like a real ~Microsol~ fighter!
+~USP鹰爪号~为您提供了~整整一英寸厚~的装甲板，以及宽敞的全尺寸发电机和引擎区域。它配备了前后安装系统和两个货舱，就像真正的~微索~战机一样！
+
+The craft is especially designed for speed and maneuverability; it gives you an unparalleled 3G base thrust addition!  All this for only ~6000~ cr!!
+这款飞船专为速度和机动性而设计，为您提供无与伦比的3G基础推力加成！仅售~6000~cr！
+
+The ~SuperCarrot FoodShip 9~ is one of the most advanced edible fighters ever produced.  You can't go wrong with a ~FoodShip~!
+~超级胡萝卜食品飞船9号~是迄今为止生产的最先进的可食用战机。选择~食品飞船~准没错！
+
+~Foodships~ are usually complemented by either the ~Hotdog Mustard-spread Technology~, or the dreaded ~SuperBanana Bombs~.
+~食品飞船~通常配备~热狗芥末涂抹技术~或令人畏惧的~超级香蕉炸弹~。
+
+The ~Gencore Phoenix~ is the main advanced ~Gencore~ ~Solo~ ~Fighter~.  It's an extremely reliable craft that can take a good deal of punishment.
+~基核凤凰号~是~基核单人战机~系列中的主力先进机型。它是一款极其可靠的飞船，能够承受相当大的打击。
+
+Standard on the ~Gencore~ ~Solo~ ~Fighter~ line is the new particle redefinition technology, which allows you to materialize extra armor on your outer hull.  Pilots are warned that the system is easily triggered and it completely drains your shields.
+~基核单人战机~系列的标准配置是新的粒子重定义技术，该技术允许您在外壳上生成额外的装甲。飞行员请注意，该系统容易触发，并且会完全耗尽您的护盾。
+
+The ~Gencore Maelstrom~ is a refined ~Phoenix~ with an additional ~2cm~ of main hull.  It also features deluxe plush seating with ~extra-wide~ ~armrests~ and ~synth-velour~ ~lining~.
+~基核旋涡号~是~凤凰号~的改进版，主船体增加了~2厘米~。它还配备了豪华的毛绒座椅，配有~超宽扶手~和~合成天鹅绒衬里~。
+
+~Microsol~.  What more do you need to convince you that their ~Stalker Solo Fighter~ is the ship you want?  Not so fast, though.  You'll pay a hefty premium for this ship or have to fill out a stack of forms two feet high.
+~微索~。还有什么能比这更让您确信他们的~追踪者单人战机~就是您想要的飞船呢？不过，且慢。您得为这艘飞船支付高昂的溢价，或者填写两英尺高的表格。
+
+With its dense hull alloys and overall excellent defensive capability, you'll sleep safer at night with one of these on your side.
+凭借其致密的船体合金和出色的防御能力，有这样一艘飞船在身边，您晚上会睡得更安稳。
+
+~Microsol~ continues the ~Stalker~ line with the ~Stalker-B~.  This is the deluxe model preferred by Microsol's own Outer Scouts.  It's the ship of choice for those long, solo flights.
+~微索~继续推出了~追踪者~系列的~追踪者-B~型号。这是微索自身外太空侦察队偏爱的豪华型号。对于那些漫长的单人飞行来说，这是首选飞船。
+
+The ~Stalker-B~ adds an additional ~2~ ~structural~ ~units~ with its refined alloys, for an unheard-of ~28 SUs~ in a solo craft.
+~追踪者-B~型号采用精炼合金，额外增加了~2个结构单元~，使得单人飞船的结构单位达到了前所未有的~28个结构单元~。
+
+~TOP SECRET:~ The quest continues for the strongest ship available with the most powerful backup defense systems.  This is one of the only ships in existence with 3 defense bays!
+~绝密:~ 寻找最强飞船以及最强大的备用防御系统的征程仍在继续。这是现存为数不多拥有3个防御舱的飞船之一！
+
+An additional SU has been added to the armor value of this ship, and Microsol has retrofitted a ~Gencore~ ~auto-repair~ ~system~ into each ship, making these the definite superiority fighter!
+这艘飞船的护甲值增加了一个额外的结构单元，而且微索还为每艘飞船都加装了~基核自动修复系统~，使其成为绝对的制胜战机！
+
+The ~USP Fang~ is a standard ~Talon~ that has been retrofitted with additional armor and a more powerful secondary backup defense system.
+~USP舫~是一款标准的~鹰爪~飞船，加装了额外的护甲和更强大的备用防御系统。
+
+As always, the ~USP~ invulnerability system is unique in its field and, if used properly, will let you take out anything else in the universe.
+一如既往，~USP~坚不可摧的系统在同类产品中独树一帜，如果使用得当，能让您消灭宇宙中的任何敌人。
+
+The ~U-Drone~ is a standard mining drone which has been retrofitted with a manual-drive cockpit and twin rapid-fire vulcan cannons.  Space is limited on this craft, so it's limited to a single backup defense unit.
+~U-无人机~是一款标准的采矿无人机，加装了手动驾驶舱和双管速射火神炮。由于空间有限，它只能搭载一个备用防御单元。
+
+This ship isn't meant for flying around in, but with an infrared scrambler on board, it's a perfect way to sneak in behind enemy lines!
+这艘飞船并非用于飞行，但配备了红外干扰器，是潜入敌后偷袭的绝佳选择！
+
+No info available on Player 1.
+玩家1没有可用信息。
+
+Used in Arcade Mode.
+用于街机模式。
+
+~TOP SECRET:~ This ship is on loan from ~Nortaneous'~ personal hanger.  The rent on this ship is very high, but it's incredibly powerful.
+~绝密:~ 这艘飞船是从~诺特尼乌斯~的私人机库借来的。租用这艘飞船的费用非常高昂，但它极其强大。
+
+The only way to describe what this ship does is to fly it and see for yourself.  Nothing on the screen is safe with its ~special~ ~weapon~ active.
+要描述这艘飞船的性能，唯一的办法就是亲自驾驶它体验一番。只要它的~特殊武器~一启动，屏幕上的一切都不再安全。
+
+After destroying the tyrranical might of ~Vykromod~ a second time, Trent found himself locked into the future through the Stargate.  But that's another story.  Now, though, he has returned with his modified ~Stalker C~ to reclaim his past.
+在第二次摧毁了~维克罗莫德~的残暴势力之后，特伦特发现自己通过星际之门被锁定了未来。但那是另一个故事了。现在，他带着改装后的~追踪者C号~飞船回来了，要夺回自己的过去。
+
+The ~Modified Stalker~ is equipped with an advanced molecular generator which simulates many conventional weapons.  But, it also has the power to instantly generate any one of a number of side-ships and front attachments.  It's the power of the future.
+~改装的追踪者号~配备了先进的分子发生器，能够模拟多种常规武器。而且，它还能瞬间生成多艘侧翼飞船和前部附件。这是未来的力量。
+
+The ~Storm~ is an older model fighter from the ~Bontoria~ ~War~ which erupted about 220 star-years ago.  Unique at its time, it was the first starfighter equipped with an experimental phase shift technology which rendered the craft impossible to hit.
+~风暴号~是一款较老的战机型号，来自大约220星年之前的~邦托里亚战争~。在当时独一无二，它是第一款装备了实验性相位偏移技术的星际战机，使得这架飞船几乎无法被击中。
+
+In later years, ~Microsol~ acquired the technology for its somewhat popular ~USP~ craft series.  Unfortunately, it required critical extra space, severely limited the size and weight of the craft, and required excessive energy boosts.
+后来，~微索~获得了这项技术，并将其应用于其颇受欢迎的~USP~系列飞船中。不幸的是，这需要关键的额外空间，严重限制了飞船的大小和重量，并且需要过多的能量助推。
+
+Dragon
+龙号
+
+Toto
+托托号
+
+This craft is the result of ~Gencore~ raids on key ~Microsol~ research facilities following the recent conflicts in the ~Asteroid~ sectors.
+这艘飞船是由于近期~小行星~带冲突后，~基核~对关键的~微索~研究设施进行突袭的结果。
+
+Taking an existing ship design, ~Gencore~ retrofitted it with an advanced armor design and power couplings, resulting in a more economical but worthy fighter craft.  This design radically improves ~Gencore~ military effectiveness.
+~基核~对现有的飞船设计进行了改造，加装了先进的装甲设计和动力耦合装置，从而造就了一款经济实惠但性能出色的战机。这种设计极大地提高了~基核~的军事效能。
+
+Todo
+待定
+
+PeteZoomer
+皮特祖玛
+
+RumBottle
+朗姆酒
+
+** Section 26 - Joystick Functions - 20 chars max
+
+Fire main weapons
+主武器开火
+
+Fire Left Sidekick
+左副武器开火
+
+Fire Right Sidekick
+右副武器开火
+
+Fire BOTH Sidekicks
+双副武器开火
+
+Change rear weapon
+改变后武器方式
+
+**---SHIP---
+
+None
+无
+
+USP Talon   Light Fighter
+USP鹰爪号   轻战机
+
+SuperCarrot
+超级胡萝卜
+
+Gencore Phoenix
+基核凤凰号
+Gencore Maelstrom
+基核旋涡号
+
+MicroCorp Stalker
+微社追踪者
+
+MicroCorp Stalker-B
+微社追踪者-B
+
+Prototype Stalker-C
+原型追踪者-C
+
+Stalker
+追踪者
+
+USP Fang    Light Fighter
+USP舫    轻战机
+
+U-Ship
+U-飞船
+
+Silver Ship
+银色飞船
+
+Nort Ship
+北部飞船
+
+The Stalker 21.126
+追踪者 21.126
+
+Storm
+风暴号
+
+Red Dragon
+红龙号
+
+Gencore II
+基核II号
+
+PeteZoomer
+皮特祖玛
+
+Rum Bottle
+朗姆酒
+
+**---PORT---
+
+None
+无
+
+Pulse-Cannon
+脉冲炮
+
+Multi-Cannon
+多向炮
+
+Mega Cannon
+巨型炮
+
+Laser
+激光
+
+Zica Laser
+兹卡激光
+
+Protron Z
+Z型质子炮
+
+Vulcan Cannon
+火神炮
+
+Lightning Cannon
+闪电炮
+
+Starburst
+星爆炮
+
+Sonic Wave
+声波炮
+
+Protron
+质子炮
+
+Wild Ball
+野球炮
+
+Miscellaneous Option Weapons
+杂项武器
+
+Missile Launcher
+导弹发射器
+
+Fireball
+火球
+
+Mega Pulse
+巨型脉冲
+
+Heavy Missile Launcher
+重导弹发射器
+
+Rear Heavy Missile Launcher
+后部重导弹发射器
+
+Rear Mega Pulse
+后部巨型脉冲
+
+Banana Blast
+香蕉冲击
+
+Banana Blast Rear
+后部香蕉冲击
+
+HotDog Front
+前部热狗
+
+HotDog Rear
+后部热狗
+
+Hyper Pulse
+超级脉冲
+
+Guided Micro Bombs
+微型制导炸弹
+
+Heavy Guided Bombs
+重型制导炸弹
+
+Scatter Wave
+驱散波
+
+Guided Bombs
+制导炸弹
+
+Shuruiken Field
+手里剑场
+
+Poison Bomb
+毒药炸弹
+
+Protron Wave
+质子波
+
+The Orange Juicer
+橙汁
+
+NortShip Super Pulse
+北舰超级脉冲
+
+NortShip Spreader
+北舰播撒机
+
+NortShip Spreader B
+北舰播撒机B型
+
+Atomic RailGun
+原子轨道枪
+
+Widget Beam
+零件射线
+
+Sonic Impulse
+声波冲击
+
+RetroBall
+火箭球
+
+Needle Laser
+针型激光
+
+Pretzel Missile
+卷饼导弹
+
+Dragon Frost
+龙之冰霜
+
+People Pretzels
+人类卷饼
+
+Dragon Flame
+龙之烈焰
+
+Test
+测试
+
+**---SPECIAL---
+
+None
+无
+
+Repulsor
+反重力器
+
+Pearl Wind
+珍珠风
+
+Soul of Zinglon
+劲仑之魂
+
+Attractor
+引力器
+
+Ice Beam
+冰射线
+
+Flare
+照明弹
+
+Blade Field
+利刃场
+
+SandStorm
+沙漠风暴
+
+MineField
+雷区
+
+Dual Vulcan
+双重火神
+
+Banana Bomb
+香蕉炸弹
+
+Protron Dispersal
+质子散播
+
+Astral Zone
+星区
+
+Xega Ball
+泽加球
+
+MegaLaser Dual
+双重巨型激光
+
+Orange Shield
+橙盾
+
+Pulse Blast
+脉冲冲击
+
+MegaLaser
+巨型激光
+
+Missile Pod
+导弹仓
+
+Minefield
+雷区
+
+Post-It Blast
+便条冲击
+
+Drone **
+无人机**
+
+Repair Player 1
+修理玩家1
+
+Super Bomb
+超级炸弹
+
+Hot Dog
+热狗
+
+Lightning UP
+闪电之上
+
+Lightning UP+LEFT
+闪电之左上
+
+Lightning UP+RIGHT
+闪电之右上
+
+Lightning LEFT
+闪电之左
+
+Lightning RIGHT
+闪电之右
+
+MicroSol Option
+微索选项
+
+MicroSol Option2
+微索选项2
+
+MicroSol Option3
+微索选项3
+
+MicroSol Option4
+微索选项4
+
+MicroSol Option5
+微索选项5
+
+MicroSol Option6
+微索选项6
+
+Invulnerability
+坚不可摧
+
+Atom Bomb
+原子炸弹
+
+Seeker Bombs
+探索者炸弹
+
+Lightning Zone
+闪电区
+
+SDF Main Gun
+SDF主枪
+
+Ice Blast
+冰冲击
+
+8-Way Microbomb
+8路微炸弹
+
+Protron Field
+质子场
+
+Super Pretzel
+超级卷饼
+
+Dragon Lightning
+龙之闪电
+
+**---POWER---
+
+None
+无
+
+Standard MR-9
+标准MR-9
+
+Advanced MR-12
+高级MR-12
+
+Gencore Custom MR-12
+基核自设MR-12
+
+Standard MicroFusion
+标准微聚变
+
+Advanced MircoFusion
+高级微聚变
+
+Gravitron Pulse-Wave
+重创脉冲波
+
+**---OPTION---
+
+None
+无
+
+Single Shot Option
+单发选项
+
+Dual Shot Option
+双发选项
+
+Charge Cannon
+充能加农炮
+
+Vulcan Shot Option
+火神发射选项
+
+Wobbley
+摇摆
+
+MegaMissile    Ammo 5
+巨型导弹    5枚
+
+Atom Bombs     Ammo 20
+原子炸弹   20枚
+
+Phoenix Device Ammo 8
+凤凰设备    8枚
+
+Plasma Storm   Ammo 6
+离子风暴    6枚
+
+Mini-Missile   Ammo 100
+迷你导弹  100枚
+
+Buster Rocket  Ammo 30
+破坏者火箭 30枚
+
+Zica SuperCharger
+兹卡超级充电器
+
+MicroBomb      Ammo 60
+微型炸弹   60枚
+
+8-Way MicroBomb  Ammo 30
+8路微炸弹  30枚
+
+Post-It Mine   Ammo 20
+便条雷     20枚
+
+Mint-O-Ship
+薄荷O型飞船
+
+Zica Flamethrower
+兹卡火焰投射器
+
+Side Ship      Ammo 100
+副飞船    100枚
+
+Companion Ship Warfly
+伴航飞船战翼号
+
+MicroSol FrontBlaster
+微索前端爆破
+
+Companion Ship Gerund
+伴航飞船格伦德号
+
+BattleShip-Class Firebomb
+战舰级火弹
+
+Protron Cannon Indigo
+靛蓝质子炮
+
+Companion Ship Quicksilver
+伴航飞船快银号
+
+Protron Cannon Tangerine
+橘黄质子炮
+
+MicroSol FrontBlaster II
+微索前端爆破II型
+
+Beno Wallop Beam
+贝诺猛击射线
+
+Beno Protron System -B-
+贝诺质子系统B型
+
+Tropical Cherry Companion
+热带车厘子伴侣
+
+Satellite Marlo
+马洛卫星
+
+Bubble Gum-Gun
+胶泡枪
+
+Flying Punch
+飞行重击
+
+**---SHIELD---
+
+None
+无
+
+Structural Integrity Field
+结构完整力场
+
+Advanced Integrity Field
+高级完整力场
+
+Gencore Low Energy Shield
+基核低能盾
+
+Gencore High Energy Shield
+基核高能盾
+
+MicroCorp LXS Class A
+微社LXS级A型
+
+MicroCorp LXS Class B
+微社LXS级B型
+
+MicroCorp LXS Class C
+微社LXS级C型
+
+Gencore Solar Shield
+基核太阳盾
+
+MicroCorp HXS Class A
+微社HXS级A型
+
+MicroCorp HXS Class B
+微社HXS级B型
+
+MicroCorp HXS Class C
+微社HXS级C型
