@@ -753,7 +753,7 @@ the galaxy.
 黄粉虫了。
 
 Sadly, there is only one dining establishment for humans: another chain in the
-遗憾的是，对人类只有一家餐厅：位于~格鲁尔~的~星际之家~的另一家连锁店。
+遗憾的是，对人类只有一家餐厅：位于~星际麦粥之家~的另一家连锁店。
 ~Interstellar~ ~House~ of ~Gruel~.  This one is even more miserable than the
 这家比位于托姆拥挤不堪的角落里的那家还要糟糕。
 one located in the toejam of Torm.  Avoid at all costs and try the mealworms
@@ -1024,7 +1024,7 @@ breathtaking place to visit, though.
 Though the surface is totally uninhabitable and the atmosphere still consists
 尽管地表完全无法居住，且大气中仍充斥着氯气和酸液，
 of chlorine and acid, there is an ~Interstellar~ ~House~ of ~Gruel~ already
-但这里已经有一家名为~麦粥之家~的~星际餐厅~。
+但这里已经有一家名叫~星际麦粥之家~。
 located here.  While they haven't received a customer yet who survived the
 虽然他们还没有接待到任何一位成功降落到地表的顾客，
 descent to the surface, they do have high hopes.  Featured on display in the
@@ -1040,7 +1040,7 @@ way down.
 There is no real culture here, per se, but there are a number of military
 这里本身并没有真正的文化，但改造这颗星球的种族
 excursions here by the race who terraformed this planet.  As they don't happen
-曾多次进行军事远征。由于他们不喜欢吃苦，
+曾多次进行军事远征。由于他们不喜欢麦粥，
 to like gruel, nobody in the sector has met one of these creatures yet.
 所以该星域中还没有人见过这些生物。
 
@@ -1068,7 +1068,7 @@ Reference: Hot Dog Generators
 Following the dismantling of the ~Superspace Hot Dawg~ franchise (pushed
 随着~超空间热狗连锁店~的倒闭
 out of the picture by the increasing popularity of ~International~ ~House~ of
-（被日益流行的~麦粥之家~的~国际餐厅~挤出了市场），
+（被日益流行的~国际麦粥之家~挤出了市场），
 ~Gruel~), a cache of top-secret rapid hot dog generators were discovered in
 在~卡曼尼~的一个废弃的研究仓库里发现了
 a sold research warehouse on ~Camanis~.
@@ -1197,59 +1197,80 @@ you sample the local food... or else.
 *30 02
 
 Latest Top Ten List from Eclipse Central
+来自日蚀中心的最新十大榜单
 
 Music
 音乐
 
 Here they are, starting at #10...
+以下是榜单，从第十名开始……
 
   "~Droids~ ~Just~ ~Wanna~ ~Have~ ~Fun~" : Retro Pop
+　“~机器人只想玩得开心~”：复古流行
 
 Droids just wanna have fuh-un; oh oh oh; Droids just a-wanna have fuh-unnn.
+机器人只想玩得开～心；哦哦哦；机器人只想玩～得开～心。
 
   "~If~ ~I~ ~Had~ ~a~ ~Blaster...~" : Religious
+　“~如果我有一个起爆器……~”：宗教
 
 If I had a blaster, I'd blaster in the morning, I'd blaster in the e-e-ev-ning...
+如果我有一个起爆器，我会在早上爆，我会在晚～上～爆……
 
   "~Computer~ ~Generated~ ~Music~ ~#45592-2300-66A~" : CompuGen
+　“~电脑生成音乐#45592-2300-66A~”：机生
 
 WoULD yoU Li~k~e to sI~N~G a SonG wIt~H~ me sUbJEc~T~ ~T~o bL~U~e CashEWs?
+你~愿~意~和~我~一~起~唱~歌~并~受~蓝~腰~果~的~支~配~吗~？
 
   "~Six~ ~Planets~ ~to~ ~Twenty~" : Rock
+　“~六颗行星到二十~”：摇滚
 
 [Guitar solo]  There'll be six  [Guitar solo]  ~PLANETS~ to ~TWENTY~.  Yea,  [Guitar solo]  just six ~PLANETS~  [Guitar solo]  to ~TWENTY~!
+[吉他独奏] 将会有六颗 [吉他独奏] ~行星~到~二十~。耶，[吉他独奏] 就是六颗~行星~ [吉他独奏] 到~二十~！
 
   "~If~ ~I~ ~was~ ~a~ ~Hamburger,~ ~I'd~ ~Eat~ ~Myself~" : Jazz
-
+　“~如果我是个汉堡包，我就把自己吃了~”：爵士
 
 Give me a minute.  I'm findin' some mu-stard.  Give me a minute.  I'm pumpin' some may-o.
+给我一分钟，我在找芥～末。给我一分钟，我在挤蛋黄～酱。
 
 It's just me... and this seeded bu-un!  Just look at me now... Ham-bur-ger.
-
+就是我……和这个带籽的面～包！看看我现在……汉～堡～包。
 
   "~The~ ~4-Minute~ ~Quiet~" : Nothing
+　“~四分钟的安静~”：无类型
 
   "~Mending~ ~Pumpkins~" : Classical
+　“~修补南瓜~”：古典
 
   "~Logic~ ~Absorbtion~" : Rock
+　“~逻辑吸收~”：摇滚
 
 [Screeching noise]  [More Screeching noise]  [Guitar solo]  [Screeching noise]
+[刺耳噪音]  [更多刺耳噪音]  [吉他独奏]  [刺耳噪音]
 
   "~Sand~ ~by~ ~Me~" : Pop
+　“~沙子伴我~”：流行
 
 Sand by me; There's sand by me.  Oh, darling, darling, look at it!  There's sand, all a-round me.  Sand 'round me.  Sand 'r-ound me.  Sand 'round... me-e.
+沙子伴我；这里有沙子伴我。 哦，亲爱的，亲爱的，看看它！我四周，全～是沙子。沙子围着我，沙子围～着我，沙子围着……我～。
 
 And the most popular song out this solar hour:
+还有这个太阳小时最流行的歌曲：
 
 "~CliffTunes~" : Retro New-Wave
+“~悬调~”：复古新浪潮
 
 
 Ten years.  Got some money.  Lost my mind.  Got more money.  Found a life but
+十年了，赚了些钱，失去了理智。赚了更多钱，找到了生活却
 
 lost my rhythm.  Never saw... A paper orangutang.
-
+失去了节奏。从未见过……一张纸做的猩猩。
 
 This is MiMi Jeff with Eclipse Central, signing off.
+这里是日蚀中心的靡靡·杰夫，播送完了。
 
 *31 02
 
@@ -1328,55 +1349,55 @@ our order.
 免受诅咒。
 
 Also important is the ~Right~ ~to~ ~Free~ ~Speech~ ~With~ ~Exceptions~.  That
-
+同样重要的是~言论自由权(有例外)~。也就是说，
 is, any person who follows the right of Zinglon may produce any material they
-
+任何遵循劲仑教义的人都可以制作他们认为合适的任何材料，
 see fit which does not mock the great one himself.  Those who do not follow
-
+但不得嘲弄伟大的劲仑本人。
 the order may also produce any material they wish, though the order is free
-
+那些不遵循教义的人也可以制作任何他们想要的材料，
 to wage Jihad against them.
-
+不过教义组织有权对他们发动圣战。
 
 Another great advance in free rights is the ~Spiritual~ ~Right~ ~to~ ~Eat~
-
+另一个自由权利的巨大进步是~吃饼干的
 ~Crackers~.
-
+精神权利~。
 
 The rest are:
-
+其余的有：
 
 The Law of the Order of Zinglon is final and absolute.
-
+劲仑教义的法律是终极且绝对的。
 
 All races must live in harmony or suffer the consequences.
-
+所有种族必须和谐共处，否则后果自负。
 
 Objects whose quantity are eleven are spiritually divine.
-
+数量为十一的物品在精神上是神圣的。
 
 No race is allowed to totally destroy another, no matter what their crime.
-
+无论犯了什么罪，任何种族都不允许彻底消灭另一个种族。
 Anyone so doing must at least keep one of the target race in stasis under their
-
+任何这样做的人至少要自费将目标种族中的一人置于
 own expense.
-
+休眠状态。
 
 No life form has the right to invoke the power of Zinglon within pagan idols.
-
+任何生命形式都无权在异教偶像中召唤劲仑的力量。
 
 All life forms have the right to subsidized bus fare.
-
+所有生命形式都有权享受补贴的公交费用。
 
 All life forms have the right to subsidized education, as long as they are
-
+所有生命形式都有权享受补贴的教育，
 taught the rules of Zinglon and are bonded into slavery for life.
-
+只要他们接受劲仑的规则并终身为奴。
 
 No life form may be harmed by the order unless the order proves that they have
-
+除非教义组织证明某生命形式违反了上述戒律，
 not followed the above commandments.
-
+否则不得对其造成伤害。
 
 *33
 
@@ -1387,212 +1408,228 @@ Game
 游戏
 
 How to play the special ending game ~ZINGLON'S~ ~ALE~:
-
+如何玩特别结局的游戏~劲仑的啤酒~：
 
 In his quest to reach out into the limitless stretches of imagination, Zinglon
-
+在探索无尽想象空间的旅程中，
 discovered the magical means to create ale.  Now, though, ~Dai-Zan~ has stolen
-
+劲仑发现了酿造啤酒的神奇方法。然而，
 the holy casks of Zinglon and threatens to drink all the ale in the universe
-
+现在~戴赞~偷走了劲仑的圣桶，并威胁要独占宇宙中的所有啤酒。
 for himself.  You, a devout follower of Zinglon must not let this pass!  The
-
+作为劲仑的忠实信徒，你绝不能坐视不管！
 fate of all the ale in the universe is in your hands.
-
+宇宙中所有啤酒的命运都掌握在你的手中。
 
 In this game, you must dodge wave after wave of bouncing enemies in an attempt
-
+在这个游戏中，你必须躲避一波又一波弹跳的敌人，
 to gather as much ale as possible.  While good dodging is important, you must
-
+尽可能多地收集啤酒。虽然躲避得当很重要，
 also clear the screen of enemies completely before you will progress to the
-
+但你必须彻底清除屏幕上的所有敌人，
 next level.  The game continues infinitely, though it will keep getting harder
-
+才能进入下一关。游戏会无限进行下去，但难度会
 and harder.
-
+越来越高。
 
 Enemies:
+敌人：
 
 ~Ignatz~ : Twirling U-ship : 15 pts
+~伊格纳茨~：旋转的U型飞船：15点
 
 ~Morble~ : Spinning O-ship : 20 pts
+~莫布尔~：旋转的O型飞船：20点
 
 ~William~ : Black V-shaped ship : 20 pts
+~威廉~：黑色V型飞船：20点
 
 ~Clifts~ : Brown, round ship : 25 pts
+~克利夫茨~：棕色，圆形飞船：25点
 
 ~Meeble~ : Grey mines : 50 pts
+~米布尔~：灰色地雷：50点
 
 ~Deeble~ : Gold mines : 75 pts
+~迪布尔~：金色地雷：75点
 
 ~Zeeblex~ : Blue mines : ???
+~泽布雷克斯~：蓝色地雷：？？？
 
 ~Tyco~ : Little red bubble : 15+100 pts
+~泰科~：小红泡泡：15+100点
 
 The ~Brussee~ ~Triangles~ : 50 pts
+~布鲁西三角形~：50点
 
 ~Zoglo~ : Glowing red ball : 10 pts
+~佐格洛~：发光的红球：10点
 
 ~Dai-Zan~ ~Minion:~ ~The~ ~Alemaster~ : ??? : ??? pts
+~戴赞的爪牙：啤酒大师~：？？？：？？？点
 
 The armor ship will still come down to help you if you are damaged.
-
+即使你的飞船受损，装甲飞船仍会前来支援。
 Extra lives are earned at 10000, 20000, and every 25000 pts thereafter.
+每获得10000、20000以及此后每25000点，你都会获得额外生命。
 
 *34
 
 STRATEGY
+攻略
 
 Game
 游戏
 
 Strategy Guide for ~ZINGLON'S~ ~ALE~:
-
+~劲仑的啤酒~攻略指南：
 
 This simplistic game can be deceptively difficult.  Don't allow yourself to
-
+这款游戏看似简单，实则颇具难度。
 be hypnotized by the endless streams of enemies!
-
+切勿被源源不断的敌人所迷惑！
 
 Level 1:  ~Panic~
-
+第1关：~恐慌~
 
 A quick wave of ships all attack you at once.  Grab the ale and blast them
-
+一波快速移动的飞船会同时向你发起攻击。拿起啤酒，迅速将它们
 quickly.
-
+击落。
 
 Level 2:  ~Mines~
-
+第2关：~雷区~
 
 This is mostly a large group of mines which will attack you slowly.  Be sure
-
+这关主要是大量缓慢移动的地雷会攻击你。
 to avoid the Zeeblex at all costs - it's indestructible!
-
+务必不惜一切代价避开泽布雷克斯——它是无法摧毁的！
 
 Level 3:  ~Hoppers~
-
+第3关：~跳跃者~
 
 Two sets of Ignatz will attack you.  However, you will pick up two
-
+两组伊格纳茨会攻击你。不过，你会在这里捡到
 ale bottles here.
-
+两个啤酒瓶。
 
 Level 4:  ~Williams~
-
+第4关：~威廉姆斯~
 
 Two sets of Williams attack, one right after another.  Take them out and grab
-
+两组威廉姆斯会接连攻击你。将它们消灭并捡起
 both bottles of ale.
-
+两个啤酒瓶。
 
 Level 5:  ~Morble Wars~
-
+第5关：~莫布尔战争~
 
 Dual Morble formations attack.  Four bottles.
-
+两组莫布尔编队会攻击你。四瓶。
 
 Level 6:  ~Bonus Round~
-
+第6关：~奖励关卡~
 
 Ale galore!  Watch out for the Zeeblex, though.
-
+啤酒多多！不过要小心泽布雷克斯。
 
 Level 7-12: ~?????~
-
+第7-12关：~？？？？？~
 
 Find out for yourself!  Note that this is an endless game here for your
-
+自己去试试看吧！请注意，这只是供您消遣的一个
 amusement only.
-
+无尽游戏。
 
 There are no special moves available in this game.
-
+此游戏中没有特殊操作。
 
 And, just to add a small challenge, my high score is 85600...
-
+另外，为了增加一点小挑战，我的最高分是85600……
 
 *35
 
 REMINDER
+提醒
 
 Game
 游戏
 
-
 You do not need to play this game to continue.  It is merely an extra game
-
+您无需玩此游戏即可继续。这只是为增添乐趣而设的额外游戏。
 for your enjoyment.  If you want to continue with the normal game, simply
-
+如果您想继续正常游戏，
 select ~Give~ ~Up~ in the Next Level menu.
-
+请在下一关菜单中选择~放弃~。
 
 Also, this game can not be played by two players and will only be available
-
+另外，此游戏不能双人玩，仅在正常游戏模式中可用。
 in the normal game mode.  It won't appear when playing arcade or other modes.
-
+在街机模式或其它模式下不会出现。
 
 Enjoy!
-
+祝您玩得开心！
 
 *36 01
 
 GRUEL
-格鲁尔
+麦粥
 
 Ad
 广告
 
 'Twas brillig and the slithey todes did wamble on to...
+当时正值黄昏，滑溜溜的托德斯蹒跚着走向……
 
 ~The~ ~Interstellar~ ~House~ ~of~ ~Gruel~
+~星际麦粥之家~
 
 Yes, friends.  It's all happening here in our Gruel!
-
+没错，朋友们。这一切都在我们的麦粥发生！
 
 I'm Jacob Riitwiit, head of gruel research at ICBG - I Can't Believe it's
-
+我是雅各布·里特维特，ICBG——难以置信这是麦粥——的麦粥研究负责人。
 Gruel.  We have worked long hours perfecting the greatest gruel recipe ever!
-
+我们花费了大量时间精心调制出了有史以来最棒的麦粥配方！
 
 Some of your ancestors may have walked in primitive huts, sampling this
-
+你们的祖先或许曾在简陋的小屋里品尝过这种营养丰富的点心。
 nutritious snack.  And, now, you can continue the tradition with:
-
+而现在，你们也能延续这一传统，享用：
 
 ~Auntie~ ~Boglog's~ ~Swill-diddily-blugus~ ~Bars!~  We've taken the same great
-
+~博格洛姑妈的“泔水·迪迪里·布卢格斯”棒！~
 taste and tantalizing aroma and crammed it into these little bars.
-
+我们把同样的美味和诱人香气都塞进了这些小棒里。
 
 [Disgusting cartoon of gnomes singing and swimming around in a stump filled
-
+[令人作呕的卡通画面：小矮人在装满麦粥的树桩里
 with gruel.]
-
+唱歌游泳。]
 
 Slop it here,
-
+这儿一勺，
 squish it there,
-
+那儿一捏，
 it's all a lump of gruel.
-
+全都是麦粥。
 
 We like to eat this tasty snack
-
+我们喜欢吃这种美味的小点心，
 and soon you wi-ill too!
-
+很快你们也会喜～欢的！
 
 'Cause we're the gnomes of Cackle-Berry
-
+因为我们是来自咯咯莓的小矮人，
 who make this tasty gruel.
-
+我们制作这种美味的麦粥。
 
 It's filling...
-
+它能饱腹……
 nutritious...
-
+营养丰富……
 and hangs well on the wall.
-
+还能挂在墙上。
 
 We..
 我们……
@@ -1602,36 +1639,46 @@ i----t...
 他——……
 
 Swill-diddily-blugus Bars!
+泔水·迪迪里·布卢格斯棒！
 
 Tasty with a heart!
+甜蜜又贴心！
 
 Swill-diddily-blugus Bars!
+泔水·迪迪里·布卢格斯棒！
 
 Sealed in with a f---
+密封包装使用——
 
 [Scene edited out.]
+[画面被剪辑。]
 
 So buy some today!
+所以今天就来买一些吧！
 
 *37 05
 
 COMPLAINT
+投诉
 
 Letter
+信件
 
 Dear Sirs:
-
+尊敬的先生们：
 
 I would like to complain about your editing out of material you see as harmful
-
+我想投诉你们删减了你们认为有害且低俗的内容。
 and in bad taste.  In the last commercial, you took out the scene where the
-
+在上一则广告中，你们删掉了小矮人的场景，其中的
 gnome
-
+神像
 
 [Letter edited out due to tasteless comment]
+[信件因低俗评论被编辑]
 
 Thank you for printing my point of view.
+感谢您发表我的观点。
 
 Emperor Milktoe of Savara
 萨瓦拉的乳趾皇帝

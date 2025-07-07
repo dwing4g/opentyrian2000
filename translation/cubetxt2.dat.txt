@@ -1,0 +1,361 @@
+*01 01 {Start of Episode 2}
+
+MISSION BRIEFING FLUX 0473
+任务简报流0473
+
+Javi
+佳维
+
+Gencore Security Chief
+基核安全主管
+
+We have been monitoring some unusual freighter shipments between the derelict
+我们一直在监视废弃星球盖吉斯和首都星球托姆之间的一些不寻常的货船运输。
+planet of Gyges and the capital planet of Torm. Both planets are marked on
+这两个星球都在你的导航屏幕上标出。
+your Navigation Screen. Insight into these shipments may give us a clue to
+对这些运输情况的了解可能会让我们找到微索的行动基地所在。
+the whereabouts of Microsol's base of operations. First, set course for Torm
+首先，前往托姆进行调查。
+and investigate. Then return to Deliani to report your findings and to await
+然后返回得里尼汇报你的发现，
+further instructions.
+并等待进一步指示。
+
+You will be given a Gencore Hawk to fly for this mission and greater weapon
+这次任务会给你一架基核之鹰，以及更强的武器优先许可。
+clearance priority. Good luck!
+祝好运！
+
+*02 01 {Start of Episode 2 - Cube from Deliani}
+
+DELIANI TRANSMISSION FLUX 2894
+得里尼传输流2894
+
+Javi
+佳维
+
+Some warnings about Torm. There are dragons there. Yes, dragons. These tree
+关于托姆星球的一些警告。那里有龙。没错，是龙。
+dragons enjoy feeding on metal and berillium ore of which your ship is
+这些树龙喜欢吞食金属和建造您飞船所用的铍矿，
+built, so once awakened they'll munch you right out of the sky. The best
+所以一旦被惊醒，它们会直接把您从空中吞食掉。
+weapon against them is a fire or flame based weapon.
+对付它们的最佳武器是火焰或火系武器。
+
+Also beware of space pirates who have made a number of secret bases there
+另外要小心太空海盗，他们在托姆星球建立了许多秘密基地，
+and can strike without warning. Their ships are usually camouflaged in shades
+可能会毫无预兆地发起攻击。他们的飞船通常涂成绿色，
+of green and can be difficult to spot amongst Torm's thick jungles.
+在托姆的茂密丛林中很难被发现。
+
+*03 11 {After Torm}
+
+TORM TRANSMISSION FLUX
+托姆传输流
+
+Dougan
+道根
+
+Well, well, well. Looks like you've gotten yourself into too much trouble,
+哟，哟，哟。看起来你又像往常一样给自己惹了太多麻烦。
+as usual. Torm is no place to be investigating for Microsol shipments.
+托姆可不是调查微索运输的好地方。
+
+Hmm... perhaps the reason you've been tracked this far is because there was a
+嗯……也许你被追踪到这么远是因为有人在你的飞船起落架上装了追踪器。
+homing device planted on your ship's undercarriage. Pretty high signal one,
+信号还挺强的。别担心，我已经把它拆掉了，
+too. Don't worry. I removed it, but whoever has been sending you on these
+但派你执行这些任务的人似乎根本不知道情况。
+missions sounds like they have no idea what's going on. Microsol's activities
+微索的活动主要集中在萨瓦拉和星门那里。
+are centered around Savara and the Stargate. I'd say you've been sent on a
+我得说你这是白跑一趟。
+wild goose chase. Have a word with that Javi Onukala you mentioned. Ask for
+去找你说的那个佳维·奥努卡拉谈谈。让他给你个
+answers.
+说法。
+
+*04 01 {After Deliani}
+
+DELIANI TRANSMISSION FLUX 02975
+得里尼传输流02975
+
+Javi
+佳维
+
+I see you have investigated Torm without success. There HAS to be something
+我看到你对托姆的调查毫无结果。那里肯定有什么
+there.
+东西。
+
+Homing device? I know nothing about that, but I will run an investigation.
+追踪器？这我就不清楚了，不过我会展开调查。
+We can't have people trying to murder our agents. Now...
+我们不能让有人试图谋杀我们的特工。现在……
+
+I have been receiving reports from the Ixmucane sector that something
+我收到了来自睡神区的报告，说那里发生了不寻常的事情。
+unusual is going on there. Your next mission will be to fly there and
+你的下一个任务就是飞到那里去调查。
+investigate. Please select anything you like from our supply stocks.
+请从我们的补给库存中挑选你喜欢的任何东西。
+
+*05 01 {After Deliani}
+
+DELIANI TRANSMISSION FLUX 02976
+得里尼传输流02976
+
+Javi
+佳维
+
+Beware on this mission of rebels from the Mendivian C sector, near Ixmucane.
+在睡神附近的门迪维安C区域要小心叛军。他们是人类海盗，
+These are human pirates who are aiding the Hazudra forces there led by a
+正在那里协助由一个名叫里德的派系首领领导的哈祖德拉部队。
+faction leader named Reid. Be careful in there or they'll destroy you,
+在那里要小心，否则他们会把你当成微索的侦察兵
+thinking you are a Microsol scout.
+而把你消灭。
+
+Microsol is attempting to gain control of the Hazudra territory there, thus
+微索企图控制那里的哈祖德拉领土，
+the rebel forces. But they will make no exceptions when it comes to an
+所以才有了叛军。但对入侵者他们绝不会
+intruder.
+手下留情。
+
+*06 09 {After Giger -Ninja- }
+
+STARGATE TRANSMISSION FLUX 13619
+星门传输流13619
+
+???
+？？？
+
+Your life is forfeit, human. We know of your plans to sweep the Tyrian
+你的生命已不保，人类。我们知道你计划横扫泰瑞安星区并消灭所有生命。
+sector and destroy all life. We are going to attack your fleet and obliterate
+我们将攻击你的舰队，摧毁你那些冷酷无情的飞船，
+your merciless ships until you are no longer a threat to us. Your only hope
+直到你不再对我们构成威胁。
+of escape is to call off the attack. Now.
+你唯一的逃生希望就是取消攻击，就现在。
+
+I will enjoy your destruction.
+我会享受你被毁灭。
+
+*07 01 {After Giger}
+
+DELIANI TRANSMISSION FLUX 23920
+得里尼传输流23920
+
+Javi
+佳维
+
+We have been notified of a course change. You must immediately head for the
+我们已收到航线变更的通知。
+Mendivian C sector and the home city of the rebel forces there. Obliterate
+你必须立刻前往门迪维安C区域以及那里的叛军总部。
+them and return to us. They are threatening to overtake the sector.
+将其消灭后返回。他们正威胁要占领该区域。
+
+Be careful, Trent. You'll need all the firepower you can get.
+小心点，特伦特。你可能需要所有能用上的火力。
+
+*08 06 {After Asteroid}
+
+ASTEROID CITY TRANSMISSION 37238
+小行星城传输37238
+
+Reid
+里德
+
+I am Reid, head of the rebel Mendivian and Anti Microsol league. We do not
+我是里德，门迪维安和反微索联盟的首领。
+know why you have attacked. I would like an explanation.
+我们不知道你为何发动攻击。我希望得到一个解释。
+
+What?? WE are not the ones planning an attack against the sector for total
+什么？？我们并没有计划对这个区域发动攻击以实现全面统治。
+domination. It is Microsol, stationed in Savara and ready to launch within
+是微索，他们驻扎在萨瓦拉，准备在接下来的10天内发动进攻！
+the next 10 days! You have been tricked! Apparently you were decieved by
+你们被欺骗了！显然你们被哈祖德拉的叛徒佳维欺骗了。
+Javi, who is a Hazudra traitor. He was stolen at birth and placed under
+他出生时就被偷走，并被微索置于全息思维控制之下。
+holographic mind control by Microsol. The most we have been able to uncover
+我们目前所能查明的是，他显然是潜入了基核技术联盟的内奸。
+about him is that he is apparently an infiltrator into Gencore Tech Alliance.
+你必须返回得里尼并阻止他！
+You MUST return to Deliani and stop him! He is probably the means for Microsol
+他很可能是微索推翻基核的
+to overthrow Gencore.
+手段。
+
+Quickly.. restock your ship and head for Deliani before Javi has another
+快点……给你的飞船补充物资，然后前往得里尼，
+chance to signal Microsol for the start of the attack!
+赶在佳维再次有机会向微索发出进攻信号之前！
+
+You may be able to reach them before they form a strategic defense.
+你或许能在他们形成战略防御之前找到他们。
+
+*09 01 {After Deliani?}
+
+DELIANI TRANSMISSION FLUX 83278
+得里尼传输流83278
+
+Javi
+佳维
+
+I see you have discovered the truth. I was going to use you as a scout
+看来你已经发现了真相。
+for the fleet before I had your brain scanned for knowledge of the Gravitium.
+在对你进行大脑扫描以获取有关重力金属的知识之前，
+Well, no matter. You have served your purpose. Our scientists have uncovered
+我本打算让你为舰队充当侦察兵。不过没关系，你已经完成了使命。
+its secrets and installed new engines into our fleet ships, giving them far
+我们的科学家已经破解了它的秘密，并为舰队的飞船安装了新的引擎，
+more power to distribute to the weapon banks. The invasion will begin soon
+使它们能够为武器库提供更多的动力。入侵即将开始，
+and you will have only a few precious days left before we execute you. You are
+你只剩下几天宝贵的时间了，之后我们就会处决你。
+being sent by tractor beam to the Impound Station at Gryphon, a little known
+你将被牵引光束送往狮鹫星的扣押站，
+and desolate edge of the sector where you will be unable to help your friends
+那是这个星区鲜为人知且荒凉的边缘地带，在那里你无法帮助在小行星城的朋友。
+in the Asteroid City. Enjoy your last hours, Trent.
+好好享受你最后的时光吧，特伦特。
+
+*10 02 {Secret}
+
+TRANSMISSION SOURCE: MagVend 004-55506W
+传输源: 志卖004-55506W
+
+MagVend
+志卖
+
+Congratulations, Mr. Trent Hawkins
+恭喜你，特伦特·霍金斯先生
+
+MagVend 004-55506 is proud to congratulate our first-place winner in our
+志卖004-55506很荣幸向我们大奖赛的第一名获奖者
+grand sweepstakes.
+表示祝贺。
+
+However, since you haven't ordered anything recently and you're currently
+然而，由于您近期没有订购任何东西，而且您目前因背叛银河罪被通缉，
+wanted for galactic treason, we've demoted you to third-place to avoid bad
+我们不得不将您降级为第三名，以避免
+publicity.
+不良影响。
+
+To collect your winnings, type in the secret code:
+请输入以下秘密代码领取您的奖品：
+
+FILE0001 LOOT
+
+After the word LOOT, type in ALT-254 to acknowledge the secret code and press
+在单词LOOT后，输入ALT-254来确认秘密代码，并按回车。
+enter.  We regret that you cannot transmit this code over modem/network due
+我们很遗憾，由于此代码的绝密性质，您无法通过调制解调器/网络
+to its top-secret nature.
+传输此代码。
+
+MagVend 004-55506B thanks you for your patronage.
+志卖004-55506B感谢您的惠顾。
+
+*11 02 {Secret}
+
+ARCHIVE DATA
+档案数据
+
+Data
+数据
+
+Reference: The Not-so-Great Gryphon Explosion
+参考：不太妙的狮鹫星爆炸
+
+While under the leadership of General Zinglon, station commander at Gryphon,
+在狮鹫星站指挥官劲仑将军的领导下，一群科学家挖掘出了如今被称为盖吉斯星球的地方，
+a group of scientists excavated what is now called planet Gyges, after the
+它是以已故的元生物学博士盖吉斯·菲尔德伦的名字命名的。
+late Doctor of Metacology, Gyges Phildren.  It is believed they excavated a
+人们认为他们挖掘出了一些文物和装置，
+number of artifacts and devices which were then transferred to the secret
+随后这些物品被转移到了秘密研究站：
+research station, Gryphon.
+狮鹫星
+
+Full details were never released, but it is known that Gyges was conducting
+详细情况从未公布，但已知盖吉斯当时正在对一种异常的超自然能量
+some unorthodox research into the abnormal meta-physical energy invoved in the
+进行一些非正统的研究，这种能量与一种绰号为“兹卡火焰喷射器”
+firing of a secret weapon nicknamed the Zica Flamethrower.  He apparently
+的秘密武器的发射有关。他显然拆除了该装置的外壳。
+removed the outer casing of the device.  This mistake cost him his life and
+这一失误让他和当时在该站区服役的超过一万两千名船员付出了生命的代价。
+the lives of over twelve thousand crewmembers serving in that section of the
+由于修复受损区域的成本过高且效率低下，
+station at the time.  Sections of the station are still missing, since it was
+部分区域至今仍下落不明，
+deemed too expensive and inefficient to repair the damaged sections than build
+取而代之的是建造了更新、
+newer, better designed sections.
+设计更优的新区域。
+
+Incidentally, General Zinglon is believed to have been demonstrating a new matter
+顺便说一下，据信在爆炸发生时，劲仑将军正在演示一种新型物质传送器，
+transporter at the time of the explosion, but never arrived at his destination.
+但他并未到达目的地。
+A surge of energy occured as the fusion generator near the research section
+研究区附近的聚变发生器爆炸时产生了能量激增，
+exploded.  The transporter was linked to that generator since it required
+而传送器与该发生器相连，
+additional power to function than was available with the standard reactors.
+因为它需要比标准反应堆提供的更多的能量才能运行。
+
+At that same time, billions of people reported seeing an image remarkably like
+就在同一时刻，数十亿人报告称在他们的视频屏幕上看到了
+his on their vidscreens.  This in turn produced a fanatical faction of divine
+一个与他极为相似的图像。这反过来催生了一群狂热的神明追寻者，
+seekers, frustrated with their attempts to convince people that circular
+他们因试图让人们相信圆形物体应被当作神来崇拜却屡屡受挫而感到沮丧。
+shapes should be worshipped as gods.  They called themselves the Cult of
+他们自称为劲仑教派，如今秘密活动，
+Zinglon and now work in secret to bring Zinglon, "Master of All", back from
+试图将“万物之主”劲仑
+whatever dimension his molecules were scattered to.
+从其分子被分散到的任何维度中带回。
+
+See Tunnel World, Zica
+隧道世界见，兹卡
+    Weapons Research, Station Gryphon
+　　武器研究，狮鹫星站
+    Zica Flamethrower
+　　兹卡火焰喷射器
+
+*12 07 {Before Gryphon}
+
+GRYPHON TRANSMISSION FLUX 02333
+狮鹫星传输流02333
+
+Vykromod
+维克罗莫德
+
+Who do you think you are, you insignificant scum?  Do you know what lies in
+你以为你是谁，你这个无足轻重的人渣？你知道等着你的是什么吗？
+store for you here?  The entire Gryphon fleet is mobilized and ready to attack.
+整个狮鹫舰队已经集结，准备进攻。
+
+Only one pirate has ever made it past our defenses.  We killed him one month
+只有一个海盗越过了我们的防线。一个月后我们就
+later.
+杀了他。
+
+Playtime will not be interrupted by the likes of you.
+游戏时间可不会被像你这样的人打断。
