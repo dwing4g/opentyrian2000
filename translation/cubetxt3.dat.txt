@@ -1,0 +1,576 @@
+*01 06 {After Gauntlet}
+
+ASTEROID CITY FLUX 53861
+小行星城流量53861
+
+Reid
+里德
+
+We have finally been able to get through! Javi was jamming our transmissions
+我们终于能联系上了！佳维干扰我们的通讯有一阵子了。
+for some time. I grieve for the loss of your parents, Trent. I learned of
+特伦特，我为你的父母感到悲痛，他们的死讯我几个小时前才得知。
+their death only hours ago. And at the same time I read of your imprisonment
+同时我还得知你被佳维囚禁了。
+by Javi. It is up to you to help us stop the Microsol fleet from using the
+现在就靠你来帮助我们阻止微索舰队使用重力子了。
+Gravitium. You must fly to the Microsol base planet of Ixmucane and give us
+你必须飞往微索的基地行星睡神星，给我们提供舰队实力的信息，
+information on fleet strength before we can marshall our forces. How many
+包括有多少艘飞船、武器装备、防御能力等等。
+ships, weapons, defensive capabilities, everything. Then route the information
+然后通过链接流量把信息传给我们。
+to us via a Link Flux. We will be waiting, and good luck to you.
+我们会等你，祝你好运。
+
+*02 10 {After Gauntlet}
+
+STATION GRYPHON FLUX 73725
+狮鹫站流量73725
+
+Captain
+船长
+
+We have monitored your escape, Hawkins. You won't get far. I have notified
+我们一直在监视你的逃跑，霍金斯，你跑不远的。
+The Microsol patrol nearby and they are on an intercept course to pick you
+我已经通知了附近的微索巡逻队，他们正在拦截你。
+up. You could make it easier for me by waiting where you are, because I have
+你要是乖乖待在原地，事情会好办得多，
+given them orders to destroy you if you show resistance.
+因为我已经下令，如果你反抗，他们有权将你摧毁。
+
+*03 06 {After Gauntlet}
+
+ASTEROID CITY FLUX 53862
+小行星城流量53862
+
+Reid
+里德
+
+A word of warning when maneuvering through the caverns of Ixmucane. You must be
+在睡神星洞穴中穿行时要小心。你必须警惕微索安装作为安保措施的锯片。
+wary of the sawblades that Microsol installed as a security measure. If I
+如果我没记错的话，这些锯片据信是在狮鹫站研发的，
+remember correctly, the sawblades are believed developed or at least stored
+至少也是在那里储存的。更先进的型号几乎坚不可摧。
+at station Gryphon. The more advanced models can be nearly indestructible.
+此外，巨大的岩石板可能会从洞壁上被扯下，
+Also huge slabs of rock can be torn from the walls and hurled at your ship
+利用重力金属的力量向你的飞船投掷过来。
+using the power of the Gravitium. Beware.
+小心为上。
+
+*04 07 {After Gyges}
+
+DELIANI FLUX 23672
+得里尼流量23672
+
+Vykromod
+维克罗莫德
+
+So... you think you can outsmart a corporation whose size you cannot even
+所以……你以为你能智胜一家你根本无法想象其规模的公司？
+possibly imagine? You are the biggest fool I have ever seen. Turn back
+你是我见过的最大的傻瓜。趁现在还有机会赶紧回去吧。
+now while you have the chance. You will never find the fleet's secret base,
+你永远也找不到舰队的秘密基地，
+and soon we will emerge and crush you into pulp if you remain here.
+而且如果你还留在这里，很快我们就会出现并把你碾成肉酱。
+Leave now.
+现在就离开。
+
+*05 06 {After Gyges}
+
+ASTEROID CITY FLUX 53863
+小行星城流量53863
+
+Reid
+里德
+
+Trent! Flee to Stargate sector immediately!! Have detected a large sqadron
+特伦特！立刻逃往星门区域！！发现一大队敌军
+apprxxme.
+逼近。
+
+<Copmputer Log: ~Transmission~ ~end~.>
+<计算机日志：~传输中止~。>
+
+*06 09 {After Stargate -ninja- }
+
+STARGATE TRANSMISSION FLUX 0178205
+星门传输流0178205
+
+???
+？？？
+
+We see that you are not a part of the hideous mass that threatens the sector.
+我们看到您并非威胁本星域的那群丑恶之徒中的一员。
+But it is not safe for you to be here. You must go to Camanis, the ice world,
+但您在此处并不安全。您必须前往卡曼尼，那个冰封星球，
+where we can supply you with weapons that can utterly destroy the fleet of
+在那里我们能为您提供足以彻底摧毁微索舰队的武器。
+Microsol. We cannot emerge into the sector with our race because Microsol
+由于微索已关闭了星门，我们种族无法进入此星域。
+has closed the Stargate now. It is up to you now, human. For the life of
+现在就看您了，人类。为了数百万人的生命，
+millions, you must stop that fleet.
+您必须阻止那支舰队。
+
+*07 12 {After Camanis}
+
+CAMANIS TRANSMISSION FLUX 001
+卡曼尼传输流001
+
+Beppo
+比坡
+
+Hey, there, friend. I see you've met up wid a few of me pals on Torm, yes?
+嘿，朋友，瞧见你跟托姆上的几个哥们儿会合了，对吧？
+We pirates are good. I work for the outworlders and they have told me to
+我们海盗可都是好人。我为外星人干活，他们让我给你船装上好多武器。
+give you lotsa weapons for your ship. Just step aside and I'll install
+你只管让开，我来给你装上你想要的。
+the ones you want. You pilots are good. Weapons are good. Freedom is good!
+你们飞行员很棒，武器很棒，自由也棒！
+After this battle, we can go snow jumping. Waddaya say?
+这场战斗结束后，咱们可以去玩雪上跳跃。你觉得怎么样？
+
+*08 07 {After Camanis}
+
+SUBSPACE TRANSMISSION FLUX 002
+亚空间传输流002
+
+Vykromod
+维克罗莫德
+
+We have tracked you. You are now within our grasp. Prepare to meet your
+我们已经追踪到你了。你已落入我们的掌控之中。做好迎接死亡的准备吧，
+death, Trent Hawkins. You have caused Microsol enough trouble.
+特伦特·霍金斯。你给微索带来了够多的麻烦。
+
+This is not an idle threat, idiot. You WILL die.
+这不是空洞的威胁，蠢货。你必死无疑。
+
+*09 04 {After Fleet -Tyrian X-}
+
+TYRIAN TRANSMISSION FLUX 01282
+泰瑞安传输流01282
+
+Borogar
+博罗加尔
+
+Trent Hawkins, congratulations! You've won the game! But it's not over yet...
+特伦特·霍金斯，恭喜！你赢得了游戏！但这还没完……
+
+Tyrian X awaits you! You must once again fly into the world where you started
+泰瑞安X正在等着你！你必须再次飞入你开启这一切的那片世界，
+this whole shebang and fight off incessant waves of enemies! We
+击退一波又一波的敌人！我们认为你会对再次冲击冠军头衔感兴趣。
+thought you'd be interested in another shot at the title. Have fun! Heh...
+玩得开心！嘿……
+heh, heh...
+嘿，嘿……
+
+*10 02 {Secret}
+
+ARCHIVE DATA
+档案数据
+
+Data
+数据
+
+Reference: Zica SuperCharger
+参考：兹卡超级充电器
+
+This is a modular adaptation of the Gencore Zica SuperLaser.  It is supposed to
+这是基核兹卡超级激光的模块化改造版本。它应该使用的是原版的兹卡激光核心，
+use an original Zica laser core instead of the larger, power drawing model
+而非基核重新设计的更大、耗能更多的型号。
+re-engineered by Gencore.  The technology behind the Zica Laser is not well
+兹卡激光背后的技术尚不为人所完全理解，
+understood, which is why duplicates of the model are not as powerful as the
+这就是为什么复制的型号不如原版强大的
+original model.
+原因。
+
+*11 01 {Secret}
+
+ARCHIVE DATA
+档案数据
+
+Data
+数据
+
+Reference: Stargate
+参考：星门
+
+Summary:
+概要：
+
+Stargates are big distortions in space.  There's one here in episode 3.
+星门是空间中巨大的扭曲。在第3章中就有一个。
+Enjoy your stay.
+祝您旅途愉快。
+
+Stargates are believed to be some sort of rift created by a massive black hole.
+人们认为星门是由巨大的黑洞造成的某种裂隙。
+While this theory holds up among science fiction writers, the actual phenomenon
+虽然这一理论在科幻作家中站得住脚，
+behind the stargate is unknown.  It has been suggested that these are portions
+但星门背后的实际现象仍不得而知。
+of space created in the big bang which formed the universe.
+有人提出，这些是宇宙大爆炸时形成的太空区域。
+
+It is believed that time is the "fourth dimension" so therefore it may have
+人们认为时间是“第四维度”，因此它可能可以测量，
+quantity and react in the same way as other phenomena.  The Stargate in our
+并以与其它现象相同的方式起作用。
+quadrant appears to either distort time or space, perhaps both.  The few ships
+我们所在象限的星门似乎要么扭曲了时间，
+that have explored the Stargate and returned reported massive changes in
+要么扭曲了空间，或许两者都有。
+location.  So massive are these apparent changes that no recognizable
+少数探索过星门并返回的飞船报告称位置发生了巨大变化。
+constellations have ever been found in any direction from the captains who
+这些变化如此之大，以至于穿过星门的船长们从任何方向看都是从未发现过
+have passed through.
+无法识别的星座。
+
+Therefore, there is either a tremendous shift in location or time to produce
+因此，要么是位置发生了巨大的偏移，
+such unexpected results.  No ship so far has spent enough time through the
+要么是时间发生了巨大的偏移，才会产生如此出乎意料的结果。
+Stargate to determine what the actual result is.  This problem is compounded
+到目前为止，还没有飞船在星门中停留足够长的时间来确定实际的结果是什么。
+by the fact that independent ship captains have reported arriving in different
+这个问题还因个体船长们报告称抵达了不同的地点而变得更加复杂，
+locations, suggesting the Stargate's destination is not fixed.
+这表明星门的目的地并非固定不变。
+
+It has been suggested that if you travel through the stargate to
+有人提出，如果通过星门旅行，
+reverse course immediately and head back!
+应立即掉头返回！
+
+*12 09 {After Camanis}
+
+CAMANIS TRANSMISSION FLUX 0178205
+卡曼尼传输流0178205
+
+???
+？？？
+
+You know that everything is doomed, don't you?
+你知道一切都完蛋了，对吧？
+
+I wish I had never gotten into this mess.
+真希望我从未陷入这种困境。
+
+Well, anyway, let's talk about hot dogs!
+好吧，不管怎样，咱们来聊聊热狗吧！
+
+You know, the kind of hot dog that used to be generated at holo-cricket games.
+你知道那种以前在全息板球比赛中售卖的热狗吗？
+Now THAT was a hot dog.  I could use one of those right now.
+那才叫热狗。我现在真想吃一个。
+
+If you get a chance to swing by Ixmucane again, why don't you pick up one for me?
+要是你有机会再去睡神星，能不能帮我带一个？
+
+Your pal, Nanol.
+你的老友，纳诺尔。
+
+*13 07   {Secret}
+
+ANONYMOUS TRANSMISSION
+匿名传输
+
+Anonymous
+匿名
+
+The Perils of Space-Fruit:
+太空水果的危险：
+
+What in the universe is all this fruit doing flying around in outer-space?
+宇宙中这些水果为何会在外太空飞来飞去？
+It has long been the practice of ship captains to destroy other ships and
+长期以来，船长们一直有摧毁其它船只并收集受其保护的食物储备
+collect their protected food stores as a trophy, since most other matter is
+作为战利品的习惯，因为其它物质
+generally incinerated.
+通常会被焚毁。
+
+So why do we do it?  What makes some sentient life so insensible to pain and
+那么我们为什么要这么做呢？是什么让某些有感知能力的生命如此麻木不仁，
+suffering that we think picking up our victim's last meal is some sort of
+以至于我们认为捡起受害者最后的一餐是某种高超的技能？
+great feat of skill?  It may seem humourous to you, gentle readers, to see
+也许您，亲爱的读者，看到飞舞的酒杯、旋转的橙子
+flying mugs of ale, spinning oranges, and hurtling strawberries, but I see
+和疾驰的草莓会觉得很有趣，但我看到的是死者的遗骸，
+the remains of the dead, the unfortunate souls whose lives were lost without
+那些不幸的灵魂，他们的生命在没有享用
+the benefit of scarfing down that last bit of replicated food.
+最后一口复制食物的情况下就消逝了。
+
+I beseech thee, gentle reader, to think twice before reveling in such victory.
+我恳求您，亲爱的读者，在为这样的胜利欢呼之前三思。
+Where will this madness end?  Trade values measured in fruit to replace
+这种疯狂何时才能结束？用水果来衡量贸易价值，取代金币和宝石？
+coins and gems?  Perhaps someone will develop weapons of mass food destruction,
+也许有人会开发出大规模食物毁灭武器，让您能够向毫无防备的受害者投掷食物。
+allowing you to hurtle foodstuffs at unwary victims.  No!  This cannot be
+不！绝不能让这种情况发生！向劲仑祈祷，
+allowed to happen!  Pray to Zinglon that he will free us from this vile threat!
+愿他将我们从这一可怕的威胁中解救出来！
+
+Paid for by the benevolent members of the church of Zinglon.
+由仁慈的劲仑教堂成员出资。
+
+*14 02 {Secret}
+
+ARCHIVE DATA
+存档数据
+
+Data
+数据
+
+Reference: Mega SoundChair
+参考：巨声椅
+
+Sensors on your ship pick up the minute disturbances caused by sound-waves
+您船上的传感器能够捕捉到声波作用于太空中极其细微的粒子流所引起的微小扰动，
+acting on the very fine particle streams in space, then amplify and filter the identified distortions which are
+然后放大并过滤出这些已识别的失真，再将其发送到您的巨声椅进行播放。
+then sent to your Mega SoundChair for playback.  This is a consumer product which has been found to
+这是一种消费产品，几年前当未经训练的飞行员开始驾驶自己的星际游艇入侵太空时，
+alleviate stress and panic in untrained pilots who began invading space with their own Star Yachts a
+人们发现它能缓解他们的压力和恐慌。人们发现，当置身于寂静之中时，
+number of years ago.  It was found that when placed into silence, people would turn to music to alleviate
+他们会借助音乐来缓解孤独太空中的恐惧（以及随之而来的精神错乱）。
+the dread (and subsequent insanity) caused by being alone in space and unable to hear anything.  This remedy
+然而，这种解决办法并不理想，因为音乐存在几个不良副作用：
+was insufficient, however, since the music had several adverse side effects:  It didn't make sense to the
+当你看着流星和其它物体飞驰而过时，音乐对大脑来说毫无意义；
+mind when you're watching meteors and other objects hurtling by, consumers couldn't hear messages
+消费者听不到向他们广播的信息；人们会沉浸在音乐中放松下来，从而不再注意前方的路。
+broadcast to them, and people would get so wrapped up in the music they'd relax and wouldn't watch
+在自动导航和接近警报系统完善之前，这是一个特别严重的问题。
+where they were going.  This was an especially bad problem in the time before Automatic Guidance and
+于是，他们决定将那微弱的声音放大，
+Proximity Warning systems were refined.  So, they decided to amplify what little sound was out there and
+解决无尽的寂静恐慌问题，
+solve the problem of the unending silence panic before there were no more Star Yachts to go around.
+以免没有星艇可用。
+
+*15 07 {After Tyrian-X}
+
+SUBSPACE TRANSMISSION FLUX 410
+亚空间传输流410
+
+Vykromod
+维克罗莫德
+
+Aw, geez.  Now you've gone and destroyed my home planet.
+哎呀，天哪。现在你把我的家园行星给毁了。
+
+Did you ever wonder why I carry a purple cloak?
+你有没有想过我为什么带着一件紫色斗篷？
+
+HAHAHAHAHAHAHAHA!  Now, I will have my revenge!
+哈哈哈哈哈哈哈哈！现在，我要复仇了！
+
+The name of this game isn't Tyrian!  You've spelled it incorrectly, Trent
+这个游戏的名字不是“泰瑞安”！你拼错了，特伦特·霍金斯！
+Hawkins!  The universe will know of your pitiful mistake and I will rule
+整个宇宙都会知道你这可悲的错误，而我将再次
+again!
+称霸！
+
+*16 12 {After Tyrian-X}
+
+DELIANI TRANSMISSION FLUX 263
+得里尼传输流263
+
+Beppo
+比坡
+
+Top o' the morning, wee laddie.
+早上好，小家伙。
+
+I be the clone of that nasty old pirate.  The scourge of Torm, I be called.
+我是那个讨厌的老海盗的克隆体，我被称为托姆的祸害。
+
+I found it, Trent!  Be it that I did, and did it at that.  The wondrous
+我找到了，特伦特！没错，我找到了，就在那儿。
+Prototype Stalker.  If you can make it past Savara, I might consider giving
+神奇的原型追踪者。如果你能从萨瓦拉那里脱身，我或许会考虑把它给你。
+it up to you.  For a price...
+当然，是要付钱的……
+
+This baby has it all.  Someday you may even learn to use the top-secret
+这宝贝应有尽有。说不定哪天你还能学会使用那绝密的
+post-it mine sprayer.
+便条雷喷射器。
+
+Well, I be off now. Arrrrr!
+好了，我走了。啊哈！
+
+*17 03
+
+DELIANI EMPORIUM DATAFLUX
+得里尼贸易中心数据流
+
+Ad
+广告
+
+Now that the game is almost over, Hank has finally gotten out of jail for
+现在游戏即将结束，汉克终于因USP欺诈案出狱！
+USP fraud!  And now, he's gone crazy!
+而现在，他彻底疯了！
+
+He's hired Beppo's clone to scour the seven sectors and steal whatever goods
+他雇佣了比坡的克隆人，让其在七个星区搜寻，
+he can from the wreckage Trent Hawkins has strewn across the galaxy.  And ya
+从特伦特·霍金斯散布在银河系的残骸中偷取一切能偷的东西。
+know what?  He's found it all!
+你知道吗？他全找到了！
+
+Zica Lasers, Constant Lasers, Lightning Blasts, Protron Cannons, Missile
+兹卡激光、恒定激光、闪电爆弹、质子炮、导弹发射器、
+Launchers, 8-Way Microbombs, Side Ships, and much, much more.  Also, rumor
+8路微型炸弹、副飞船，还有更多更多。而且，
+has it that Beppo's got the new Microsol Fighter, but he's not tellin' unless
+有传言说比坡得到了新型的微索战斗机，但他不会告诉你，
+you've got the cash.
+除非你有钱。
+
+So come on down right now while anarchy lasts!
+所以，趁混乱还没结束，赶紧过来吧！
+
+*18 02
+
+Top Secret: Gravitron Pulse-Wave
+绝密：引粒子脉冲波
+
+ARCHIVE DATA
+档案数据
+
+The gravitron Pulse-Wave is the ultimate in power system technology.
+引粒子脉冲波是动力系统技术的巅峰之作。
+This is based on the Tyrian research project.  Not commonly known is that
+这是基于泰瑞安的研究项目。鲜为人知的是，
+the Gryphon Explosion was caused by a Gravitron drive being connected to
+狮鹫星爆炸是由一个引力驱动器连接到兹卡火焰喷射器系统所引发的。
+a Zica Flamethrower system.  This produced a 10 AEU [astral explosion
+这产生了10个AEU[天文爆炸单位]的冲击波，
+units] shock which destroyed much of the station.  Therefore, use of this
+摧毁了大部分空间站。因此，
+drive is not suggested in open combat.
+不建议在公开战斗中使用这种驱动器。
+
+The Harbringer Plasma system was designed for the invisible ship
+“先驱者”等离子系统是为隐形舰“照明者”设计的。
+Illuminator.  The ship will be deployed at the rear of the main Microsol
+“照明者”将在我们最后的攻击中部署在主要的微索舰队后方。
+fleet in our final assault.  Failure in the mission in any way will
+如果任务以任何方式失败，
+result in the ship breaking off from combat.
+此舰将退出战斗。
+
+<Archive note: Further details on the Illuminator are Class-16 and available
+<档案备注：关于“照明者”的更多细节属于16级机密，
+ only to Vykromod-level access.>
+仅对维克罗莫德级别的访问权限可用。>
+
+The Illuminati is being defended by a secondary battleship platform, which
+“照明者”由一个二级战舰平台进行保护，该平台也是机密的。
+is also classified.  It's job is to set up a mine defense barrier while
+它的任务是在“照明者”从安全位置行动时设置一个雷区防御屏障。
+the Illuminator acts from a safe position.  Should the secondary platform
+如果二级平台被摧毁，
+be destroyed, the Illuminator will break off the attack.
+“照明者”将停止攻击。
+
+This energy system is highly confidential and is not to be released into
+这套能源系统高度机密，不得向公众发布。
+general distribution.  Any Microsol ship is authorized to self-destruct
+任何微索飞船均可使用F2+F3+F4代码自毁。
+using the F2+F3+F4 code.  After vaporizing their armor with the code, pilots
+使用代码蒸发掉装甲后，飞行员如有可能，
+are recommended to crash their ship in an uncharted location if possible.
+建议将飞船坠毁在未知区域。
+
+*19 08
+
+INCOMING TRANSMISSION from Magnatower Center
+来自麦格纳塔中心的传讯
+
+Transon
+特兰森
+
+Now look Trent Hawkins: I am sick and tired of you blowing our Z-29
+听着，特伦特·霍金斯：我受够了你把我们的Z-29
+Central Defense Ship to bits!
+中央防御舰炸得粉碎！
+
+Take your stupid war somewhere else and stop destroying our defense fleet!
+把你的愚蠢战争带到别处去，别再破坏我们的防御舰队了！
+
+I don't care if your family WAS killed down here!
+我不在乎你的家人是不是在这儿被杀了！
+If you ever return to Savara, I'm going to call out a planetary alert and
+如果你再敢回到萨瓦拉，我就发布全星球警报，
+send the entire sector after your ship!
+让整个星区都来追捕你的飞船！
+
+So, GO AWAY!
+所以，给我滚！
+
+*20 01
+
+DELIANI TRANSMISSION FLUX 83278
+得里尼传输流83278
+
+Javi
+佳维
+
+Hello, Trent.  I received word from a rather irate Transon Lohk that you'd
+你好，特伦特。我刚收到怒气冲冲的特兰森·洛赫的消息，
+be headed this way.
+说你要来这儿。
+
+The Illuminator is safely tucked away where you won't find it.  I'll give
+“照明者”被安全地藏起来了，你找不到的。
+you a hint.  It's not on Deliani.
+给你个提示，它不在得里尼。
+
+But I am.
+而我在这儿。
+
+I have the defenses of the entire planet waiting to move down on you and take
+整个星球的防御力量都在等着对付你，
+you out.
+把你干掉。
+
+Enjoy your stay, Trent.  If you're reading this message, I know you've
+好好享受你的停留吧，特伦特。如果你读到这条消息，我就知道
+hacked into our defense net.  If not...
+你已经入侵了我们的防御网络。否则……
+
+*21 01 {After Deliani?}
+
+DELIANI TRANSMISSION FLUX 83278
+得里尼传输流83278
+
+Javi
+佳维
+
+Oh, by the way.  Nice job you did for us back at Ixmucane.  We would have lost
+哦，顺便说一句。你在睡神星为我们做的工作很棒。
+a number of ships from the modified Zica weapons being tested there.
+要不是你，我们在那里测试的改良型兹卡武器会让我们损失不少飞船。
+
+Didn't know about that, huh?  Too bad, no-one can help you now.
+你不会还不知道吧？那太糟糕了，现在没人能帮你了。

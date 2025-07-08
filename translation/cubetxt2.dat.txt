@@ -98,7 +98,7 @@ We can't have people trying to murder our agents. Now...
 我们不能让有人试图谋杀我们的特工。现在……
 
 I have been receiving reports from the Ixmucane sector that something
-我收到了来自睡神区的报告，说那里发生了不寻常的事情。
+我收到了来自睡神星区的报告，说那里发生了不寻常的事情。
 unusual is going on there. Your next mission will be to fly there and
 你的下一个任务就是飞到那里去调查。
 investigate. Please select anything you like from our supply stocks.
@@ -113,7 +113,7 @@ Javi
 佳维
 
 Beware on this mission of rebels from the Mendivian C sector, near Ixmucane.
-在睡神附近的门迪维安C区域要小心叛军。他们是人类海盗，
+在睡神星附近的门迪维安C区域要小心叛军。他们是人类海盗，
 These are human pirates who are aiding the Hazudra forces there led by a
 正在那里协助由一个名叫里德的派系首领领导的哈祖德拉部队。
 faction leader named Reid. Be careful in there or they'll destroy you,

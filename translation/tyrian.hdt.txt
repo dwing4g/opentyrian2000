@@ -607,7 +607,7 @@ The only way to describe what this ship does is to fly it and see for yourself. 
 要描述这艘飞船的性能，唯一的办法就是亲自驾驶它体验一番。只要它的~特殊武器~一启动，屏幕上的一切都不再安全。
 
 After destroying the tyrranical might of ~Vykromod~ a second time, Trent found himself locked into the future through the Stargate.  But that's another story.  Now, though, he has returned with his modified ~Stalker C~ to reclaim his past.
-在第二次摧毁了~维克罗莫德~的残暴势力之后，特伦特发现自己通过星际之门被锁定了未来。但那是另一个故事了。现在，他带着改装后的~追踪者C号~飞船回来了，要夺回自己的过去。
+在第二次摧毁了~维克罗莫德~的残暴势力之后，特伦特发现自己通过星门被锁定了未来。但那是另一个故事了。现在，他带着改装后的~追踪者C号~飞船回来了，要夺回自己的过去。
 
 The ~Modified Stalker~ is equipped with an advanced molecular generator which simulates many conventional weapons.  But, it also has the power to instantly generate any one of a number of side-ships and front attachments.  It's the power of the future.
 ~改装的追踪者号~配备了先进的分子发生器，能够模拟多种常规武器。而且，它还能瞬间生成多艘侧翼飞船和前部附件。这是未来的力量。
@@ -1018,7 +1018,7 @@ Advanced MircoFusion
 高级微聚变
 
 Gravitron Pulse-Wave
-重创脉冲波
+引粒子脉冲波
 
 **---OPTION---
 
