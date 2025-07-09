@@ -385,9 +385,11 @@ const char* translate2(const char* msg, int may_export)
 	while (n > 0 && msg[n - 1] <= ' ')
 		n--;
 	std::string str(msg, n);
-	size_t pos = str.find_first_of((char)0xfe);
-	if (pos != std::string::npos)
-		str[pos] = ' ';
+	for (size_t i = 0; i < n; i++)
+	{
+		if (str[i] < 0) // maybe: 0xfe 0xf8
+			str[i] = ' ';
+	}
 	std::unordered_map<std::string, std::string>::const_iterator it = s_trans->find(str);
 	if (it != s_trans->end())
 		return it->second.c_str();
