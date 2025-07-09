@@ -331,7 +331,7 @@ Paid for by the benevolent members of the church of Zinglon.
 *14 02 {Secret}
 
 ARCHIVE DATA
-存档数据
+档案数据
 
 Data
 数据

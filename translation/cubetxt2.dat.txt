@@ -281,7 +281,7 @@ Reference: The Not-so-Great Gryphon Explosion
 参考：不太妙的狮鹫星爆炸
 
 While under the leadership of General Zinglon, station commander at Gryphon,
-在狮鹫星站指挥官劲仑将军的领导下，一群科学家挖掘出了如今被称为盖吉斯星球的地方，
+在狮鹫站指挥官劲仑将军的领导下，一群科学家挖掘出了如今被称为盖吉斯星球的地方，
 a group of scientists excavated what is now called planet Gyges, after the
 它是以已故的元生物学博士盖吉斯·菲尔德伦的名字命名的。
 late Doctor of Metacology, Gyges Phildren.  It is believed they excavated a
@@ -333,9 +333,9 @@ whatever dimension his molecules were scattered to.
 从其分子被分散到的任何维度中带回。
 
 See Tunnel World, Zica
-隧道世界见，兹卡
+参见隧道世界，兹卡
     Weapons Research, Station Gryphon
-　　武器研究，狮鹫星站
+　　武器研究，狮鹫站
     Zica Flamethrower
 　　兹卡火焰喷射器
 

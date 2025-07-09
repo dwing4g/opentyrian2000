@@ -13,7 +13,7 @@ Tech
 技术员
 
 Tightbeam private coded message.
-窄波束私人加密信息。
+窄波私密编码信息。
 Forwarded by Downstar at unknown link.
 由落星在未知链接转发。
 Attached message included as second data message.
@@ -211,9 +211,9 @@ Tech
 技术员
 
 Tightbeam private coded message.
-这是来自睡神星内部12-9-4区的
+窄波私密编码信息。
 Originating from Ixmucane internal section 12-9-4.
-特密光束加密信息。
+来自睡神星内部12-9-4区。
 
 This is Tech ~Harble~ ~Wom~ from level 12.  We have freed this section from
 我是12层的技术员~哈布尔·沃姆~。我们已将此区域
@@ -276,778 +276,731 @@ Data
 数据
 
 Reference: Ixmucane Core sensor report
-
-
+参考：睡神星核心传感器报告
 
 Sensor arrays have detected 3 main types of anomalous readings.
-
-
+传感器阵列检测到3种主要的异常读数。
 
 1 - Unknown Zica defense systems.  Most defense systems are radiating large
-
+1 - 未知的兹卡防御系统。大多数防御系统都在
 amounts of infrared energy and are probably thermal based.  An unknown energy
-
+大量辐射红外线能量，可能是基于热能的。
 force appears to be directing the thermal energy flow.
-
-
+有一种未知的能量力量似乎在引导热能的流动。
 
 2 - Crystalline Ore.  A highly volatile, energy-rich crystal ore has been
-
+2 - 晶体矿石。在该区域检测到一种高度易燃、
 detected in this area.  Dralictite and Morenzinum are indicated in fairly
-
+能量丰富的晶体矿石。在中心附近有相当数量的
 high quantities near the center.
-
-
+德拉利克石和莫伦兹元素。
 
 3 - Large Unknown Energy Source.  A central energy source is producing unknown
-
+3 - 大型未知能量源。一个中心能量源正在产生未知水平的热能。
 levels of heat energy.  This source is a critical threat and your heat
-
+这个能量源是重大威胁，与该装置接触时，
 shielding will last for approximately 30 seconds in contact with the device.
-
+您的隔热装置大约能维持30秒。
 You will have approximately 10 seconds to destroy the source when within
-
+当进入关键范围时，您大约有10秒钟的时间来摧毁
 critical range.
+该能量源。
 
 *09 10
 
 IXMUCANE - PRIVATE LINK
+睡神星 - 私人链接
 
 Captain
+船长
 
 Tightbeam private coded message.
-
+窄波私密编码信息。
 Originating from Ixmucane internal section 1-1-1.
-
-
+来自睡神星内部1-1-1区。
 
 Who are you?  Don't I recognize you?
-
-
+你是谁？难道我不认识你？
 
 No matter.  This planet is going to be vaporized, intruder.  There's no hope
-
+没关系。入侵者，这颗行星即将被蒸发。
 for you to reach the core in time to destroy it.
-
-
+你不可能及时到达核心将其摧毁。
 
 Leave now, whoever you are.  This is not your affair.  I'd kill you myself,
-
+不管你是谁，现在就离开。这不关你的事。
 but I'm not stupid enough to stay behind and die.
-
-
-
-
+我本想亲手杀了你，但我可没傻到留下等死。
 
 ~Captain~ ~Nob~
-
-
+~诺布船长~
 
 ~Ixmucane~ Task Force ~Alpha~
+~睡神星~特遣队~阿尔法~分队
 
 *10 01
 
 ARCHIVE DATA
+档案数据
 
 Data
+数据
 
 Reference: People Pretzel Dough
-
-
+参考：人类卷饼面团
 
 According to a disturbing interstellar transmission, a distant planet reports
-
+据一则令人不安的星际传输消息，一颗遥远的星球报告称，
 that people are being turned into ~People Pretzel Dough~.  Reports are
-
+那里的人正被变成~人类卷饼面团~。
 unconfirmed what exactly that is, but scientists believe it's pretty tasty.
-
-
+目前尚无法确认这究竟是什么，但科学家们认为这应该相当美味。
 
 Any interested research party is instructed to locate Pretzel Pete for more
-
+任何有兴趣的研究团队请与卷饼皮特联系以获取更多
 information.
+信息。
 
 *11 01 {Secret}
 
 ARCHIVE DATA
+档案数据
 
 Data
+数据
 
 Reference: Sonic Cannon
-
-
+参考：声波炮
 
 Rated: ~Not~ ~Funny~
-
-
+评级：~无趣~
 
 The sonic cannon weapon creates a minute gravitational center using FPP (Forced Particle Packing
-
+声波炮武器利用FPP（强制粒子填充技术）制造出一个微小的引力中心，
 technology) which allows a particle field to remain intact.  The gravitational center is destabilized with a
-
+使粒子场保持完整。在从武器中释放之前，通过超频通量调制器使引力中心不稳定。
 hyper flux modulator before being released from the weapon.  The destabilized gravitational core
-
+不稳定的引力核心以固定频率调制，频率足够快，
 modulates at a fixed frequency which is fast enough to create a shimmering field in the optical range
-
+能在绿色光谱附近形成闪烁的场。
 around green.  The frequency generator uses a system of sound wave generators to help modulate the
-
+频率发生器使用一套声波发生器来帮助调制频率，
 frequency for the maximum particle dispersal and energy so far possible - hence the damage from the
-
+以实现迄今为止可能的最大粒子分散和能量——
 weapon is caused by the sonic modulators before the weapon is fired.
-
-
+因此，武器造成的损害是由声波调制器在发射前造成的。
 
 *12 01 {Secret}
 
 ARCHIVE DATA
+档案数据
 
 Data
+数据
 
 Reference: Zica Flamethrower
-
-
+参考：兹卡火焰喷射器
 
 This weapon was found during an excavation of an ancient tunnel-world apparently
-
+这件武器是在挖掘一个古老的隧道世界时发现的，
 build by these strange space-inhabiting creatures.  It is believed the Zica were
-
+这个隧道世界显然是由这些奇怪的太空生物建造的。
 not air-breathers but subsisted mostly on thermal radiation and various
-
+据信，兹卡人并非靠空气呼吸，而是主要依靠热辐射和各种液体
 liquids for survival.
-
-
+来维持生存。
 
 We believe this had a profound impact on their technological development,
-
+我们认为这对其技术发展产生了深远影响，
 since they appear to have developed tools and devices to manipulate and take
-
+因为他们似乎开发出了利用和操控热能
 advantage of thermal and other radiation-based energies.  Their mastery of
-
+及其它辐射能的工具和设备。他们对热能的掌握
 thermal energy appears to have led to the development of this unique null-space
-
+似乎促成了这种独特的零空间火焰喷射器的
 flamethrower.
-
-
+诞生。
 
 What little information which has leaked out of Station Gryphon, where the only
-
+关于这件武器的少量信息是从狮鹫站泄露出来的，
 remaining samples of this device are stored, indicates the weapon uses an
-
+那里保存着这种装置仅存的样本。这些信息表明，
 energy-based particle field to generate the flame without any external air
-
+该武器利用一种基于能量的粒子场来产生火焰，无需任何外部
 or energy source.
-
-
+空气或能源。
 
 Even this limited information would not have been available if it wasn't for
-
+如果不是因为一名研究人员在研究其内部结构时移除了
 the unfortunate accident which apparently occured when a researcher removed
-
+外层覆盖物而引发了一场不幸的事故，这些有限的信息
 the outer covering to study the interior.  A large section of the left-rear
-
+可能根本不会为人所知。狮鹫站左后方的很大一部分
 portion of Station Gryphon is still missing to this day, a testimony to those
-
+至今仍不见踪影，这警示着那些试图摆弄自己不理解的
 who would fool with something they do not understand.
-
-
+东西的人。
 
 See The Not-so-Great Gryphon Explosion
-
-
+参见那个并非伟大的狮鹫站爆炸事件
 
     Tunnel Worlds, Zica
-
-
+　　隧道世界，兹卡
 
     Pirate Activity, Gryphon Sector
-
-
+　　海盗活动，狮鹫星区
 
     Weapons Research, Station Gryphon
-
-
+　　武器研究，狮鹫站
 
     Zica Laser Weapon
-
-
+　　兹卡激光武器
 
 *13 01 {Secret}
 
 ARCHIVE DATA
+档案数据
 
 Data
+数据
 
 Reference: Pirate Activity, Gryphon Sector
-
-
+参考：海盗活动，狮鹫星区
 
 Rated: ~Not~ ~Funny~
-
-
+评级：~无趣~
 
 Gryphon Sector is the main secret weapons research center for Microsol.
-
+狮鹫星区是微索的主要秘密武器研发中心。
 It was long rumored to be an ordinary military station, but since the
-
+长期以来，人们一直认为它只是一个普通的军事基地，
 Not-so-Great Gryphon Explosion, Microsol has decided to let it remain in
-
+但自从那次并非伟大的狮鹫站爆炸事件之后，微索决定让它继续
 public knowledge.  In fact, once a year, they invite members of competing
-
+处于公众的视野中。实际上，每年他们都会邀请竞争对手的成员
 industries to the Station to view how far behind they are in comparison to
-
+来到这个基地，让他们看看自己与微索之间的
 Microsol.
-
-
+差距。
 
 Still, the station has had it's share of hardships.  Many pirates of both
-
+不过，这个基地也历经了不少磨难。米卡尔和帕特罗克
 the Mikal and Patrok clans have long looked upon it as the pinnacle of their
-
+两个海盗家族的许多海盗都把潜入基地的防御系统，
 career if they can infiltrate the station's defenses and land a raiding party
-
+并在研发区安插一支突袭小队，然后从武器实验室带回一些东西
 within the research section, then return with something from their weapons
-
+作为他们职业生涯的巅峰。
 labs.  Most never even make it to the station, destroyed by the dreaded Pong
-
+但大多数人都还没到基地就被可怕的庞格飞船
 ships.
-
-
+击毁了。
 
 One retired pirate of the Patrok clan, one ShipMaster Carlos, wrote a book
-
+帕特罗克家族的一位退役海盗，船长卡洛斯，写了一本书，
 detailing highlights of his extensive career.  One of which was the
-
+详细描述了他辉煌的职业生涯。其中就包括潜入基地并偷走了一种
 infiltration and removal of a weapon now commonly referred to as the Zica
-
+现在被称为兹卡激光炮的武器。据说他在第二天就被暗杀了，
 Laser Cannon.  He is believed to have been assassinated the next day, but
-
+但为时已晚，因为基核已经通过流网将他的书传播了出去。
 they were too late to stop Gencore from transmitting his book over Fluxnet.
-
+此外，他的船一直未被找到，
 In addition, his ship was never found, though it is believed to have been
-
+尽管据信该船配备了兹卡激光。
 equipped with the Zica Laser.  Two months later, Gencore finished development
-
+两个月后，基核完成了另一种也被称为
 of a device also called the Zica Laser.
-
-
+兹卡激光的装置研发。
 
 See The Not-so-Great Gryphon Explosion
-
-
+参见那个并非伟大的狮鹫站爆炸事件
 
     Weapons Research, Station Gryphon
-
-
+　　武器研究，狮鹫站
 
     Zica Laser Weapon
-
-
+　　兹卡激光武器
 
 *14 01 {Secret}
 
 ARCHIVE DATA
+档案数据
 
 Data
+数据
 
 Reference: Zica Laser Weapon
-
-
+参考：兹卡激光武器
 
 Rated: ~Not~ ~Funny~
-
-
+评级：~无趣~
 
 The Zica Laser Weapon was introduced by Gencore after several years of
-
+兹卡激光武器是在微索成功推出多款兹卡产品数年后，
 successful introduction of Zica products by Microsol.  It is still unknown
-
+由基核推出的。
 why so many of these products were named after the Zica, an ancient race
-
+目前尚不清楚为何这些产品大多以兹卡命名，
 which used to inhabit Gyges, among other tunnel worlds.  However, it is
-
+兹卡是曾居住在盖吉斯以及其它隧道世界的古老种族。
 possible that some of these devices are not simply part of the marketing
-
+不过，有可能这些设备并非只是营销噱头，
 frenzy but are actually unique technologies from Gyges.
-
-
+而是来自盖吉斯的独特技术。
 
 This weapon is the most likely to be linked to the Gyges excavation, though
-
+这款武器最有可能与盖吉斯的挖掘工作有关，
 oddly enough, Gencore was not involved in the archaeological research.  Still,
-
+尽管奇怪的是，基核并未参与考古研究。
 the weapon generates forced laser bursts which independent scientists have
-
+不过，该武器能产生强制激光脉冲，独立科学家对此仍无法完全解释。
 not been able to fully explain.  Laser effects are well known for the blue
-
+激光效应在蓝色光谱范围内是众所周知的，
 range of light, but the forced pulse patterns are totally unreasonable.
-
-
+但这种强制脉冲模式却完全不合常理。
 
 The only answer that has been given so far is that there may be some unknown
-
+目前给出的唯一解释是，
 energy working to distort the laser.  Research is still being conducted on
-
+可能有某种未知能量在扭曲激光。
 the effects and reactions of the energy, though little has been accomplished.
-
-
+关于这种能量的效果和反应的研究仍在进行中，但进展甚微。
 
 See Tunnel World, Zica
-
-
+参见隧道世界，兹卡
 
 *15 01 {Secret}
 
 ARCHIVE DATA
+档案数据
 
 Data
+数据
 
 Reference: Tunnel World, Zica
-
-
+参考：隧道世界，兹卡
 
 ~Ixmucane~ is the only known tunnel world to have been excavated.  Even though the
-
+~睡神星~是目前已知唯一被挖掘的隧道世界。
 ~Zica~ had apparently been dead for 421965032 standard years, 14 days, and 32
-
+尽管~兹卡~人显然已经死亡421965032标准年14天32分钟
 minutes (~SCI~ estimation), their internal defenses were still partially active and destroyed
-
+（据~SCI~估计），但其内部防御系统部分仍处于活跃状态，
 many ships who came to investigate the tunnel world.
-
-
+摧毁了许多前来调查隧道世界的飞船。
 
 ~Microsol~ launched a giant excavation of the planet, equipped with powerful
-
+~微索~派出了一支由强大驱逐舰和研究飞船组成的庞大挖掘队伍。
 destroyers as well as research vessels.  Even still, 241 died trying to stop
-
+即便如此，仍有241人在试图阻止防御系统时丧生。
 the defensive systems.  ~General~ ~Zinglon~ reportedly sacrificed ships to get
-
+据报道，~劲仑将军~牺牲了一些飞船
 through to the control centers, rather than allow the defensive weapons to be
-
+以突破到控制中心，而不是让防御武器
 destroyed.
-
-
+被摧毁。
 
 To this day, the tunnel world is a center of ~Microsol~ activity.  Its open
-
+时至今日，这个隧道世界仍是~微索~活动的中心。
 tunnels allow for easy shipbuilding and mining of mineral deposits, as well
-
+其开放的隧道便于飞船建造和矿产开采，
 as the powerful geothermal energy radiation near the core.  Scientists, however,
-
+靠近核心的强热能辐射也极具利用价值。
 are still not certain of the exact second that the last member of the ~Zica~
-
+然而，科学家们仍不确定~兹卡~族在~盖吉斯~星球上的最后一名成员的确切死亡时间，
 race on ~Gyges~ died, but believe it is about 25 additional seconds from their
-
+但他们认为比之前的估计晚了约25秒
 previous estimate (calculated from their exact time of arrival for final excavation).
-
-
+（根据他们最终挖掘行动的确切到达时间计算得出）。
 
 Researchers quote advances in dating techniques to determine more accurately
-
+研究人员引用了测年技术的进步来更准确地
 the events on ~Gyges~.  Also, they claim the fact that many of their
-
+确定~盖吉斯~上的事件。此外，他们声称，许多研究人员
 researchers are still being killed by accidents involving the alien technology
-
+仍因与外星技术相关的事故丧生，
 hampers their ability to conduct more tests.
-
-
+这阻碍了他们进行更多测试的能力。
 
 One anonymous ~SCI~ has reported that the advances in dating technology here were worth the lives expended to
-
+一位不愿透露姓名的~SCI~人员报告称，在这里测年技术的进步是值得为到达核心而付出的生命的。
 reach the core.  In a tightbeam interview he said, "This timing solution will be the crowning moment in my
-
+在一次窄波采访中，他说：“这种测时解决方案将是我职业生涯的巅峰时刻。
 career.  It's the most important goal to us.  The ~Sun~ ~Project~ is entirely
-
+这是我们最重要的目标。~太阳计划~完全被
 overrated".
-
-
+高估了。”
 
 *16 01 {Secret}
 
 ARCHIVE DATA
+档案数据
 
 Data
+数据
 
 Reference: Weapons Research, Station Gryphon
-
-
+参考：武器研究，狮鹫站
 
 Rated: ~Not~ ~Funny~
-
-
+评级：~无趣~
 
 ~Station~ ~Gryphon~ has recently been the main output of ~Microsol's~ advanced
-
+~狮鹫站~最近一直是~微索的~先进武器设计项目的主输出地。
 weapon design program.  They have released a number of high powered weapon
-
+他们已经发布了多款高功率武器系统，
 systems, including several advancements on their ~Pulse~ ~Cannon~ systems, and
-
+包括其~脉冲炮~系统的几项改进，
 their unique ~Starburst~ defense field.
-
-
+以及独特的~星爆~防御场。
 
 After the ~Not-so-Great~ ~Gryphon~ ~Explosion~, some aspects of their research were
-
+在~并非伟大的狮鹫站爆炸事件~之后，他们的一些研究工作
 turned over to public scrutiny, believed to be because of investigations by
-
+被置于公众监督之下，据信是因为一万两千名遇难船员的家属
 families and friends of the twelve thousand crew members that died.  It is
-
+和朋友进行了调查。现在有传言称，
 now rumored that they have just developed a new field of weapons technology
-
+他们刚刚开发出一种新的武器技术领域，
 which will allow them to build much bigger weapons onto conventional battle
-
+这将使他们在常规战舰上安装更大规模的武器成为
 cruisers.
-
-
+可能。
 
 See The Not-so-Great Gryphon Explosion
+参见那个并非伟大的狮鹫站爆炸事件
 
 *17 08       Head of Gencore
 
 INCOMING TRANSMISSION from Gencore Command Ship IcoStar II
+来自基核指挥舰 标星II号的传讯
 
 Transon
+特兰森
 
 ~Trent!~  We've picked up a giant energy buildup in your area!  It seems the
-
+~特伦特！~我们在你所在区域检测到巨大的能量聚集！
 planet conversion has started!
-
-
+看起来行星转化已经开始了！
 
 We've only been able to retrieve about 9000 people so far, but we must
-
+到目前为止我们只救出了大约9000人，
 disengage to prevent our own destruction.  What's going on down there?
-
-
+但我们必须撤离以避免自身被毁灭。下面到底发生了什么？
 
 We can't read you very well, but we're sending down the coordinates of a
-
+我们接收的信号不太清楚，但正在给你发送一条隧道的坐标，
 tunnel which should provide you with an escape route.
-
-
+这应该能为你提供一条逃生路线。
 
 I know you did your best, Trent.
-
-
+我知道你已经尽力了，特伦特。
 
 I...
-
-
+我……
 
 I wish we could have saved them all.
-
-
+我真希望我们能救下所有人。
 
 Trent...
-
-
+特伦特……
 
 Did you hear from ~Harble~?  He was an agent of ours somewhere down there.
-
+你收到了~哈布尔~的消息吗？他是我们派到下面的一个特工。
 I'm sure he's dead now, but I hope he was able to help you.  We received a
-
+他肯定已经死了，但我希望他能帮到你。
 final transmission from him after we knocked out the last of the jamming
-
+在我们摧毁最后一个干扰信号源后，收到了他最后的
 beacons.
-
-
+传输信息。
 
 He said:
-
+他说：
 "Whoever you are... um...
-
+“不管你是谁……嗯……
 Thanks anyway.  ~AAAAUUUGGGHHH!~  ~THE~ ~CONTROL~ ~PANEL'S~ ~ON~ ~FIRE!~"
-
-
+还是谢谢了。~啊啊啊啊啊啊啊啊啊！控制面板着火了！~”
 
 Nothing left to do, Trent.  Get out of there before the place explodes!
+特伦特，没什么可做的了。趁那地方还没爆炸，赶紧离开！
 
 *18 08       Head of Gencore
 
 INCOMING TRANSMISSION from Gencore Command Ship IcoStar II
+来自基核指挥舰 标星II号的传讯
 
 Transon
+特兰森
 
 You did it!
-
-
+你做到了！
 
 The energy source we detected is fading fast and the temperature is dropping
-
+我们探测到的能量源正在迅速消退，温度也正在恢复
 back to normal.
-
-
+到正常水平。
 
 Actually, we have a new problem.
-
-
+实际上，我们又有了一个新问题。
 
 The temperature is falling so fast, you must have blown up the central
-
+温度下降得如此之快，你肯定把核心的中央能源给炸毁了。
 energy source for the core.  We estimate the planet is going to freeze in
-
+我们估计这颗行星大约在六个小时后就会被冻结。
 about 6 hours.  We will continue the relief efforts, but there's a number of
-
+我们会继续救援行动，
 people trapped on the lower levels we'll never reach.
-
-
+但被困在底层的很多人我们永远也救不到了。
 
 Also, Trent, we received a transmission from ~Harble~ ~Wom~, a Gencore agent
-
+还有，特伦特，我们收到了来自~哈布尔·沃姆~的信息，
 we've got stashed down there.  Seems he detected your ship and tried to send
-
+他是我们藏在那里的一个基核特工。似乎他发现了你的飞船，
 some sensor data your way.  Try and contact him if you need help.  He's
-
+并试图向你发送一些传感器数据。如果你需要帮助，就试着联系他。
 trapped in level 12.
-
-
+他被困在第12层。
 
 It's the best we can hope for.  There's nothing else you can do down there.
-
+这是我们能期望的最好结果了。你在下面也帮不上什么忙了。
 We sent the coordinates of a probable escape tunnel for you to use.
-
+我们给你发送了可能的逃生隧道坐标。
 Try and get yourself out of there in one piece, will you?  I don't need
-
+尽量全身而退，好吗？我可不想再背负
 another corpse on my conscience.
+一具尸体的良心负担。
 
 *19 10
 
 IXMUCANE - PRIVATE LINK
+睡神星 - 私人链接
 
 Captain
+船长
 
 Tightbeam private coded message.
-
+窄波私密编码信息。
 Originating from Ixmucane internal section [unknown].
-
-
+来自睡神星内部区域[未知]。
 
 What in the name of the 29 hells of ~Dai-Zan~ are you doing here?
-
-
+以~戴赞~的29层地狱之名，你在这儿干什么？
 
 How did you find our null-shielded ship?!  We've got the most sophisticated
-
+你是怎么找到我们这艘无护盾飞船的？！我们这儿可是拥有
 equipment in the universe down here!  It cost a lot of money.  Now I'll have
-
+全宇宙最先进的设备！花了大价钱买的。现在我得去杀掉
 to kill that dealer on Savara...
-
-
+萨瓦拉的那个经销商……
 
 I'm not about to give up my life to some pitiful scout pilot like you!  Come
-
+我才不会把命交给像你这样可怜的侦察飞行员！
 and attack me if you dare.
+有种你就来攻击我啊。
 
 *20 10
 
 IXMUCANE - PRIVATE LINK
+睡神星 - 私人链接
 
 Captain
+船长
 
 Tightbeam private coded message.
-
+窄波私密编码信息。
 Originating from Ixmucane internal section [unknown].
-
-
+来自睡神星内部区域[未知]。
 
 Go ahead, take all the junk you want from that ship, you cretin!
-
+尽管拿走那艘船上的所有破烂吧，你这个蠢货！
 Nothing there will save you from a cold death in this hole.
-
-
+那里没有任何东西能让你在这冰窟窿里免于冻死。
 
 I hope you freeze.
+我希望你被冻僵。
 
 *21 02      Desert world - Surface of Ixmucane
 
 IXMUCANE - PRIVATE LINK
+睡神星 - 私人链接
 
 Tech
+技术员
 
 Tightbeam private coded message.
-
+窄波私密编码信息。
 Originating from Ixmucane internal section 12-9-4.
-
-
+来自睡神星内部12-9-4区。
 
 Hey, buddy, we've got you back on our sensors.  What's going on out there?
-
-
+嘿，伙计，我们又在传感器上发现你了。外面到底怎么回事？
 
 This place is getting so cold now our display panels are starting to crack
-
+这里现在冷得要命，我们的显示面板都快被
 from the temperature stress!
-
-
+温度压力冻裂了！
 
 Look, buddy.  We've got one of those cursed ~Microsol~ SCIs down here with us,
-
+听着，伙计。我们搞到一位该死的~微索~SCI，跟我们一起下来的，
 and with a little friendly laser probing we've got him to talking.  He says
-
+然后用友好的激光探测让他开口了。
 that they've got an escape tunnel out there - the one you're on - which
-
+他说他们搞了一个逃生隧道——就是你所在的那个——
 contains their main tech center.
-
-
+里面藏着他们的主要技术中心。
 
 He says you can reactivate the core with one of the consoles in that sector.
-
+他说你可以用那个区域的一个控制台重新激活核心。
 The access code has been attached to this message and should be in your
-
+访问密码已附在这条信息里，应该在你的电脑里。
 computer banks.  You've gotta deactivate this crazy place and reactivate
-
+你得关闭这个疯狂的地方，重新激活主系统。
 the main system.  Just like an ~SCI~ to mess up the whole planet trying to get
-
+真是个~SCI~，为了搞成，差点把整个星球
 one dang thing to work right!
-
-
+都搞砸了！
 
 And, do it ~FAST~, will ya!?  I don't want to die down here in this ~Microsol~
-
+而且，动作~快点~，好吗！？我可不想死在这~微索~的
 dungeon!
+地牢里！
 
 *22 08       Head of Gencore
 
 INCOMING TRANSMISSION from Gencore Command Ship IcoStar II
+来自基核指挥舰 标星II号的传讯
 
 Transon
+特兰森
 
 The temperature is dropping to the critical point near your section.  I don't
-
+你所在区域的温度正在逼近临界点。
 think we'll be able to save everyone in the lower levels, but you gave us the
-
+我认为我们无法救出所有在底层的人，
 valuable time we needed.  I thank you for it.
-
-
+但你为我们争取到了宝贵的时间。我为此感谢你。
 
 About ~7500~ people ~lived~ because of your diversion.
-
-
+因为你的引开行动，大约有~7500~人得以~生还~。
 
 As I said, the air near you is reaching a critical point and we believe the atmosphere
-
+正如我所说，你们附近的空气即将达到临界点，
 down there is going to literally freeze solid.  There's still a group of
-
+我们认为那里的大气层很快就会彻底冻结。
 combat drones near you, but it's the only quick way out from there.
-
-
+你们附近还有一群战斗无人机，但这是从那里快速撤离的唯一途径。
 
 Oh yes, we received a brief trasmission from ~Harble~.
-
-
+哦，对了，我们收到了一条来自~哈布尔~的简讯。
 
 He said:
-
+他说：
 "Whoever you are... um...
-
+“不管你是谁……嗯……
 Thanks anyway.  ~AAAAUUUGGGHHH!~  ~THE~ ~CONTROL~ ~PANEL~ ~SHATTERED!~"
-
-
+还是谢谢了。~啊啊啊啊啊啊啊啊啊！控制面板碎了！~”
 
 Nothing left to do, Trent.  Get out of there before the place freezes solid!
+特伦特，没什么可做的了。趁那地方还没冻结实，赶紧离开！
 
 *23 08       Head of Gencore
 
 INCOMING TRANSMISSION from Gencore Command Ship IcoStar II
+来自基核指挥舰 标星II号的传讯
 
 Transon
+特兰森
 
 I can't believe my eyes!
-
-
+我简直不敢相信自己的眼睛！
 
 Our sensors tell us the central core has come back online somehow and the
-
+我们的传感器显示中央核心不知怎的恢复了运行，
 core temperature is returning to normal.  What did you do?  We detected a
-
+核心温度也在恢复正常。你做了什么？
 skirmish and a release of many large protron explosions.
-
-
+我们探测到一场小规模冲突和大量质子爆炸的释放。
 
 I don't know how you managed it, but we can now extend our efforts toward
-
+我不知道你是怎么做到的，但现在我们可以把精力
 those trapped in the lower levels.  I think we're going to be able to save
-
+集中在那些被困在底层的人身上了。我想我们终究还是
 these people after all.
-
-
+能救下这些人。
 
 No way is this ever going to be a ~Microsol~ world again.  I think I'm going
-
+这颗星球再也不会成为~微索~世界了。
 to be able to convince the other corporations to join me now.  There's no
-
+我想现在我能说服其它公司加入我了。
 telling what they would have done if this place became active.
-
-
+要是这个地方被激活了，他们可能会做出什么来，真不好说。
 
 I can tell you now, Trent.
-
-
+我现在可以告诉你，特伦特。
 
 I believe there's no way in this universe we could have stopped ~Microsol~
-
+我认为在这个宇宙里，如果这颗星球被激活，
 if this planet was activated.  It might have taken a decade or two, but there's
-
+我们根本无法阻止~微索~。也许需要十年或二十年，
 no way to compete with an unlimited energy source like this.  Best we could
-
+但根本无法与这种无限能源相抗衡。我们最好的希望就是阻止他们控制它。
 have hoped for was to keep them from controlling it.  With all our best
-
+不过，我们所有最优秀的SCI都死了，
 SCIs dead, though, we couldn't have stopped them.
-
-
+所以我们根本无法阻止他们。
 
 Trent, the air out there is still at the critical freezing point, so you'd
-
+特伦特，外面的气温仍处于临界冰点，
 better get out of there before the coldwave reaches you.  Don't worry about
-
+所以你最好在寒潮到达之前离开那里。
 the people trapped below.  They're pretty safe behind this Zica shielding,
-
+别担心被困在下面的人。他们躲在兹卡护盾后面
 and the energy conduits will reach them first.  You're out there in
-
+相当安全，能量通道会先击中他们。你却在外面
 the open!
-
-
+毫无遮挡！
 
 I don't need a frozen cadaver on my hands!
+我可不想手上有个冻僵的尸体！
 
 *24 04      Desert world - Surface of Ixmucane
 
 DELIANI PRIORITY UPLINK A2
+得里尼优先上连端口A2
 
 Mondus
+蒙杜斯
 
 Tightbeam private coded message.
+窄波私密编码信息。
 
 Forwarded by Gencore Command Ship IcoStar II - Priortily UpLink A1.
-
-
+由基核指挥舰标星II号——优先上连端口A1转发
 
 Attached messages included as second and third data messages.
-
-
+附带信息作为第二和第三条数据信息附上。
 
 ~Transon~.  We are under attack by a giant ~Microsol~ combat fleet.
-
-
+~特兰森~，我们正遭受一支庞大的~微索~战斗舰队的攻击。
 
 I have sealed off the planet surface with a fleet of battle cruisers, but someone
-
+我已用一队战舰封锁了行星表面，
 seems to be playing havoc up there with our security codes.  Our defense net
-
+但似乎有人在上面用我们的安全密码搞破坏。
 has been turned against us, and I'm not in control of the main computer
-
+我们的防御网络已被反噬，我已无法再控制主计算机
 system anymore.
-
-
+系统。
 
 An elite group of guards and I have sealed off the secret command center and
-
+我和一小队精锐卫兵封锁了秘密指挥中心，
 are prepared to activate the escape system.  We are cut off from the main
-
+准备启动逃生系统。我们已与主系统断开，
 system and no longer control the planet.  It is all I could do to get this
-
+不再控制这颗行星。在他们接管私人通讯链路之前，
 coded channel out to you before they override the private comm links.
-
-
+我只能通过这个私密通信链接向你发出此信息。
 
 We know little about what is happening up there, but we have managed to detect
 
