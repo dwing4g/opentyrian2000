@@ -628,7 +628,7 @@ You must take out that lunatic or else the planet will be ruined.
 你必须除掉那个疯子，否则星球将会毁灭。
 
 Transon out.
-特兰森已退出。
+特兰森离开。
 
 *20 05
 
@@ -717,7 +717,7 @@ power are terrifying.
 这种力量的后果令人恐惧。
 
 Transon out.
-特兰森已退出。
+特兰森离开。
 
 *23 03
 

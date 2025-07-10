@@ -336,7 +336,7 @@ but I'm not stupid enough to stay behind and die.
 ~诺布船长~
 
 ~Ixmucane~ Task Force ~Alpha~
-~睡神星~特遣队~阿尔法~分队
+~睡神星~特遣队~阿尔法~
 
 *10 01
 
@@ -967,7 +967,7 @@ I don't need a frozen cadaver on my hands!
 *24 04      Desert world - Surface of Ixmucane
 
 DELIANI PRIORITY UPLINK A2
-得里尼优先上连端口A2
+得里尼紧急上连端口A2
 
 Mondus
 蒙杜斯
@@ -1003,1714 +1003,1542 @@ coded channel out to you before they override the private comm links.
 我只能通过这个私密通信链接向你发出此信息。
 
 We know little about what is happening up there, but we have managed to detect
-
+我们对上面发生的事情知之甚少，但我们已经探测到
 a giant ship moving through the underground of the planet.  This thing is
-
+一艘巨大的飞船正在行星的地下穿行。这东西异常庞大，
 unusually large, and is tapping into our power systems.  I do not think we
-
+还在侵入我们的电力系统。就算我们有办法尝试，
 could stop it now if we even had the means to try.
-
-
+现在也阻止不了它了。
 
 You must seal off the planet.
-
-
+你必须封锁这颗行星。
 
 Or else...
-
-
+否则……
 
 ~Transon~.  We have made it our primary concern to keep the ~A1~ ~UPLINK~ open.  If
-
+~特兰森~。我们首要任务是保持~A1上行链路~畅通。
 you can not stop the fleet from taking total control of the planet, you will
-
+如果你无法阻止舰队完全控制这颗行星，
 have to activate the ~Nova~ system.  I do not think it will take them too long
-
+你就得启动~诺瓦~系统。一旦我们从行星核心弹射出去，
 to find us once we jettison ourselves from the planet core.
-
-
+他们很快就会找到我们。
 
 Make them suffer, ~Transon~.  I... would.
+让他们尝尝苦头，~特兰森~。我……会的。
 
 *25 01
 
 DELIANI TRANSMISSION FLUX 02975
+得里尼传输流02975
 
 Javi
+佳维
 
 Thanks, ~Transon~.  While the mice are away, the cat will play.  Heh.
-
-
+谢谢，~特兰森~。山中无老虎，猴子称大王。嘿。
 
 I trust you've enjoyed playing with ~Ixmucane~.  Now, we're going to do a little
-
+我相信你跟~睡神星~玩得很开心。现在，咱们也来好好玩玩
 playing around with your planet.
-
-
+你的星球。
 
 I can see you're still too trusting, ~Transon~.  Can't believe you still left
-
+我看你还是太天真了，~特兰森~。
 some of those old security codes in place.  They don't make 'em like you
-
+真不敢相信你居然还留着那些老密码。像你这样的人
 anymore.
+可不多见了。
 
 *26 08       Head of Gencore
 
 INCOMING TRANSMISSION from Gencore Command Ship IcoStar II
+来自基核指挥舰 标星II号的传讯
 
 Transon
+特兰森
 
 Something's going on down there on ~Deliani~!
-
-
+~得里尼~出事了！
 
 I'm sure you read the two previous messages.
-
-
+我相信你已经读过之前的两条消息了。
 
 What can we do?  You've got to fly ahead and distract them until we arrive,
-
+我们能怎么办？你得先飞过去把他们引开，直到我们赶到。
 somehow.  We've sent out a droneship to attach some booster packs to your
-
+我们已经派出一艘无人飞船去给你的飞船装上助推器，
 ship.  They should be enough to get you to ~Deliani~.  We'll try to get some
-
+应该能让你飞到~得里尼~。我们会在途中
 equipment to you along the way and once you reach the planet.
-
-
+想办法给你送些装备，等你到了星球上再说。
 
 You now know as much as I do, ~Trent~.  I can't believe they were able to
-
+~特伦特~，现在你知道的和我一样多了。
 get this fleet out undetected.  Something's going on - I don't like this
-
+真不敢相信他们能神不知鬼不觉地把舰队弄出来。这里面肯定有猫腻——
 one bit.  We've been picking up ~unknown~, strange ships and energy patterns the
-
+我一点都放心不下。我们在绕着这颗星球转的时候，一直都在接收到一些~不明的~、
 whole time while in orbit around this planet.
-
-
+奇怪的飞船和能量信号。
 
 The universe is erupting into chaos, ~Trent~!  This is the only chance to save
-
+宇宙正在陷入混乱，~特伦特~！这是拯救残局的唯一机会！
 what's left!  If you fail, we'll never be able to reach the planet in time,
-
+如果你失败了，就算我们想摧毁这颗星球，也来不及了。
 even if we wanted to destroy it.  I can't tell you what the ~Nova~ system is
-
+我不能在这条通讯链路上告诉你~诺瓦~系统
 on this link,
+是什么。
 
 but suffice it to say - it was our final hope in case we couldn't stop
-
+但简单来说——这是我们万一有一天阻止不了微索的最后希望。
 Microsol someday.  It seems that day has passed me by - the blind fool I've been!
+还以为这一天已经过去了——我这个瞎眼的傻瓜！
 
 *27 01
 
 DELIANI TRANSMISSION FLUX 02975
+得里尼传输流02975
 
 Javi
+佳维
 
 ~Trent!?~  Is that you?
-
-
+~特伦特！？~是你吗？
 
 I never thought I'd get to see you again so soon.  I can't believe you've
-
+我从没想过这么快就能再见到你。
 decided to forfeit yourself to try and stop me from taking over this place!
-
-
+真不敢相信你居然决定自首来阻止我接管这个地方！
 
 With ~Vykromod~ crippled from the blast you gave his ship, I've taken command
-
+由于你给~维克罗莫德~的飞船造成的爆炸，他的舰队已经瘫痪，我已接管了
 of the fleet.
-
-
+这支舰队。
 
 I've got a nasty surprise waiting down here.  So come on, ~Trent~, be the
-
+我在这儿给你准备了一个大大的惊喜。来吧，~特伦特~，
 hero you've always wanted to be and come after me.  I've got other engagements,
-
+做你一直想做的英雄，来追我吧。不过，
 though, once I've blasted the irritating fool in this escape pod.
-
-
+等我炸掉这个逃生舱里的讨厌鬼之后，我还有别的事要办。
 
 You're too insignificant to be a part of my plan.  I'd be amazed if you make
-
+你太微不足道了，根本不在我的计划之内。你要是能从导弹舱那里过来，
 it past the missile bays.
+我倒要佩服佩服你了。
 
 *28 04      Desert world - Surface of Ixmucane
 
 DELIANI PRIORITY UPLINK A2 [code P]
+得里尼紧急上连端口A2 [代号P]
 
 Mondus
+蒙杜斯
 
 Tightbeam private coded message.
-
-
+窄波私密编码信息。
 
 Are you Trent?  I have heard of you from ~Transon~.
-
-
+你是特伦特吗？我是从~特兰森~那里听说你的。
 
 Forgive me for not introducing myself, but a certain ~crazed~ ~lunatic~ is
-
+请原谅我没有自我介绍，但有个~疯狂的疯子~
 hammering on my pod's shielding with ~Lightning~ blasts.  I do not believe there
-
+正用~闪电~爆弹攻击我的舱体护盾。
 is a very good probability we will survive much longer, but I need to tell you
-
+我觉得我们撑不了多久了，但我得告诉你
 what you are up against.
-
-
+你将面对什么。
 
 The main defense net consists of ~battle~ ~platforms~.  Most of these launch
-
+主要防御网由~战斗平台~组成。这些平台大多发射
 ~semi-guided~ ~micro~ ~missiles~, though some fire more mundane ~energy~ ~blasts~.  The
-
+~半制导微型导弹~，不过也有一些发射普通的~能量炮弹~。
 missiles are what you should first look out for, though.  I would suggest
-
+但你首先得小心那些导弹。我建议你
 equipping some direct ~side-firing~ ~weaponry~ if you have it available.
-
-
+如果有直接~侧射武器~的话就装备上。
 
 Halfway through the core you will encounter a large ~battle~ ~section~ which you
-
+穿过核心一半后，你会遇到一个~大型战斗区~，
 should take out first.  This is fairly straightforward, but afterward you will be
-
+你得先解决它。这还算简单，但之后
 attacked with a number of ~giant~ ~semi-guided~ ~missiles~ from behind.  Do not
-
+你会被从后面发射的大量~巨型半制导导弹~攻击。
 attempt to destroy these.  Instead, try to conserve your energy and find a way
-
+不要试图摧毁它们，而是尽量节省能量，
 around them, while keeping a hold on those ~micro~ ~missiles~.
-
-
+想办法绕过去，同时留意那些~微型导弹~。
 
 The final ~fleet~ ~ship~ seems to be a multi-stage defense
-
+最后的~舰队飞船~似乎是一个多阶段防御
    -.  - ip. When it - . . ..- -. it will release a .- .. - -.  - ~must~ ~shoot~.
-
-
+   ……点。当它……，会释放一个……~必须击落~。
 
 Goodbye, Trent. --. - . - like this makes - -. happy I'm only an androi
-
-
+再见，特伦特。……像这样让……开心，我只是一个机器
 
 [End of Transmission]
+[传输中止]
 
 *29 08       Head of Gencore
 
 INCOMING TRANSMISSION from Gencore Command Ship IcoStar II
+来自基核指挥舰 标星II号的传讯
 
 Transon
+特兰森
 
 We've picked up your transmission of success in defeating the main defense
-
+我们收到了你们击溃主防御舰的信号。
 ship.  I don't mean to criticize your ability, but that seemed too easy.
-
-
+我无意质疑你们的能力，但这似乎太容易了。
 
 I think we can repair the damage you did to Deliani without too much trouble.
-
+我认为修复你们对得里尼造成的破坏不会太麻烦。
 At least, once we get back into the computer net.  With Mondus, the head
-
+至少，等我们重新接入计算机网络之后。由于
 of ~Deliani~ ~Control~, destroyed, we're going to have a tough time trying to
-
+~得里尼控制中心~的负责人蒙杜斯已被摧毁，
 reinterface with the computer.  With all the people you helped us rescue,
-
+我们重新与计算机对接将会很困难。不过，
 the ~IcoStar~ ~II~ should have enough brainpower to crack the security
-
+有了你们帮我们救出的那些人，希望~标星II号~很快就能
 fairly soon, I hope.
-
-
+破解安全系统。
 
 This definitely wasn't their main objective.  We tried to pick up a ~Captain~
-
+这显然不是他们的主要目标。我们试图拦截从~睡神星~逃走的~诺布船长~，
 ~Nob~ escaping from ~Ixmucane~, but were unable to stop him.  All we know is that
-
+但没能成功。我们只知道他朝着~萨瓦拉~的方向去了。
 he was heading in the direction of ~Savara~.  We sent some supply ships on
-
+我们已经派了一些补给飞船先行与你们会合，
 ahead to rendezvous with you and some other fighter ships we just dispatched.
-
-
+还有一些刚刚派出的战斗机也会与你们会合。
 
 They'll be moving in first to take out the chemical processing plants, which
-
+他们将首先行动，摧毁那些化学加工厂，
 should draw their energy production systems to a halt.  I'm afraid I rebuilt the ~Z-29~
-
+这应该能让他们的能源生产系统陷入瘫痪。恐怕我又把~Z-29中央防御舰~
 ~Central~ ~Defense~ ~Ship~ again, and we improved on the design.
-
+重建了一遍，而且我们还改进了设计。
 ~Microsol's~ probably already captured it with the same security backdoors
-
+~微索~很可能已经通过和这里一样的安全后门将其控制了。
 they used here.  Sorry.  I need you to go and destroy it again.
-
-
+抱歉。我需要你再去把它摧毁一次。
 
 Once we get back in and get our sensor grid up we'll be able to help you
-
+等我们重新进入并恢复传感器网络后，就能在定位
 some more in locating ~Microsol's~ main target.
-
-
+~微索的~主要目标方面为你提供更多帮助。
 
 Good luck, Trent.
+祝你好运，特伦特。
 
 *30 03
 
 BENO CRACKERS
+贝诺饼干
 
 Ad
+广告
 
 New, from Omara corp.
-
-
+新品，来自奥玛拉公司
 
 Just when you thought you would never see another Beno again, comes ~Beno~
-
+就在你认为再也见不到贝诺的时候，~贝诺饼干~登场了。
 ~Crackers~.  Made in a reasonable facsimile of the real creatures, these
-
+这些美味的零食饼干仿照真正的贝诺制作而成，
 tasty snack crackers are a real treat!
-
-
+绝对是一大享受！
 
 Pick up a holo-bowl of them today and feast down on the life forms too cute
-
+今天就来一盒全息碗装的，尽情享用这些萌到无法生存的
 to survive [The Editor].
+生命体吧 [编辑]。
 
 *31 01
 
 UNKNOWN FLUX 02975
+未知流02975
 
 Javi
+佳维
 
 What in the universe are you doing still alive?!  I thought I told you to
-
+什么你这混蛋居然还活着？！上次你出现的时候
 die the last time you showed up!
-
+我就让你死了！
 
 
 ~HOW~ ~MANY~ ~TIMES~ ~MUST~ ~I~ ~KILL~ ~YOU?!?~
-
-
+~我到底要杀你多少次啊？！？~
 
 This time, Trent, there is no escape!
-
-
+这次，特伦特，你无处可逃！
 
 I will take you out with my personal ~DREADNAUGHT!~  You are nothing to me,
-
+我会用我的个人~无畏舰~把你干掉！你对我来说什么都不是，
 do you hear me!  ~NOTHING!!!~
+听到了吗！~什么都不是！！！~
 
 *32 09
 
 SHIP ID 000 IN SAVARA FLUX 00000
+飞船ID 000 在萨瓦拉流00000
 
 Ninja
+忍者
 
 This is your old friend, Trent.  I've managed to take out the ~chemical~
-
+这是你的老朋友，特伦特。我已经成功摧毁了
 ~processing~ ~plants~ here on Savara, but I think we have a problem.
-
-
+萨瓦拉星上的那些~化学加工厂~，但我觉得我们有麻烦了。
 
 My long-range sensors have detected a ~gigantic~ ~ship~ heading our way.  It's
-
+我的远程传感器探测到一艘~巨大的飞船~正朝我们飞来。
 not the size that bothers me, though.  It's not really all that big in size,
-
+不过让我担心的不是它的大小，它其实不算特别大，
 but the ~energy~ ~readings~ I'm getting from it are off the ~scale~.
-
-
+而是我从它身上接收到的~能量读数~超出了~正常范围~。
 
 It appears to also have an ~insane~ ~mass~ ~analysis~ ~reading~, like it was
-
+它似乎还有着~惊人的质量分析读数~，
 something as massive as a ~planet~.  I don't like this, Trent.  I must deal
-
+就像一颗~行星~那么大。我不喜欢这样，特伦特。
 with the ships down here on Savara, but it appears to be interested only in
-
+我得处理萨瓦拉星上的那些飞船，但它似乎只对你感兴趣，
 you, as it's ~matching~ ~your~ ~course~ exactly.
-
-
+因为它正完全~按照你的航线飞行~。
 
 There's about one hour left before it reaches orbit.  My ship is... damaged.
-
+它大约一小时后就会进入轨道。我的飞船……受损了。
 I must humbly admit I won't be able to achieve orbit on my own.  I'm sorry
-
+我不得不承认，我自己无法进入轨道了。
 I couldn't help you out this time, but it is best that I stay and help these
-
+很抱歉这次没能帮到你，不过我还是得留在这里帮助
 innocents here on Savara, anyway.
-
-
+萨瓦拉星上的这些无辜者。
 
 You will be remembered always, Trent.
+你会一直被铭记的，特伦特。
 
 *33 11
 
 SHIP ID 184-3C IN SAVARA FLUX 12002
+飞船ID 184-3C 在萨瓦拉流12002
 
 Dougan
+道根
 
 How's the war going?  I'm down here with the rest of this rag-tag band trying
-
+战况如何？我和这帮乌合之众在这儿努力
 to sort things out.
-
-
+解决问题。
 
 I intercepted the other trasmissions you received and don't like either of
-
+我截获了你收到的其它两份传输信息，都不太喜欢，
 them very much, ~Javi~ more so.  I think I can help you out, though.  My ship
-
+尤其是佳维那份。不过我觉得我能帮上忙。
 isn't equipped for combat, but I've got a heavy-duty ~VLR~ ~sensor~ ~grid~ and a
-
+我的飞船没有配备作战装备，但我这儿有套重型的~VLR传感器网格~
 ~TQ930~ ~comm~ ~system~ packed in this baby.  If you keep your comm channel open,
-
+和一套~TQ930通讯系统~。只要你保持通讯频道畅通，
 I'll try to feed your computer some holographic data on the dreadnought's weak
-
+我会试着给你的电脑传输一些关于那艘战列舰弱点的
 points.
-
-
+全息数据。
 
 It seems that the shielding on that ship is being disrupted by the weird
-
+看起来那艘船的护盾被奇怪的~引力场~干扰了，
 ~gravity~ ~field~, and whenever certain systems are activated, it draws a lot of
-
+而且每当某些系统启动时，它就会从护盾上抽走大量能量。
 power from the shields.  I'll try to pinpoint the ~weaknesses~ for you.  Your
-
+我会帮你找出~弱点~。你的电脑会在视屏上
 computer will display them on your vidscreen with ~green~, ~holographic~ ~arrows~.
-
-
+用~绿色全息箭头~显示出来。
 
 I wish I could be there to see you kick that ~tin~ ~can~ back across the galaxy
-
+真希望我能去现场看你把那艘~破船~踢回它来的那个星系。
 where it came from.  ~Javi's~ a fool if he thinks some big ship is going to
-
+~佳维~要是以为有什么大船能救他，那他就是个
 save him!
+傻瓜！
 
 *34 05
 
 WANTED
+通缉
 
 Ad
+广告
 
 Have you seen this man?
-
-
+您见过这个人吗？
 
 If so, fly immediately to your nearest ~Brownie~ ~Patrol~ ~Station~ and report
-
+如果见过，请立即飞往最近的~布朗尼巡逻站~报告
 his position.
-
-
+他的位置。
 
 This man should be considered armed and dangerous!  He is wanted for ~Grand~
-
+此人应被视为持有武器且危险！他因对萨瓦拉犯有
 ~Planetary~ ~Treason~ against Savara.  This man was formerly known as ~Emperor~
-
+~大行星背叛罪~而被通缉。此人曾被称为
 ~Milktoe~.
-
-
+~乳趾皇帝~。
 
 Don't kid yourself!  ~Run~ ~away!~
+别自欺欺人了！~快跑！~
 
 *35 03
 
 BENO CRACKERS
+贝诺饼干
 
 Ad
+广告
 
 New, from Omara corp.
-
-
+新品，来自奥玛拉公司
 
 What you need
-
-
+在新的一天来临
 
 before the day
-
-
+之前您需要的是
 
 are ~Beno~ ~Crackers~
-
-
+~奥玛拉~式的
 
 the ~Omara~ way!
-
-
-
-
+~贝诺饼干~！
 
 Pick up a holo-bowl today!
-
-
+今天就来选购一款全息碗吧！
 
 Contact Fluxnet @15003-00421-92431-19327 for an Omara distributor near you.
+联系Fluxnet @15003-00421-92431-19327，获取您附近的奥玛拉经销商信息。
 
 *36 09
 
 SHIP ID 000 IN SAVARA FLUX 00000
+飞船ID 000 在萨瓦拉流00000
 
 Ninja
+忍者
 
 Hello, Trent.  I have picked you up on my comm link again.
-
-
+嗨，特伦特。我又通过通讯器联系到你了。
 
 Things aren't going too well down here.  Without an outside energy boost, I'm
-
+这里的情况不太妙。没有外部能量补充，
 not sure if our ships are going to hold out.  About half of our group is gone
-
+我不确定我们的飞船还能撑多久。我们小队已经损失了一半，
 already and the rest are damaged.
-
-
+剩下的也都受损了。
 
 Without outside help, we will not have enough fuel to return home.
-
-
+没有外界援助，我们没有足够的燃料返回家园。
 
 Sigh...
-
-
+唉……
 
 Anyway, let's talk some more about hot dogs.  Did you pick some up for me
-
+不管怎样，咱们再聊聊热狗吧。在你消灭~微索~舰队之前，
 back on Ixmucane before you took out the ~Microsol~ fleet?  I could really use
-
+有没有在睡神星给我带几个？我现在真想
 one of those right now.
-
-
+吃一个。
 
 Signing off.
+就说这些了。
 
 *37 11
 
 SHIP ID 184-3C IN SAVARA FLUX 12002
+飞船ID 184-3C 在萨瓦拉流12002
 
 Dougan
+道根
 
 Great job!  We could see the explosion all the way back down here on Savara!
-
+干得漂亮！我们在萨瓦拉这儿都能看到爆炸了！
 Javi won't be heading any ~Microsol~ attack fleets anymore.
-
-
+佳维再也不能指挥任何~微索~攻击舰队了。
 
 Trent, the others down here aren't doing so well.  I can't help them out
-
+特伦特，这儿的其他人情况不太好。
 directly, so I've gone back into orbit to try and contact Transon.  Have
-
+我没法直接帮到他们，所以我回到轨道上试图联系特兰森。
 you heard anything?
-
-
+你有他的消息吗？
 
 I hope I can get through for backup before we're taken out.  Almost none of us
-
+我希望能在我们被消灭之前联系上他请求支援。
 have operational interstellar drives, and it doesn't look like anyone down
-
+我们几乎没人有能用的星际驱动器，而且看起来这儿也
 here can help us.
-
-
+没人能帮我们。
 
 Anyway, I've got a long-range sensor report for you.  Their main battle ships
-
+不管怎样，我这儿有一份远程传感器报告给你。
 are headed toward ~Gyges~ for some reason.  If you can, head for ~Gyges~.  I
-
+他们的主力战舰不知为何正朝~盖吉斯~进发。如果可以的话，
 think they're getting ready to do something really bad now that we've stopped
-
+你也朝~盖吉斯~去。我觉得他们准备干出什么坏事了，
 their main assault.  I'd rather not be here when they're ready.
-
-
+因为我们已经阻止了他们的主要攻势。我可不想在这儿等着他们准备就绪。
 
 I may lose contact with you if we can't capture ~Fluxnet~ here on Savara.
-
+如果我们不能在萨瓦拉这里捕获~流网~，我可能会与你失去联系。
 Without it, my comm signals won't have the range to reach you out there.
-
-
+没有它，我的通讯信号无法传到那么远的地方找到你。
 
 From now on, I'm afraid you're flying blind.  I pray to ~Zinglon~ that ~Transon~
-
+从现在起，恐怕你只能盲飞了。我祈求~劲仑~能让~特兰森~
 can get the Deli back online.
-
-
+把得里重新上线。
 
 I hope I hear from you again.
+希望还能再收到你的消息。
 
 *38 05
 
 GYGES SECTOR - PRIVATE TRANSMISSION ID 11432
+盖吉斯区 - 私密传输ID 11432
 
 Muldar
+穆尔达
 
 [Message Amplified]
-
-
+[消息放大]
 
 This is a priority distress.
-
-
+这是一次紧急求救。
 
 We are being attacked by a ~Microsol~ attack fleet.
-
-
+我们正遭受一支~微索~攻击舰队的袭击。
 
 Can anyone out there hear me?  I'm trapped by a large ~Microsol~ fleet out here
-
+有人能听到我说话吗？我被困在~盖吉斯~区域外的一支庞大的~微索~
 in ~Gyges~!
-
-
+舰队中！
 
 We were picking up a shipment of organics when a huge stream of ships came
-
+我们正在接收一批有机物货物时，突然一大群飞船
 hurtling out of nowhere towards us.  They're not responding to our communications!
-
+从天而降朝我们冲了过来。他们不回应我们的通讯！
 We have no combat systems!
-
-
+我们没有战斗系统！
 
 Someone help us!  ~THEY'RE~ ~CLOSING~ ~IN!~
-
-
+来人帮帮我们！~他们正在逼近！~
 
 [Message Repeats]
+[信息重复]
 
 *39 08       Head of Gencore
 
 DELIANI PRIORITY UPLINK A1 [code A]
+得里尼紧急上连端口A1 [代号A]
 
 Transon
+特兰森
 
 Trent?  Are you receiving me?
-
-
+特伦特？能听到我说话吗？
 
 We've got part of Deliani operational again and have picked you up inside
-
+我们已经让得里尼的部分区域恢复了运作，并且在~盖吉斯~里发现了你！？
 ~Gyges~!?  ~What~ ~are~ ~you~ ~doing~ ~out~ ~there?!?~
-
-
+~你在外面干什么？！？~
 
 A merchant drone will rendezvous with you - about all we can do.  We just
-
+一艘商用无人机将会与您会合——这是我们目前能做的全部了。
 picked up distress calls from Savara as well and will try to help them out.
-
-
+我们也收到了来自萨瓦拉的求救信号，会尽力去帮他们。
 
 Dougan said something about a bunch of ships leaving towards ~Gyges~, and
-
+道根提到有一群飞船朝着~盖吉斯~飞去，
 something about a dreadnought being taken out near Savara.  We have no
-
+还说在萨瓦拉附近有一艘战列舰被击毁。
 additional information about what's going on out there, so give it your best.
-
-
+关于那边的情况我们没有更多消息了，所以您得尽力而为。
 
 Transon out.
-
-
-
-
+特兰森离开。
 
 Cursed computer net...
-
-
+该死的电脑网络……
 
 What in the heck is going on out there, Almos?  Don't we have ~ANYTHING~
-
+外面到底怎么回事，阿尔莫斯？难道我们就~没有一样东西~能
 working?
-
-
+正常运转吗？
 
 [Unknown ID:] No, Commander.
-
-
+[未知ID:] 不行，指挥官。
 
 I can't even get any reports on what's going on the surface here much less
-
+我甚至都收不到关于这里地表情况的任何报告，
 off on Savara or... ~Gyges!?~  I want to know what's going on, Almos.  I want
-
+更别提萨瓦拉星或者……~盖吉斯！？~我想知道到底发生了什么，阿尔莫斯。我要
 ~ANSWERS!~
-
-
+~答案！~
 
 [Unknown ID:] Sorry, Commander.  I'll see what I can do.  Oh, and you're needed
-
+[未知ID:] 对不起，指挥官。我会尽力而为。哦，还有，
 in command station 2.  Something about a computer authorization.
-
-
+指挥站2需要您。好像是关于电脑授权的事。
 
 For ~Zinglon's~ sake, Almos.  Why didn't you ~tell~ me?
-
-
+看在~劲仑~的份上，阿尔莫斯。你为什么不~告诉~我？
 
 [Unknown ID:] Sorry.  I'll look after the communications center.
-
-
+[未知ID:] 对不起。我会照看通讯中心的。
 
 Good luck.  I can't make heads or rubniks of what's going on.  I was amazed to
-
+祝你好运。我完全搞不懂这是怎么回事。
 pick up even ~Dougan~ out there, with his accursed, fancy little ship, much less
-
+我居然能在那里接收到道根那艘该死的小飞船，更别提
 ~Trent~.
-
-
+~特伦特~了。
 
 [Unknown ID:] Everything will be fine here.  Goodbye, commander.
-
-
+[未知ID:] 这里一切都会好起来的。再见，指挥官。
 
 [Unknown ID:] Hmm?  What's this still doing on?
-
-
+[未知ID:] 嗯？这怎么还开着？
 
 [Transmission End]
+[传输中止]
 
 *40 05
 
 GYGES SECTOR - PRIVATE TRANSMISSION ID 11432
+盖吉斯区 - 私密传输ID 11432
 
 Muldar
+穆尔达
 
 ~Goodbye~, Trent.  I ~control~ ~the~ fleets ~now.~  ~Glad~ you ~could~ ~drop~ ~by~ ~to~
+~再见~，特伦特。~现在~舰队由我~掌控~。很~高兴~你~能来接收~
 
 ~receive~ ~my~ ~message.~
-
-
-
-
+~我的消息~。
 
 ~<cough>~
-
-
-
-
+~<咳嗽>~
 
 You saved me the trouble of ~detonating~ ~Javi~, but I had hoped he would be
-
+你省了我~引爆佳维~的麻烦，但我原本希望他能离~萨瓦拉~更近一些。
 closer to ~Savara~.  No matter, just a slight alteration.  You pretty much wiped
-
+不过没关系，只是稍作调整。你差不多已经替我
 them out for me already.
-
-
+把他们都解决了。
 
 With Deliani in chaos, there won't be anyone who can stop me from taking over
-
+得里尼陷入混乱，没人能阻止我接管其它的自由世界。
 the other free worlds.  I was beginning ~to~ think everyone ~out~ there ~was~
-
+我原本~还~以为~外~面的人~都~没用，
 incompetent, ~but~ you ~managed~ ~to~ ~find~ us.  ~Interesting.~
-
-
-
-
+~没想到~你~居然能找到~我们。~有意思。~
 
 <hack>
-
-
+<咳>
 
 ~<hack>~
-
-
+~<咳>~
 
 <cough>
-
-
-
-
+<咳嗽>
 
 I'll enjoy watching my ~microborers~ drain your mind, Trent.
+我会很享受看着我的~微虫~吸干你的脑子，特伦特。
 
 *41 03
 
 FLUXNET 21 PRESENTS
+流网21呈现
 
 Ad
+广告
 
 Almo and Zik-Nar X3
-
-
+《阿莫与齐克纳X3》
 
 The touching tale of a ~Zik-Nar~ ~X3~, boy cybernoid, and his loving, parasitic dog ~Almo~.
-
+这是一个关于机械男孩~齐克纳X3~和他那充满爱意却又寄生的狗狗~阿莫~的感人故事。
 Join their epic tale as they careen through the galaxy, righting the wrongs
-
+跟随他们一起在银河系中穿梭，惩治那些不义的
 of unjust space pirates.
-
-
+太空海盗。
 
 But ~Zik-Nar~ has a soft side for ~Blibbo~, a female slug from the far reaches
-
+但~齐克纳~对来自银河系遥远角落的雌性鼻涕虫~布利博~有着温柔的一面。
 of the galaxy.  Watch them fall in love as ~Zik-Nar~ ~X3~ journeys with her
-
+在~齐克纳X3~陪伴她寻找失散家园的旅途中，见证他们
 to find her lost home.
-
-
+坠入爱河。
 
 But if you're looking for action, look no further than ~Almo~.  He'll suck the
-
+如果您想要精彩刺激的情节，那就非~阿莫~莫属了。
 very heart right out of you in this once in a century family show.
-
-
+在这场百年一遇的家庭秀中，他会把您的心都吸出来。
 
 ~Almo~ and ~Zik-Nar~ ~X3~, coming to a holo-screen next rotation.
+《~阿莫~与~齐克纳X3~》，下一轮播映，敬请期待。
 
 *42 03
 
 FLUXNET 21 PRESENTS
+流网21呈现
 
 Ad
+广告
 
 Swiss Family Cheese
-
-
+瑞士奶酪家族
 
 Another family spectacle for one and all.
-
-
+又一部适合全家观看的精彩剧集。
 
 This memorable series about a family of ~cheese~ ~mold~ will bring a tear to your
-
+这部关于~奶酪菌群~的感人系列剧集，定会让您热泪盈眶，
 eye and a glow to your heart.  Through ~wind~, ~rain~, ~drought~, and ~competing~
-
+心生温暖。无论遭遇~狂风~、~暴雨~、~干旱~，还是来自~竞争菌群的威胁~，
 ~parasites~, this family will persevere.  Not because they are strong but
-
+这个家族都会顽强生存下去。不是因为他们强大，
 because they have the will to survive.
-
-
+而是因为他们拥有生存的意志。
 
 It's another ~Fluxnet~ 21 show you won't wanna miss!
+这是另一部您不容错过的~流网~21节目！
 
 *43 03
 
 FLUXNET 21 PRESENTS
+流网21呈现
 
 Ad
+广告
 
 Back by popular damand, it's the hilarious antics of ~My~ ~Uncle~ ~the~ ~Sloth~!
-
-
+应广大观众要求，滑稽得令人捧腹的~树懒叔叔~又回来了！
 
 Follow ~Uncle~ ~Sloth~ on his journeys across the forests of ~Torm~ as he
-
+跟随~树懒叔叔~踏上他在~托姆~森林的旅程，
 skillfully waits for giant ~dragons~ to fly by, eats vegetation, and learns
-
+看他巧妙地等待巨~龙~飞过，吃着植物，了解
 what it is to be a ~Sloth~.
-
-
+当~树懒~是什么样的。
 
 This special series is presented in its full, uncut format with 2,890 10-hour
-
+本特别系列以完整未删减的形式呈现，共2890集，每集10
 episodes!
-
-
+小时！
 
 Another ~Fluxnet~ 21 show.  Don't miss it!
+这是又一部~流网~21的节目。千万不要错过！
 
 *44 03
 
 FLUXNET 21 PRESENTS
+流网21呈现
 
 Ad
+广告
 
 Another production from the leaders in holo-entertainment...
-
-
+这是全息娱乐界的领军者带来的又一力作……
 
 ~The~ ~Eleven~ ~Commandments~
-
-
+~《十一诫》~
 
 The most incredible screen epic ever made - presented in the original
-
+有史以来最令人惊叹的银幕史诗——以原版
 ~holobox~ format.
-
-
+~全息盒~格式呈现。
 
 ~---~
-
-
 
 Monses walked upon Savara and said:
-
-
+摩西行走在萨瓦拉，说道：
 
 "Let there be a group of laws for people to follow, so that they might learn
-
+“要有一套律法供人们遵循，这样他们才能学会行善，
 to be virtuous and live with honor."
-
-
+活得有尊严。”
 
 And ~Zinglon~ said:
-
-
+而~劲仑~说：
 
 "Lo, let be it, for now when Tuesday then cometh with not again, be it
-
+“好吧，就让它如此吧。因为当周二不再来临时，
 another less more it be.  Be faith giveth whence came me unto, yet not needeth
-
+它就不再是多出来的那一个了。信仰赐予我力量，
 for unto me, for yet be learn to be."
-
-
+但我不需要它，因为我已经学会了。”
 
 And Monses raised his hands aloft to take the ~holocubes~, but lowered them
-
+摩西举起双手准备接过~全息方块~，但又放了下来，
 again and said:
-
-
+说道：
 
 "Huh?"
-
-
+“嗯？”
 
 And ~Zinglon~ spake:
-
-
+然后~劲仑~说道：
 
 "Look.  Here's the stuff you asked for.  Take it and leave me alone."
-
-
+“看。这就是你要的东西。拿走吧，别烦我了。”
 
 Monses took the ~holocubes~ from the sky but saw that there was an extra cube,
-
+摩西从空中接过~全息方块~，却发现多了一个方块，
 a cube he had not expected.  He interrupted again and spake to the heavens:
-
-
+一个他未曾预料到的方块。他再次打断，对着天空说道：
 
 "What's the other cube for?"
-
-
+“多出来的这个方块是做什么用的？”
 
 And ~Zinglon~ spake:
-
-
+然后~劲仑~说道：
 
 "You know when the people have learned but the ten cubes just aren't enough?
-
+“你知道什么时候人们会发现十个方块还是不够用？
 This is for that extra push when ten just isn't enough."
-
-
+这就是为了在十个不够时给予的额外推动力。”
 
 Monses scratched his head and replied:
-
-
+蒙塞斯挠了挠头，回答道：
 
 "Surely you could make the other ten stronger?"
-
-
+“你难道不能让其他十个人更强壮一些吗？”
 
 And ~Zinglon~ spake:
-
-
+然后~劲仑~说道：
 
 "But mine go up to ~eleven~.  Now go away."
-
-
+“但我的能到~十一~。现在给我滚。”
 
 And, ~Zinglon~ blew Monses and the ~holocubes~ off the mountain...
-
-
+然后，~劲仑~把蒙塞斯和那些~全息方块~从山上吹走了……
 
 Enjoy these scenes and more from the greatest production of all time!
-
-
+欣赏这些场景以及更多来自有史以来最伟大的制作！
 
 ~---~
 
-
-
 ~Monses~ and the ~Eleven~ ~Commandments~
-
-
+~蒙塞斯~与~《十一诫》~
 
 Coming to holoscreens in 13.5553.231!
+将于13.5553.231登陆全息屏幕！
 
 *45 03
 
 GRUEL: THE MODERN WAY
+麦粥：现代方式
 
 Ad
+广告
 
 Gencore research labs presents the quintissential cookbook for the gourmet
-
+基核研究实验室为美食粥客献上这本
 gruelist.
-
-
+经典食谱。
 
 In this tome of good taste are presented such undying classics as:
-
-
+在这本品味高雅的书籍中，呈现了诸如以下这些永恒的经典：
 
 The ~7-Day~ Gruel
-
-
+~七日~粥
 
 ~Swiss~ ~Cheese~ Gruel
-
-
+~瑞士奶酪~粥
 
 ~Rainbow~ ~Trout~ Gruel
-
-
+~彩虹鳟鱼~粥
 
 ~Black~ ~Zest~ Gruel
-
-
+~黑皮果~粥
 
 Annie's ~Marbelized~ ~Mealy~ ~Mottled~ ~Mango~ Gruel
-
-
+安妮的~大理石纹多斑马赛克芒果~粥
 
 The Mad Chef's ~Lump~-O-~Gruel~
-
-
+疯狂厨师的~O型块粥~
 
 ~Magic~ Gruel of ~Slaying~, ~Vorpal~ Lumpy +2
-
-
+~杀怪魔力~粥，~斩首~块+2
 
 Gruel for ~2000~ : ~A~ ~Gruel~ ~For~ ~All~ ~Time~
-
-
-
-
+~2000年~粥：~永恒的粥品~
 
 In this book you'll find ~Gruel~ for ~any~ ~season~!
-
-
+在这本书里，您将找到适合~任何季节~的~麦粥~！
 
 So download ~Gruel~: The ~Modern~ ~Way~ today and be ready to turn away that
-
+所以，今天就下载~麦粥：现代方式~，准备好拒绝
 next great family gathering.
-
-
+下一次家庭聚会吧。
 
 Only from ~Gencore~.  Presented by the ~Interstellar~ ~House~ of ~Gruel~.
+仅来自~基核~，由~星际麦粥之家~出品。
 
 *46 07
 
 WHO ARE YOU?
+你是谁？
 
 Vykromod
+维克罗莫德
 
 I... I feel your presence, Trent.  Where are you?  I cannot see.
-
-
+我……我感觉到你的存在，特伦特。你在哪儿？我看不见。
 
 What have you done to me, Trent?  I feel... nothing.
-
-
+你对我做了什么，特伦特？我感觉……什么都没有。
 
 Where is my body?  Who am I?  Am I still me?
-
-
+我的身体在哪儿？我是谁？我还是我吗？
 
 I want to die.  Why can't I move?
-
-
+我想死。为什么我动不了？
 
 Kill me.  Someone?
-
-
+杀了我。有人吗？
 
 Trent?
+特伦特？
 
 *47 07
 
 HELP ME.
+救救我。
 
 Vykromod
+维克罗莫德
 
 Again, I feel your presence, Trent.  I can move now.  I don't know quite
-
+我又一次感觉到你的存在，特伦特。我现在能动了。
 what I have become, but I know what I must do.  I feel you are the cause
-
+我不知道自己变成了什么，但我知道自己必须做什么。我觉得你是
 of my pain.
-
-
+我痛苦的根源。
 
 Come to me, Trent.  One of us must die before the other can become whole.
-
-
+来找我，特伦特。我们之中必须有一人死去，另一人才能完整。
 
 I... don't know what that means.  You must come.  I... must be me again.
-
-
+我……不知道那是什么意思。你必须来。我……必须重新做回我自己。
 
 Something is about to happen.  I can feel it.
-
-
+有什么事即将发生。我能感觉到。
 
 What... have ~I~ ~BECOME?!?~
+~我~……~变成~了什么？！？~
 
 *48 08
 
 DELIANI PRIORITY UPLINK A1 [code A]
+得里尼紧急上连端口A1 [代号A]
 
 Transon
+特兰森
 
 Trent, this is Transon Lohk.
-
-
+特伦特，我是特兰森·洛赫。
 
 I hope you are able to get this message.  We've lost you on our sensors.
-
+希望你能收到这条消息。我们的传感器上已经没有你的信号了。
 Your ship disappeared about 8 minutes ago.  Where are you?
-
-
+你的飞船大约在八分钟前消失了。你在哪里？
 
 Your life is in danger.  I am sure of it.
-
-
+你的生命处于危险之中。我敢肯定。
 
 A great power surge is building from within Gyges.  I don't know what it is,
-
+盖吉斯内部正在形成一股巨大的能量波动。我不知道那是什么，
 but you must investigate.  Perhaps you already know.  There is no time to
-
+但你必须去调查。也许你已经知道了。
 send any backup to help you.  You'll have to make do with what you can find
-
+我们没有时间派援兵去帮你。你只能用那里能找到的东西
 around there.
-
-
+来应对。
 
 The fleet at Savara has been disabled - many were lost.  We don't have the
-
+萨瓦拉的舰队已经被瘫痪——损失惨重。
 specific details, but we're looking for survivors.  Anyway, there is no-one
-
+我们还不清楚具体细节，但正在寻找幸存者。不管怎样，
 left who can reach you that far out there.  You're on your own.
-
-
+已经没有人能到那么远的地方去帮你了。你只能靠自己了。
 
 Good luck, Trent.  I only wish I knew what was going on out there.  I know
-
+祝你好运，特伦特。真希望我能知道外面到底发生了什么。
 you will do your best.  We will try to contact you again later.
-
-
+我知道你会尽力的。我们稍后再联系你。
 
 Transon out.
-
-
-
-
+特兰森离开。
 
 [Unknown ID:]  Commander, quick, what's the square root of 4?  I think the
-
+[未知ID:] 指挥官，快点，4的平方根是多少？
 computer is down and we can't figure out how to fix it!
-
-
+我觉得电脑出故障了，我们不知道怎么修！
 
 [Transon:]  Two.  You know, ensign, you have the brain of a pea.  If I was to
-
+[特兰森:] 2。你知道吗，少尉，你的脑子跟豌豆一样。
 collect your mind and hold it for ransom, I wouldn't be able to prove it was
-
+要是我把你的心智收集起来然后拿来要挟，我都没法
 anything but a grain of sand.
-
-
+证明那不是一粒沙子。
 
 [Unknown ID:]  Sorry, Commander.
-
-
+[未知ID:] 对不起，指挥官。
 
 [Transon:]  Do you have any idea what's going on out there?
-
-
+[特兰森:] 你知道外面发生了什么吗？
 
 [Unknown ID:]  Sorry, Commander?
-
-
+[未知ID:] 对不起，指挥官？
 
 [Transon:]  About Trent.
-
-
+[特兰森:] 关于特伦特。
 
 [Unknown iD:]  Ooo.  Sorry, Commander.
-
-
+[未知ID:] 哦。对不起，指挥官。
 
 [Transon:]  He's going to [~chuckle~] save the universe again.  And then, do you
-
+[特兰森:] 他又要[~轻笑地~]拯救宇宙了。然后
 know what he'll probably do?
-
-
+你知道他会做什么吗？
 
 [Unknown ID:]  Sorry, Commander?
-
-
+[未知ID:] 对不起，指挥官？
 
 [Transon:]  He'll save the universe again, and again, and again!  He'll do
-
+[特兰森:] 他会一次又一次地拯救宇宙！
 anything I want him to do to help the universe and I won't have to lift a
-
+他会帮我做任何我想让他为宇宙做的事，而我什么都不用做，
 finger to do anything except send him these little messages like... oops...
-
-
+只需要给他发这些小消息，比如……哎呀……
 
 [Transmission End]
+[传输中止]
 
 *49 10
 
 MICROSOL ALPHA LINK 1
+微索阿尔法链接1
 
 Admiral
+海军上将
 
 You may have killed all the others, but I am still alive!
-
-
+你或许已经杀光了其他人，但我还活着！
 
 I, Nob, am now admiral of all that I see!
-
-
+我，诺布，现在是这片天地的海军上将！
 
 No, wait.
-
-
+不，等等。
 
 ~General!~
-
-
+~将军！~
 
 Hmmm...
-
-
+嗯……
 
 ~Emperor!~
-
-
+~皇帝！~
 
 No.  No.  Bigger.
-
-
+不，不，更强点。
 
 ~Supreme~ ~Intergalactic~ ~Ruler~ ~of~ ~Everything!~
-
-
+~至高无上的星系万物主宰！~
 
 Haha!
-
-
+哈哈！
 
 You are too late to stop my rule.  I will now activate project ~Vykromod~!
-
-
+你来得太迟了，阻止不了我的统治。现在我将启动~维克罗莫德~计划！
 
 These will be the last moments you spend alive.  Cherish them.
-
-
+这将是你们在世上的最后时刻了。好好珍惜吧。
 
 ~Captain~ ~Nob~
-
-
+~诺布船长~
 
 ~Ixmucane~ Task Force ~Alpha~
-
-
-
-
+~睡神星~特遣队~阿尔法~
 
 Oops... Wait a sec...
-
-
+哎呀……等一下……
 
 ...where's the stupid Y key on this keypad?  I don't have 8 fingers, how am I
-
+……这键盘上的Y键到底在哪儿？我又不是八指琴魔，
 supposed to type with this thing?  Maybe if I use my toe to hold down the...
-
+这玩意儿怎么打字？或许我用脚趾按住……
 ~ahhhhhh!!!~
-
-
+~啊啊啊啊啊！！！~
 
 Now... bear witness!
-
-
+现在……见证吧！
 
 ~Supreme~ ~Intergalactic~ ~Ruler~ of ~Everything~ ~Nob~
-
-
+~至高无上的星系万物主宰诺布~
 
 ~Commander~ of ~Microsol~ ~Super~ ~Fleet~ ~Alpha~
-
-
+~微索超级舰队阿尔法的指挥官~
 
 ~Leader~ of ~Everyone~
-
-
+~众人的领袖~
 
 ~Master~ of ~All~
-
-
+~一切的主宰~
 
 ~Well~-~Liked~ by ~Animals~
+~动物们的宠儿~
 
 *50 01
 
 HOLO NEWS - XP9 v123-02-39
+全息新闻 - XP9 v123-02-39
 
 News
+新闻
 
 This is Rob Neither with the daily news.
-
-
+这里是罗布·尼瑟为您播报每日新闻。
 
 ~Zinglon's~ ~Nose~ ~Stolen~
-
-
+~劲仑的鼻子被盗~
 
 A holy artifact believed to be the nose of Zinglon himself was stolen from the
-
+一件被认为是劲仑本人鼻子的圣物从托尔轨道博物馆被盗。
 Torm Orbiting Museum.  Religious followers are in an uproar and demand that
-
+宗教信徒们群情激愤，要求相关责任人立即归还鼻子。
 the party responsible return the nose immediately.  A full-scale investigation
-
+已展开全面调查，
 has been launched and several planets are fully mobilizing for jihad - holy war.
-
-
+多个星球正在全力动员进行吉哈德——圣战。
 
 ~Ixmucane~ ~Threatened~ ~With~ ~Destruction~ -
-
+~睡神星面临毁灭威胁~——
 ~1.5~ ~Million~ ~to~ ~Be~ ~Killed~
-
-
+~150万人将被屠杀~
 
 In other news, Microsol has reportedly threatened the extinction of 1.5
-
+其它消息，据报道，微索威胁要灭绝睡神行星上的
 million scientists and engineers on the planet Ixmucane.  A small relief fleet
-
+150万科学家和工程师。一支小型救援舰队已被召集，
 has been called in, headed mainly by Gencore, to save as many people as possible.
-
-
+主要由基核领导，以尽可能多地拯救人员。
 
 [Clara, Co-reporter [~CC~]] : Does it really matter, Rob?  I'm beginning to think
-
+[克拉拉，联合记者[~CC~]]：这真的重要吗，罗布？
 there's nowhere in the galaxy not under some mysterious threat, but somehow it
-
+我开始觉得银河系里没有一个地方不在遭受某种神秘威胁，
 all seems to work out fairly easily with no deaths on our side.  Isn't this
-
+但不知怎的，对我们这边来说似乎都很容易解决，而且没有人员伤亡。
 some kind of a hoax?
-
-
+这难道不是某种骗局吗？
 
 [Rob, Reporter [~RR~]] : Seems that way to me.  I can remember when a war was
-
+[罗布，记者[~RR~]]：在我看来确实如此。我还记得战争是
 something you could ~feel~.  Not just some report on how many scraps of metal
-
+能切实~感受~到的东西。不只是关于发现多少金属碎片的报道。
 were found.  To date, there has been no real evidence of any Gencore or other
-
+到目前为止，还没有任何确凿证据表明基核或其它联盟的船只
 alliance ships participating in any major conflict.  Just minor skirmishes
-
+参与了任何重大冲突。只是与我们这边的侦察船发生了一些
 with scout ships on our side.
-
-
+小规模的冲突。
 
 [~CC~] : So this ~is~ some kind of hoax?
-
-
+[~CC~]：所以这真的~是~个骗局？
 
 [~RR~] : Probably.  It's this lack of standards that make me wish I was back in
-
+[~RR~]：很有可能。正是这种缺乏标准让我怀念起全息运动了。
 holo-sports.  Now that had a future.  This fake war is making me sick.  There's
-
+那才算是有前途。这场假战争让我感到恶心。
 nothing worse than someone manufacturing a war by exploding tons of robot
-
+没有什么比有人通过炸毁成吨的机器人星际飞船来制造战争更糟糕的了。
 starships.  Nothing but a big fireworks display.
-
-
+这不过是一场大型的烟火表演。
 
 [~CC~] : ~OH?~ Are we still on the air?
-
-
+[~CC~]：~哦？~我们还在直播吗？
 
 [Program stopped due to technical fault]
+[因技术故障节目停止]
 
 *51 03
 
 TYRIAN - THE HOLO MOVIE
+泰瑞安——全息电影
 
 Ad
+广告
 
 Coming soon to ~Fluxnet~ ~21~: ~Tyrian~!  The made-for-holo movie!
-
-
+即将登陆~流网21~：~《泰瑞安》~！专为全息电影打造！
 
 Follow the journeys of Trent Hawkins as he saves the universe time and time
-
+跟随特伦特·霍金斯的冒险之旅，看他一次又一次拯救宇宙。
 again.  In the fourth volume in this Eclipse series, you'll see him save the
-
+在这个月蚀系列的第四部作品中，您将看到他在第三关摧毁了~巨大的熔岩飞船~，
 giant world Ixmucane from destruction by destroying the ~giant~ ~lava~ ~ship~ on
-
+从而拯救了巨大的睡神星世界。
 level 3.  Then, fly with him as he restores peace to Gencore and takes on
-
+然后，与他一同飞翔，见证他为基核恢复和平，
 the final Microsol center.  It's a movie you won't want to miss!
-
-
+并对抗最后的微索中心。这是一部不容错过的电影！
 
 On sale now at Asteroid Charlies.
-
-
+现于小行星查理斯有售。
 
 ~Note~: Due to extreme demand, we are temporarily out of stock.  Thank you for
-
+~注意~：由于需求过大，我们暂时缺货。感谢您
 choosing ~Fluxnet~ ~21~.
+选择~流网21~。
 
 *52
 
 PERSONAL LOG
+个人日志
 
 Self
+自己
 
 Hello, self.  We're going to die, we know.  I thought we knew that.
-
-
+嗨，自己。我们终有一死，这我们都知道。我原以为我们早就清楚这一点了。
 
 I must admit, I am rather tired of saving the universe again and again.  That
-
+我得承认，我实在厌倦了一次又一次地拯救宇宙。
 idiot Transon will find me no matter where I go and force me to take on huge
-
+那个白痴特兰森无论我逃到哪里都会找到我，
 fleets until I either die or grow old.  Maybe he'll find a way around that.
-
+逼我独自对抗庞大的舰队，直到我战死或老去。
 I've got to get out of here!  There must be somewhere I can go where people
-
+也许他会找到办法绕过这一点。我得离开这里！
 won't expect me to take out entire planets by myself.
-
-
+肯定有某个地方，人们不会指望我独自摧毁整个星球。
 
 But where?
-
-
+但去哪里呢？
 
 I must find a way!  Otherwise I'll be stuck fighting these Microsol ships for
-
+我必须找到办法！否则我就得永远和这些微索的飞船战斗下去！
 the rest of eternity!  ~Aaaaarrrrrggghhh!~
-
-
+~啊啊啊啊啊啊啊啊啊啊啊啊！~
 
 Self out.
+自我离开。
 
 *53
 
 HOW TO PLAY
+玩法
 
 Game
+游戏
 
 How to play the secret ending game ~ZINGLON'S~ ~REVENGE~:
-
-
+如何玩~《劲仑的复仇》~的秘密结局游戏：
 
 A giant ship projects a horizontal field of energy.  Small enemies fall down
-
+一艘巨大的飞船投射出一片水平的能量场。
 from above and bounce around the edges of the screen and against the energy
-
+小敌人从上方掉落，在屏幕边缘和能量场之间弹来弹去。
 field.  Touching the field or one of the little enemies means almost certain
-
+触碰到能量场或其中一个小敌人几乎意味着
 instant death.
-
-
+瞬间死亡。
 
 You must shoot all the small enemies to advance to the next level.
-
-
+您必须射杀所有的小敌人以进入下一关。
 
 There are 4 kinds of enemies:
-
-
+有4种敌人：
 
 ~Roobles~ : Round Fireballs - Low damage - Move left to right
-
-
+~鲁布尔~ ：圆火球 - 低伤害 - 从左向右移动
 
 ~Tokkies~ : Spikey Balls - Low damage - Move up and down quickly
-
-
+~托基~ ：带刺球 - 低伤害 - 快速上下移动
 
 ~Zimbles~ : Eyeballs - Moderate damage - Move diagonally slowly
-
-
+~津布尔~ ：眼球 - 中等伤害 - 缓慢对角移动
 
 ~Blottes~ : Blood Cells - High damage - Descend slowly and then bounce up quickly
-
+~布洛特~ ：血细胞 - 高伤害 - 缓慢下降然后快速对角
 diagonally
-
-
-
-
+弹起
 
 This game consists of 6 levels, starting on ~level~ ~5~ and descending in order
-
+这款游戏共有6个关卡，从第5关开始，依次递减到
 to the final level.
-
-
+最后一关。
 
 Level 5 : Mostly Roobles
-
-
+第5关：主要是鲁布尔
 
 Level 4 : Mostly Tokkies
-
-
+第4关：主要是托基
 
 Extra ship received after Level 5.
-
-
+通过第5关后获得一艘额外飞船。
 
 Level 3 : Zimbles and Blottes
-
-
+第3关：津布尔和布洛特
 
 Level 2 : Roobles, Tokkies, and Blottes
-
-
+第2关：鲁布尔、托基和布洛特
 
 Level 1 : Mostly Zimbles
-
-
+第1关：主要是津布尔
 
 Extra ship received after Level 1.
-
-
+通过第 1 关后获得一艘额外飞船。
 
 Level 0 : Blottes - Destroy the energy field?
-
-
+第0关：布洛特——破坏能量场？
 
 Extra ship received after Level 0.
-
-
+通过第0关后获得一艘额外飞船。
 
 Level -1 : ???
+第-1关：？？？
 
 *54
 
 STRATEGY
+攻略
 
 Game
+游戏
 
 Strategy Guide for ~ZINGLON'S~ ~REVENGE~:
-
-
+~《劲仑的复仇》~攻略指南：
 
 Obviously the main point to the game is to dodge the little enemies as well
-
+显然，游戏的主要目标是尽可能躲避那些
 as possible.
-
-
+小敌人。
 
 ~Roobles~ : Round Fireballs - These are very easy to destroy but get in your
-
+~罗布尔~：圆形火球——这些很容易摧毁，
 way easily once they descend fairly low.  Try to take these out quickly if
-
+但一旦下降到较低位置就很容易挡道。除非有布洛特来袭，
 you can unless a Blotte is coming.
-
-
+否则能快则快地将其消灭。
 
 ~Tokkies~ : Spikey Balls - These can be avoided fairly easily since they move
-
+~托基~：带刺球——这些很容易避开，因为它们在屏幕上移动得非常缓慢。
 very slowly across the screen.  You can usually position a sidekick to stay
-
+通常你可以让一个助手待在它们下方足够长的时间
 underneath them long enough to take them out.
-
-
+来将其消灭。
 
 ~Zimbles~ : Eyeballs - These are pretty slow and you can usually delay shooting
-
+~津布尔~：眼球——这些移动得相当慢，通常你可以等到
 them until they start filling the screen.  Try to take out the faster-moving
-
+它们开始布满屏幕时再射击。如果可以的话，尽量先消灭
 enemies first if you can.
-
-
+移动速度较快的敌人。
 
 ~Blottes~ : Blood Cells - These are the hardest enemies to destroy in the game.
-
+~布洛特~：血细胞——这是游戏中最难消灭的敌人。
 They are fairly easy to take out while descending, so try to at least to damage
-
+它们在下降时比较容易消灭，所以至少要对其造成相当大的伤害。
 them fairly well.  Once they reach bottom, they'll start bouncing quickly and
-
+一旦它们到达底部，就会快速弹跳，
 can be hard to destroy.
-
-
+很难消灭。
 
 ~SECRET~:
-
-
+~~~秘密~：
 
 Yes, of course there are secret moves in this game.  ~21~ of them, in fact.
-
-
+当然，游戏中有秘密招式。实际上有~21~个。
 
 Several of the more common ones are detailed below:
-
-
+下面详细介绍了其中一些比较常见的：
 
 ~Sidekicks:~ Attach one or two of these to your ship.
-
-
+~助手：~将一个或两个助手附着在你的飞船上面。
 
   Red sidekick : Press Right,Down,Left, then hold Fire and press Up.
-
-
+　红助手：按右、下、左，然后按住开火键再按上。
 
 ~Hot Dog:~ A blast of deadly dogs.  Uses up your armor slowly, though.
-
-
+~热狗：~一群致命的狗。不过会慢慢消耗你的护甲。
 
   Press Up, then hold Fire and press Down.
-
-
+　按上，然后按住开火键再按下。
 
 Of course, ~all~ other special moves are also available here.
-
-
+当然，~所有~其它特殊招式在这里也都可以使用。
 
 Good luck!
-
-
+祝好运！
 
 So far, even the designer has problems winning this game, as it should be!
-
+到目前为止，就连游戏的设计者都很难赢得这款游戏，这正是它应该有的样子！
 My general time to beat is ~3:30~, without using many secret moves.
+我通关的一般时间是~3:30~，没有使用很多秘密招式。
 
 *55 03
 
 Scenic guide to the universe: ~Savara~
+宇宙风景指南：~萨瓦拉~
 
 Windy
+狂风
 
   ~SAVARA:~
-
-
+　　~萨瓦拉：~
 
 ~Dining:~
-
-
+~~~餐饮:~
 
 Come and visit the interstellar dining halls in the underwater city of
-
+来参观水下城市~普洛~的星际餐厅吧。
 ~Ploo~.  Dozens of aquatic fish swim about the domed windows, and you can
-
+成群的水生鱼类在穹顶窗边游弋，
 simply point to the fish of your desire and it will be captured and cooked
-
+您只需指明想要的鱼，不到30秒就会为您
 for you in under 30 seconds!
-
-
+捕捞并烹饪好！
 
 Also remarkable is the bewildering variety of ethnic restauraunts located on
-
+同样令人称奇的是位于地表的众多民族餐厅。
 the surface.  Many also cater to the more exotic tastes by serving the patrons
-
+许多餐厅还提供更奇特的服务，比如为竞争对手餐厅的顾客提供服务，
 of competing restauraunts, literally!  Anything edible [and some things that
-
+这可不是夸张！这里几乎任何能吃的东西（甚至有些不能吃的东西）
 aren't] can be purchased here at a competitive price.
-
-
+都能买到，价格也很实惠。
 
 ~Culture:~
-
-
+~~~文化:~
 
 Savara is the eclectic hub of the sector, where many varied cultures live
-
+萨瓦拉是这个星区的多元文化中心，众多不同的文化在此和谐共处，
 together in apparent peace and harmony, though you'll want to avoid these areas
-
+不过您最好避开这些区域，因为很少有游客能活着离开。
 since few tourists leave them alive.  However, you can sit behind glass
-
+不过您可以在玻璃围栏后面观看
 enclosures as you watch the race of your choice go about their daily tasks,
-
+您所选种族的日常活动，
 unable to stop you from prying into their private affairs.
-
-
+他们无法阻止您窥探他们的私事。
 
 Also available is the Bring it to You service, where for a small fee the
-
+此外还有“为您服务”项目，只需支付少量费用，
 locals will run out and round up a few ethnic groups of your choice who will
-
+当地人就会跑出去召集您所选的几个民族群体，
 be forced to act as if they enjoy your presence.  A must for the self-conscious
-
+他们被迫表现得好像很乐意您的到来。对于注重自我意识的旅行者来说，这里绝对是
 traveller!
-
-
+必去之地！
 
 ~Entertainment:~
-
-
+~~~娱乐:~
 
 Savara is the merchant center of the sector, where just about anything you want
-
+萨瓦拉是该区域的商业中心，在这里几乎能找到你想要的一切，
 and everything you don't want can be found at an agressive price.  Price
-
+当然还有你不想买的东西，而且价格都很实惠。
 fixing and Mob control have seen that no individual merchants will ever charge
-
+价格操纵和黑帮控制确保了任何个体商贩都不会收取
 anything that isn't fair.
-
-
+不合理的费用。
 
 Also, you will definitely want to visit the ~Interstellar~ ~House~ ~of~
-
+此外，您一定得去参观一下~星际麦粥之家~，
 ~Gruel~ wherein you will see the fascinating history and story behind the
-
+在那里您将看到麦粥这个伟大世界背后引人入胜的历史和故事。
 great world of Gruel.  A fun affair for the whole family!
-
-
+这是一场适合全家参与的欢乐之旅！
 
 *56 03
 
 Scenic guide to the universe: ~Deliani~
+宇宙风景指南：~得里尼~
 
 Windy
+狂风
 
   ~DELIANI:~
-
-
+　　~得里尼：~
 
 ~Travel Tip:~
-
-
+~~~旅行小贴士:~
 
 Though most areas of the planet are restricted and guards are often ordered
-
+尽管这颗星球的大部分地区都受到限制，
 to shoot unidentified personnel on sight, if you stay in the Light Green Zone
-
+而且守卫经常奉命对不明身份人员开枪，
 you should have no problems avoiding personal injury and death.  Be sure to
-
+但只要您留在浅绿色区域，应该不会遇到人身伤害或死亡。
 avoid the Blue-Green and Turquoise Zones as well as the Stix Zone.  The
-
+一定要避开蓝绿色、青绿色区域以及斯蒂克斯区域。
 Red and Yellow Zones are safe for travel, though the Yellow is often confused
-
+红色和黄色区域是安全的旅行区域，
 with the Off-White and Peach Deadly Areas.  Many a color-blind traveller has
-
+不过黄色区域常与米白色和桃色的致命区域混淆。许多色盲旅行者
 been killed by accident.
-
-
+因此意外丧命。
 
 ~Dining:~
-
-
+~~~餐饮:~
 
 Deliani provides the most technically advanced cooking systems in the known
-
+得里尼拥有已知宇宙中最先进的烹饪系统。
 universe.  Dishes that simply aren't palatable anywhere else still won't be
-
+即便是在其它地方难以下咽的菜肴，在这里也不会好到哪里去，
 very good here, but Chef Yo of Deliani's motto is:  If it's matter, we can
-
+但得里尼大厨“约”的座右铭是：只要是物质，
 make you eat it.  A unique experience you'll never be able to repeat!
-
-
+我们都能让您吃下去。这是一次您永远无法重复的独特体验！
 
 ~Culture:~
-
-
+~~~文化:~
 
 One word: Robotics.  Anyone's fetish for robotics can be satisfied here.
-
+一个词：机器人。在这里，任何人的机器人癖好都能得到满足。
 Androbots, Lobots, Robots, Androids, Redroids, Droid Droids, and many other
-
+安德罗机器人、洛博特、机器人、仿生人、红罗伊德、德罗伊德德罗伊德
 varieties of metallic life forms are welcome here, as long as they stay in the
-
+以及许多其它种类的金属生命体都欢迎来到这里，
 Burnt Sienna or Brick Red Zones.
-
-
+只要他们待在焦褐色或砖红色区域。
 
 Deliani is the home of such ~Fluxnet~ ~21~ favorites as Honey, I Shorted-Out
-
+得里尼是诸如~流网21~中热门剧集《亲爱的，我把孩子弄短路了》
 the Kidforms - Almo and Zik-Nar X3 - My Mother the Lobot.
-
-
+《阿莫和齐克纳X3》《我那被切除脑叶的母亲》发源地。
 
 ~Entertainment:~
-
-
+~~~娱乐:~
 
 Gencore always has a number of exciting entertainment opportunities available
-
+基核总是为游客提供众多令人兴奋的娱乐活动。
 for tourists.  Any number of military drills, parades, and barbaric information
-
+在这里，你可以看到各种军事演习、阅兵式
 torture drills can be found here.  A must for military buffs.
-
-
+以及野蛮的信息折磨演练。军事迷们绝对不能错过。
 
 *57 03
 
@@ -2969,8 +2797,10 @@ Enjoy!
 *62 11
 
 SHIP ID 184-3C IN SAVARA FLUX 12002
+飞船ID 184-3C 在萨瓦拉流12002
 
 Dougan
+道根
 
 Trent?  I've picked you up on my sensors.
 
