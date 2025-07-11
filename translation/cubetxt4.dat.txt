@@ -25,7 +25,7 @@ Decoded transmission follows:
 This is ~Harble~ ~Wom~ at the ~Microsol~ planet ~Ixmucane~.  This is a ~Downstar~
 我是~哈布尔·沃姆~，在~微索~的行星~睡神星~。
 emergency request by ~Downstar~ agent ID ~00329~, Tech ~IX9204~.  I am patched into
-这是~落星~特工ID ~00329~，技术员~IX9204~发出的`落星~紧急请求。
+这是~落星~特工ID ~00329~，技术员~IX9204~发出的~落星~紧急请求。
 a secure net and cannot explain fully.
 我已接入安全网络，无法详细说明。
 
@@ -83,7 +83,7 @@ your own will, but please hear me out.
 I am placed in the regrettible position of having to try and stop this
 我不得不采取行动阻止这场疯狂，
 insanity.  I hope ~Harble~ was wrong, but this is an alien technology more
-希望哈布尔是错的，但这是比我们自身科技还要先进的
+希望~哈布尔~是错的，但这是比我们自身科技还要先进的
 advanced than our own.
 外星技术。
 
@@ -105,7 +105,7 @@ there's a vast number of scientists and technicians from independent
 governments and education centers stationed on ~Ixmucane~ via the universal ~Free~
 有大量来自独立政府和教育机构的科学家和技术人员驻扎在~睡神星~上。
 ~Education~ ~Act~.  At last count, there were about ~1.5~ ~million~ of the brightest
-据最新统计，宇宙中最聪明的约~150万~人聚集在~睡神星~上。
+据最新统计，宇宙中最聪明的约~150万人~聚集在~睡神星~上。
 minds in the universe centered on ~Ixmucane~.  Now, there's a giant military
 现在，有一支庞大的军事舰队在那颗该死的岩石内部
 fleet flying around inside that blasted rock which has prevented nearly
@@ -1344,7 +1344,7 @@ to sort things out.
 I intercepted the other trasmissions you received and don't like either of
 我截获了你收到的其它两份传输信息，都不太喜欢，
 them very much, ~Javi~ more so.  I think I can help you out, though.  My ship
-尤其是佳维那份。不过我觉得我能帮上忙。
+尤其是~佳维~那份。不过我觉得我能帮上忙。
 isn't equipped for combat, but I've got a heavy-duty ~VLR~ ~sensor~ ~grid~ and a
 我的飞船没有配备作战装备，但我这儿有套重型的~VLR传感器网格~
 ~TQ930~ ~comm~ ~system~ packed in this baby.  If you keep your comm channel open,
@@ -1606,7 +1606,7 @@ For ~Zinglon's~ sake, Almos.  Why didn't you ~tell~ me?
 Good luck.  I can't make heads or rubniks of what's going on.  I was amazed to
 祝你好运。我完全搞不懂这是怎么回事。
 pick up even ~Dougan~ out there, with his accursed, fancy little ship, much less
-我居然能在那里接收到道根那艘该死的小飞船，更别提
+我居然能在那里接收到~道根~那艘该死的小飞船，更别提
 ~Trent~.
 ~特伦特~了。
 
@@ -1671,19 +1671,19 @@ Ad
 广告
 
 Almo and Zik-Nar X3
-《阿莫与齐克纳X3》
+《阿莫与兹克纳X3》
 
 The touching tale of a ~Zik-Nar~ ~X3~, boy cybernoid, and his loving, parasitic dog ~Almo~.
-这是一个关于机械男孩~齐克纳X3~和他那充满爱意却又寄生的狗狗~阿莫~的感人故事。
+这是一个关于机械男孩~兹克纳X3~和他那充满爱意却又寄生的狗狗~阿莫~的感人故事。
 Join their epic tale as they careen through the galaxy, righting the wrongs
 跟随他们一起在银河系中穿梭，惩治那些不义的
 of unjust space pirates.
 太空海盗。
 
 But ~Zik-Nar~ has a soft side for ~Blibbo~, a female slug from the far reaches
-但~齐克纳~对来自银河系遥远角落的雌性鼻涕虫~布利博~有着温柔的一面。
+但~兹克纳~对来自银河系遥远角落的雌性鼻涕虫~布利博~有着温柔的一面。
 of the galaxy.  Watch them fall in love as ~Zik-Nar~ ~X3~ journeys with her
-在~齐克纳X3~陪伴她寻找失散家园的旅途中，见证他们
+在~兹克纳X3~陪伴她寻找失散家园的旅途中，见证他们
 to find her lost home.
 坠入爱河。
 
@@ -1693,7 +1693,7 @@ very heart right out of you in this once in a century family show.
 在这场百年一遇的家庭秀中，他会把您的心都吸出来。
 
 ~Almo~ and ~Zik-Nar~ ~X3~, coming to a holo-screen next rotation.
-《~阿莫~与~齐克纳X3~》，下一轮播映，敬请期待。
+《~阿莫~与~兹克纳X3~》，下一轮播映，敬请期待。
 
 *42 03
 
@@ -2286,7 +2286,7 @@ diagonally
 弹起
 
 This game consists of 6 levels, starting on ~level~ ~5~ and descending in order
-这款游戏共有6个关卡，从第5关开始，依次递减到
+这款游戏共有6个关卡，从~第5关~开始，依次递减到
 to the final level.
 最后一关。
 
@@ -2528,7 +2528,7 @@ Burnt Sienna or Brick Red Zones.
 Deliani is the home of such ~Fluxnet~ ~21~ favorites as Honey, I Shorted-Out
 得里尼是诸如~流网21~中热门剧集《亲爱的，我把孩子弄短路了》
 the Kidforms - Almo and Zik-Nar X3 - My Mother the Lobot.
-《阿莫和齐克纳X3》《我那被切除脑叶的母亲》发源地。
+《阿莫和兹克纳X3》《我那被切除脑叶的母亲》发源地。
 
 ~Entertainment:~
 ~~~娱乐:~
@@ -2543,256 +2543,238 @@ torture drills can be found here.  A must for military buffs.
 *57 03
 
 Scenic guide to the universe: ~Ixmucane~
+宇宙风景指南：~睡神星~
 
 Windy
+狂风
 
   ~IXMUCANE:~
-
-
+　　~睡神星:~
 
 The original headquarters of Microsol.  This planet has a very dry
-
+微索的原总部。这颗行星表面非常干燥，类似沙漠，
 and desert-like surface with the occasional mountain range.  The advantage of
-
+偶尔有山脉分布。这颗星球的优势在于其薄弱的内壳，
 this world is its weak inner crust, allowing Microsol to build
-
+使得微索能够在地下建造巨大的研究设施。
 gigantic research facilities undergound.  Immense domed cities can be seen
-
+在主要的研究和生产地点可以看到巨大的穹顶城市。
 in major research and production locations.  The tragedy of Ixmucane is that it
-
+睡神星的悲剧在于它曾是~兹卡~的家园，
 was originally the home of the ~Zica~, an unknown race of alien that
-
+这是一种未知的外星种族，
 originally carved immeasurable labrynthine tunnel systems under the
-
+他们曾在地下开凿了无尽的迷宫般的
 surface.
+隧道系统。
 
 The ~Zica~ are feared by xenoscientists, who believe that the they have fled
-
+~兹卡~令异星科学家感到恐惧，
 to the outer reaches of the sector where they plan to launch a massive attack
-
+他们认为~兹卡~已逃往该星区的边缘地带，
 on Deliani and Microsol, using outer-dimensional technology.
-
+计划利用超维度技术对得里尼和微索发动大规模攻击。
 But is it true...?
-
-
+但这是真的吗……？
 
 And, if so, will I, the writer, ever grow bored enough to write the sequel
-
+而且，如果真是这样，作为作者的我，会否有一天厌倦到愿意
 using this suggested plotline?
-
-
+用这个设定来写续集呢？
 
 *58 03
 
 Scenic guide to the universe: ~Torm~
+宇宙风景指南：~托姆~
 
 Windy
+狂风
 
   ~TORM:~
-
-
+　　~托姆:~
 
 A rubnik is worth a thousand words on this planet.
-
-
+在这个星球上，一个鲁布尼克胜过千言万语。
 
 Sector capital and regional chapter of the Interplanetary Government.  Torm is
-
+星际政府的区域首府和部门总部。
 one of the largest worlds in the sector, surpassed in size only by the ice
-
+托姆是该星域最大的星球之一，仅次于冰封星球卡曼尼。
 world of Camanis. The surface is similar to Savara's, though consisting of
-
+其表面与萨瓦拉类似，但由草原和茂密的森林覆盖的山区构成。
 grasslands and heavily forested mountain regions.  The city capital, Portoch,
-
+首都波托奇是一座腐败横行、
 is a metropolis of corruption and dark, rainy days.
-
-
+阴雨连绵的大都市。
 
 ~Dining:~
-
-
+~~~餐饮:~
 
 Torm is a vegetarian's delight or worst nightmare.  Twenty-eight thousand
-
+托姆是素食者的天堂，也是噩梦。
 types of vegetarian dishes are served daily, with another Sixty thousand
-
+每天供应两万八千种素食菜肴，另有六万种可供预订。
 on request.  Also prevalent is a large selection of animal dishes with the
-
+此外，还有大量动物菜肴，其中最受欢迎且价格昂贵的
 ever-popular and expensive ~dragon~ ~succotash~.  Many people save up their
-
+是~龙杂菜~。许多人一生积蓄只为点一次这道菜。
 whole lives just to order this dish once.  Many others succumb to the toxic
-
+但也有许多人因这道菜的毒性而丧命，
 nature of the dish, but what a way to go.
-
-
+不过这也是一种独特的死法。
 
 ~Culture:~
-
-
+~~~文化:~
 
 Only make a visit to be depressed, since the buildings are so neglected they
-
+来这里参观只会让你感到沮丧，因为这里的建筑破败不堪，布满污垢。
 are streaked with dirt.  It is said that the chapter lords are so decadent
-
+据说，这里的领主们极其腐朽堕落，很少走出当地的模拟俱乐部。
 that they seldom emerge from the local simulation clubs.  The city itself is
-
+这座城市本身就是一个例子，
 an example of why Microsol holds so much sway in governmental policies: bribery.
-
-
+说明了为什么微索在政府政策中拥有如此大的影响力：贿赂。
 
 ~Entertainment:~
-
-
+~~~娱乐:~
 
 On Torm, you can partake of the most degrading sports and acts known in the
-
+在托姆星球，你可以参与宇宙中最为低贱的体育活动和表演。
 universe.  Few ever leave this planet the same, and fewer even leave - or can.
-
+很少有人能从这个星球全身而退，甚至能离开——
 A visit to this planet is one you won't easily miss.  Be sure to bring a
-
+或者可以离开。来这个星球游玩是不容错过的，不过一定要带上保镖。
 bodyguard.  Actually, bring a whole army.  You'll need them.
+实际上，带上一整支军队才好。你会需要他们的。
 
 *59
 
 HOW TO PLAY
+玩法
 
 Game
+游戏
 
 How to play the secret ending game ~ZINGLON'S~ ~SQUADRONS~: [~ZINGALA~]
-
-
+如何玩~《劲仑的中队》~的秘密结局游戏：[~劲伽拉~]
 
 Large formations of ships fly down to attack you.  Individual ships in the
-
+大批飞船编队飞下来攻击你。编队中的单个飞船会以各种方式飞下来。
 groups break off to fly down in various ways.  You must destroy the entire
-
+你必须摧毁整个舰队才能进入下一支舰队。
 fleet to advance to the next fleet.  Basically, just shoot everything you
-
+基本上，就是能打的
 can.
-
-
+都打。
 
 You must shoot all the small enemies to advance to the next level.
-
-
+您必须射杀所有的小敌人以进入下一关。
 
 There are 7 kinds of enemies:
-
-
+有7种敌人：
 
 ~Zimbles~ : 10 pts / 20 pts attacking : Damage 4 : Eyeballs
-
-
+~津布尔~ ：10点/20点（攻击时）：伤害4：眼球
 
 ~Blottes~ : 15 pts / 30 pts attacking : Damage 6 : Blood Cells
-
-
+~布洛特~ ：15点/30点（攻击时）：伤害6：血细胞
 
 ~Zoomers~ : 20 pts / 40 pts attacking : Damage 5 : Bombs
-
-
+~祖姆~ ：20点/40点（攻击时）：伤害5：炸弹
 
 ~Roobles~ : 25 pts / 50 pts attacking : Damage 5 : Fireballs
-
-
+~罗布尔~ ：25点/50点（攻击时）：伤害5：火球
 
 ~Tokkies~ : 50 pts / 100 pts attacking : Damage 7 : Little Spikey Balls
-
-
+~托基~ ：50点/100点（攻击时）：伤害7：小刺球
 
 ~Garmons~ : 100 pts / 200-300 pts attacking : Damage 10 : Big Spikey Balls
-
-
+~加蒙斯~ ：100点/200-300点（攻击时）：伤害10：大刺球
 
 ~Widgets~ : 250 pts / 500-??? pts attacking : Damage 20 : Big Brown Ship
-
-
+~维基特~ ：250点/500-???点（攻击时）：伤害20：大棕色飞船
 
 Your ship is armed with a simple rail gun which cannot be increased.  Also,
-
+你的飞船配备了一门简单的轨道炮，无法升级。
 you have no shields and merely subsist on armor.  However, the armor ship will
-
+此外，你没有护盾，仅靠装甲生存。不过，
 still come down to help you.
-
-
+装甲飞船还是会下来帮助你。
 
 Extra lives are earned at 10000, 20000, and every 25000 pts thereafter.
-
-
+每获得10000、20000以及此后每25000点，你都会获得额外生命。
 
 *60
 
 STRATEGY
+攻略
 
 Game
+游戏
 
 Strategy Guide for ~ZINGLON'S~ ~SQUADRONS~: [~ZINGALA~]
-
-
+~《劲仑的中队》~[~劲伽拉~]攻略指南：
 
 There are four types of enemy formations:
-
-
+敌方阵型共有四种类型：
 
 Type 1 : ~Block~ : A simple four row mass of enemies.  They attack quickly but
-
+类型1：~方阵~：由四排敌人组成的简单阵型。
 if you don't care about your score you can blast through them pretty quickly.
-
-
+它们攻击迅速，但如果您不在乎得分，可以很快突破。
 
 Type 2 : ~Bombs~ : This block variation has a row of bombs in the front which
-
+类型2：~炸弹~：这种方阵变体在前排有一排炸弹，
 are difficult to destroy and fly down quickly.  If you can blast through them,
-
+难以摧毁且下落速度极快。如果您能突破它们，
 you can get a clear shot at the Garmons.  The center Garmon will not move, so
-
+就能对加蒙斯进行清晰射击。中间的加蒙斯不会移动，
 try to take it out before the formation leaves for extra points.
-
-
+所以尽量在阵型离开前将其击毁以获取额外分数。
 
 Type 3 : ~Delta~ : This is not a difficult formation at first, as you can take
-
+类型3：~三角~：起初这种阵型并不难，
 out the side enemies fairly quickly.  Unfortunately, the center Tokkies will
-
+因为您可以很快消灭两侧的敌人。但不幸的是，
 fly out at you extremely quickly and are difficult to anticipate.  Don't let
-
+中间的托基会极快地向您飞来，难以预料。
 the Zimbles get close to the bottom or else you may have difficulty maneuvering.
-
-
+别让津布尔斯靠近底部，否则您可能会难以操控。
 
 Type 4 : ~Bonus~ : This is a very quick formation for extra points.  The
-
+类型4：~奖励~：这是一种获取额外分数的快速阵型。
 Zoomers and Roobles will attack in force first.  Then, the Widget will attack.
-
+首先，祖姆和罗布尔会集体攻击。然后，威吉特会攻击。
 Make sure you destroy this!  After the Widget will come some more small ships
-
+务必将其摧毁！威吉特之后会有一些小型飞船
 and the two remaining Garmons.
-
-
+和剩余的两个加蒙斯。
 
 There are no special moves available in this game.
+此游戏中没有特殊操作。
 
 *61
 
 REMINDER
+提醒
 
 Game
+游戏
 
 You do not need to play this game to continue.  It is merely an extra game
-
+您无需玩此游戏即可继续。这只是为增添乐趣
 for your enjoyment.  If you want to continue on to Episode 5, simply
-
+而设的额外游戏。如果您想继续进入第5章，
 select ~Skip~ ~It~ in the Next Level menu.
-
-
+请在下一关菜单中选择~跳过~。
 
 Also, this game can not be played by two players and will only be available
-
+另外，此游戏不能双人玩，且仅在
 in the full game.
-
-
+完整版游戏中提供。
 
 Enjoy!
+祝您玩得开心！
 
 *62 11
 
@@ -2803,282 +2785,272 @@ Dougan
 道根
 
 Trent?  I've picked you up on my sensors.
-
-
+特伦特？我用传感器发现你了。
 
 No time to talk!  There's a ~Microsol~ freak on my tail and I'm flying unarmed.
-
+没时间说话！有个~微索~怪胎在我后面紧追不舍，而我这架飞机没带武器。
 I'll be ok as long as I can stay out of range.  That weird ninja guy with the
-
+只要能保持在射程之外，我就能撑得住。那个开着隐形飞船的怪异忍者
 stealth ship is moving in to help.
-
-
+正赶来帮忙。
 
 I'll contact you again when I'm able.  Good luck.
-
-
+等我能联系上你的时候再联系。祝你好运。
 
 Dougan out.
+道根结束。
 
 *63 06
 
 SCRAMBLED TRANSMISSION CODE 445-A1-A1-Jack
+混乱传输代码 445-A1-A1-杰克
 
 Reid
+里德
 
 Trent, am I glad to see you!  Microsol has destroyed most of the defenses on
-
+特伦特，见到你真是太高兴了！微索已经摧毁了萨瓦拉星球上的
 Savara and the rest have been taken over.  They came quickly.  Someone has
-
+大部分防御设施，其余的也被他们接管了。他们来得很快。
 sold our planet out to them.  Who?
-
-
+有人把我们的星球出卖给了他们。是谁？
 
 I am glad to know you are out there.  I and many others have taken refuge
-
+很高兴知道你在外面。我和许多其他人已经
 in shelters below ground.  They have control of the ~Central~ ~Defense~ ~Ship~.
-
-
+躲进了地下的避难所。他们控制了~中央防御舰~。
 
 A handful of others are already fighting on the surface, but we are sorely
-
+地面上还有一些人在战斗，但我们人数
 outnumbered.
-
-
+严重不足。
 
 I must go.  We need to conserve battery power for the hospitals.  They have
-
+我得走了。我们要为医院节省电池电量。
 severely damaged the fusion generators.
-
-
+他们严重破坏了核聚变发电机。
 
 Reid
-
-
+里德
 
 Acting President of Savara
+萨瓦拉星球代理总统
 
 *64
 
 Weapons Research, Camanis
+武器研究，卡曼尼
 
 TOP SECRET
+绝密
 
 Confidential memo #4410-303-TDCam
-
-
+机密备忘录 #4410-303-TDCam
 
 Laser research is progressing steadily, according to projections.
-
-
+激光研究进展顺利，符合预期。
 
 Project Thermos has completed stage 2 and is moving to the final stage 3.  We
-
+热力项目已完成第2阶段，即将进入最终的第3阶段。
 anticipate having a prototype stage 3 laser cannon very soon.
-
-
+我们预计很快就能拥有第3阶段激光炮的原型。
 
 Camanis research station Loopy is prepared to ship 3 modified battle cruisers
-
+卡曼尼研究站的洛皮已准备好在收到您的消息后
 to you as soon as we receive word from you.  Planetary coordinates for pickup
-
+立即向您发送3艘改装过的战列巡洋舰。接应的行星坐标
 are 399 x 21.
-
-
+为399x21。
 
 We need confirmation immediately.  So far, we don't believe any enemy forces
-
+请立即确认。到目前为止，我们认为没有敌军知晓我们的位置，
 have learned of our position, but we only have a skeleton defense force.  No
-
+但我们只有少量防御力量。
 main battle cruisers are currently online.  This leaves us especially vulnerable
-
+目前没有主力战舰上线。这使我们特别容易受到
 to outside attack.
-
-
+外部攻击。
 
 This is Mycroft Dalo, Microsol Research Control, signing off.
+我是迈克罗夫特·达洛，来自微索研究控制中心，就说这些了。
 
 *65 02
 
 Alambusol
+阿兰布索
 
 Ad
+广告
 
 [Cheerful, brightly lit living room.  Late 103rd century decor.]
-
-
+[欢快明亮的客厅。103世纪末的装饰风格。]
 
 When dreaded alien parasites are drilling into my head, I reach for ~Alambusol~.
-
-
+当可怕的外星寄生虫钻进我的脑袋时，我会用上~阿兰布索~。
 
 ~Alambusol~ is the only anti-parasite xeno-spray which I trust.  Two squirts and
-
+~阿兰布索~是唯一一款我信赖的抗寄生虫异星喷雾剂。两下喷雾，
 ten minutes later, my head is clear and free of infestation once again.
-
-
+十分钟之后，我的脑袋又恢复了清爽，不再有寄生虫的侵扰。
 
 [Cut to Medical office.  Very modern.]
-
-
+[切换到医疗办公室。非常现代化。]
 
 Yes, four out of our five doctors recommend ~Alambusol~ to their infested
-
+没错，我们五位医生中有四位都向寄生虫感染的患者推荐~阿兰布索~。
 patients.  The other doctor was fired.  So, you can see that we are firmly
-
+另一位医生被解雇了。所以，您可以看到我们坚定地
 commited to using this spray on our patients.
-
-
+将这款喷雾剂用于患者身上。
 
 [Quick wipe down to scene of rendered Spray bottle floating in a stasis field.]
-
-
+[快速切换到悬浮在静止场中的阿兰布索喷雾瓶的画面。]
 
 So transmit a bottle of ~Alambusol~ to yourself today!  You won't be sorry.
+所以，今天就给自己传送一瓶~阿兰布索~吧！您一定不会后悔的。
 
 *66 01
 
 Ressurectos
+复活药
 
 Ad
+广告
 
 Are you feeling down in the dumps... deceased?  Have friends and family stopped
-
+你是否情绪低落……已经去世？朋友和家人是不是因为
 calling you now that you're 6 feet under?
-
-
+你已入土为安而不再给你打电话了？
 
 Well, fret no more!
-
-
+别再烦恼了！
 
 Dansen Technologies has the answer to all your afterlife problems.
-
-
+丹森科技公司能解决你所有来世的问题。
 
 ~Ressurectos~!
-
-
+~复活药~！
 
 Within these little pills is a potent life-giving recipe which is guaranteed
-
+这些小药丸里蕴含着强大的生命配方，
 to bring you back to life.  Simply take one in the morning after a full moon
-
+保证能让你起死回生。只需在你的行星(或是卫星)满月那天
 on your planet (or moons) and drink a glass of water.  You'll be your old
-
+早上服用一粒，再喝一杯水，很快你就会
 self in no time.
-
-
+恢复如初。
 
 Check us out at ~FLUXNET~: 405-4003-3030.
+欢迎访问我们的~流网~：405-4003-3030。
 
 *67 03
 
 Scenic guide to the universe: ~Camanis~
+宇宙风景指南：~卡曼尼~
 
 Guidebook
+指南
 
   ~CAMANIS:~
-
-
+　　~卡曼尼：~
 
 ~Dining:~
-
-
+~~~餐饮:~
 
 Located 2 miles east of the Ultra-secret Microsol research station is the
-
+在超机密的微索研究所站以东2英里处，坐落着
 All-powerful Bob Hartley's ~IceCream-O-Matic~.  The ultimate in high-powered
-
+全能鲍勃·哈特利的~冰淇淋O型制造机~。
 instant cryo manufacturing facilities, the ICOM system can instantaneously
-
+作为顶级的高功率即时冷冻制造设施，ICOM系统能够
 generate up to 3 cubic miles of ice cream, in any of 24 billion flavors.
-
-
+瞬间生成多达3立方英里的冰淇淋，口味多达240亿种。
 
 Microsol has made this possible by purchasing out all other ice cream manufacturing
-
+微索通过收购所有其它冰淇淋制造设施，
 facilities and amassing the recipes of every vendor who has ever existed.
-
-
+并汇集了所有曾经存在的供应商的配方，才使这一切成为可能。
 
 This bewildering decision rocked the world of ice cream futures but made
-
+这一令人费解的决定震撼了冰淇淋期货市场，
 Microsol the undisputed master of all the ice cream in the universe.  They take
-
+但使微索成为宇宙中无可争议的冰淇淋霸主。他们对待
 their ice seriously.
-
-
+冰淇淋非常认真。
 
 ~Culture:~
-
-
+~~~文化:~
 
 Not many people enjoy living in the sub-zero confines of this planet.  Because
-
+很少有人喜欢生活在卡曼尼这个零下温度的环境中。
 of this, they are an extremely proud people, prone to bawling out wimps like
-
+正因为如此，这里的居民非常骄傲，
 you who have climate control.  If you visit, be sure not to mention how cold
-
+很容易对像你这样有气候控制设备的人发火。
 it is unless you want a very one-sided conversation.  Steer your topics
-
+如果你去那里，千万别提有多冷，除非你想进行一场一边倒的对话。
 toward their lovely scenery and extensive museums of ice sculptures.
-
-
+把话题引向他们美丽的风景和丰富的冰雕博物馆。
 
 ~Entertainment:~
-
-
+~~~娱乐:~
 
 A skiiers dream.  This is the cold vacation spot of the universe.  Millions of
-
+滑雪者的天堂。这里是宇宙中最冷的度假胜地。
 ski slopes litter the world, providing entertainment to endless visitors each
-
+世界各地有数以百万计的滑雪场，每年为无数游客提供娱乐。
 year.  Camanis boasts year-round snow and optional near-zero visibility for the
-
+卡曼尼拥有全年不化的雪，还有近乎零能见度的可选条件，
 ultra-suicidal skiier.  What more could one ask for?
-
-
+供那些极度疯狂的滑雪者挑战。还有什么比这更令人向往的呢？
 
 For the friends of those suicidal skiiers who are dragged along on vacation,
-
+对于那些被迫跟随这些自杀式滑雪者度假的朋友来说，
 try out your hand at massive free-form laser ice sculpture.  For a small fee
-
+不妨试试巨大的自由形式激光冰雕。只需每小时支付少量费用，
 per hour, you can have the enjoyment of carving up your very own mountain.
-
+您就可以享受雕刻属于自己的山峰的乐趣。
 If you simply must take it back home with you, Camanis even offers 2nd minute
-
+如果您一定要把它带回家，卡曼尼甚至提供2分钟内送达服务！
 delivery!  All you have to do is to find a place to store your mountain and
-
+您只需找个地方存放您的山峰并保持低温即可。
 keep it cool.  An adventure for the whole family!
+全家人的冒险之旅！
 
 *
 
-
-
-
-
 Faces
+面孔
 
 1,2  *: Miscellaneous reporters
+1,2  *: 杂项记者
 
 3    *: Merchant
+3    *: 商人
 
 4    *: Mondus - Random scientist
+4    *: 蒙杜斯 - 随机科学家
 
 5    -: Green mottled dying person - unused
+5    -: 绿色斑点濒死之人 - 未使用
 
 6    *: Reid - Leader of resistance against using Hazudra as slaves
+6    *: 里德 - 反对将哈祖德拉人当作奴隶的抵抗运动领袖
 
 7    *: Vykromod
+7    *: 维克罗莫德
 
 8    *: Transon
+8    *: 特兰森
 
 9    *: Ninja - Sneezei - Mysterious Person
+9    *: 忍者 - 斯尼基 - 神秘人物
 
 10   *: Captain - Random human
+10   *: 船长 - 随机人类
 
 11   *: Dougan - Friend on Torm
+11   *: 道根 - 托姆上的朋友
 
 12   *: Beppo - Pirate from Torm - stupid
-
+12   *: 比坡 - 来自托姆的海盗 - 愚蠢

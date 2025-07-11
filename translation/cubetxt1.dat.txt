@@ -1556,16 +1556,16 @@ Game
 游戏
 
 You do not need to play this game to continue.  It is merely an extra game
-您无需玩此游戏即可继续。这只是为增添乐趣而设的额外游戏。
+您无需玩此游戏即可继续。这只是为增添乐趣
 for your enjoyment.  If you want to continue with the normal game, simply
-如果您想继续正常游戏，
+而设的额外游戏。如果您想继续正常游戏，
 select ~Give~ ~Up~ in the Next Level menu.
 请在下一关菜单中选择~放弃~。
 
 Also, this game can not be played by two players and will only be available
-另外，此游戏不能双人玩，仅在正常游戏模式中可用。
+另外，此游戏不能双人玩，且仅在
 in the normal game mode.  It won't appear when playing arcade or other modes.
-在街机模式或其它模式下不会出现。
+正常游戏模式中可用。在街机模式或其它模式下不会出现。
 
 Enjoy!
 祝您玩得开心！
