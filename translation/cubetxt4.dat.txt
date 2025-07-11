@@ -162,7 +162,7 @@ Transon
 特兰森
 
 Recorded VidCom - GT 29:21
-录制的视频通讯 - 时长29:21
+录制的视频通讯——时长29:21
 
 I wasn't sure if I was going to hear from you again, but you cleared out
 我原本不确定还能否再收到你的消息，
@@ -1275,7 +1275,6 @@ What in the universe are you doing still alive?!  I thought I told you to
 die the last time you showed up!
 我就让你死了！
 
-
 ~HOW~ ~MANY~ ~TIMES~ ~MUST~ ~I~ ~KILL~ ~YOU?!?~
 ~我到底要杀你多少次啊？！？~
 
@@ -1350,7 +1349,7 @@ isn't equipped for combat, but I've got a heavy-duty ~VLR~ ~sensor~ ~grid~ and a
 ~TQ930~ ~comm~ ~system~ packed in this baby.  If you keep your comm channel open,
 和一套~TQ930通讯系统~。只要你保持通讯频道畅通，
 I'll try to feed your computer some holographic data on the dreadnought's weak
-我会试着给你的电脑传输一些关于那艘战列舰弱点的
+我会试着给你的电脑传输一些关于那艘战舰弱点的
 points.
 全息数据。
 
@@ -1567,12 +1566,12 @@ picked up distress calls from Savara as well and will try to help them out.
 Dougan said something about a bunch of ships leaving towards ~Gyges~, and
 道根提到有一群飞船朝着~盖吉斯~飞去，
 something about a dreadnought being taken out near Savara.  We have no
-还说在萨瓦拉附近有一艘战列舰被击毁。
+还说在萨瓦拉附近有一艘战舰被击毁。
 additional information about what's going on out there, so give it your best.
 关于那边的情况我们没有更多消息了，所以您得尽力而为。
 
 Transon out.
-特兰森离开。
+特兰森，结束。
 
 Cursed computer net...
 该死的电脑网络……
@@ -1987,7 +1986,7 @@ you will do your best.  We will try to contact you again later.
 我知道你会尽力的。我们稍后再联系你。
 
 Transon out.
-特兰森离开。
+特兰森，结束。
 
 [Unknown ID:]  Commander, quick, what's the square root of 4?  I think the
 [未知ID:] 指挥官，快点，4的平方根是多少？
@@ -2095,19 +2094,19 @@ Now... bear witness!
 现在……见证吧！
 
 ~Supreme~ ~Intergalactic~ ~Ruler~ of ~Everything~ ~Nob~
-~至高无上的星系万物主宰诺布~
+~至高无上~的~星系万物主宰诺布~
 
 ~Commander~ of ~Microsol~ ~Super~ ~Fleet~ ~Alpha~
-~微索超级舰队阿尔法的指挥官~
+~微索超级舰队阿尔法~的~指挥官~
 
 ~Leader~ of ~Everyone~
-~众人的领袖~
+~众人~的~领袖~
 
 ~Master~ of ~All~
-~一切的主宰~
+~一切~的~主宰~
 
 ~Well~-~Liked~ by ~Animals~
-~动物们的宠儿~
+~动物们~的~宠儿~
 
 *50 01
 
@@ -2124,7 +2123,7 @@ This is Rob Neither with the daily news.
 ~劲仑的鼻子被盗~
 
 A holy artifact believed to be the nose of Zinglon himself was stolen from the
-一件被认为是劲仑本人鼻子的圣物从托尔轨道博物馆被盗。
+一件被认为是劲仑本人鼻子的圣物从托姆轨道博物馆被盗。
 Torm Orbiting Museum.  Religious followers are in an uproar and demand that
 宗教信徒们群情激愤，要求相关责任人立即归还鼻子。
 the party responsible return the nose immediately.  A full-scale investigation
@@ -2208,7 +2207,7 @@ On sale now at Asteroid Charlies.
 现于小行星查理斯有售。
 
 ~Note~: Due to extreme demand, we are temporarily out of stock.  Thank you for
-~注意~：由于需求过大，我们暂时缺货。感谢您
+~注~：由于需求过大，我们暂时缺货。感谢您
 choosing ~Fluxnet~ ~21~.
 选择~流网21~。
 
@@ -2243,7 +2242,7 @@ the rest of eternity!  ~Aaaaarrrrrggghhh!~
 ~啊啊啊啊啊啊啊啊啊啊啊啊！~
 
 Self out.
-自我离开。
+自己，结束。
 
 *53
 
@@ -2272,16 +2271,16 @@ There are 4 kinds of enemies:
 有4种敌人：
 
 ~Roobles~ : Round Fireballs - Low damage - Move left to right
-~鲁布尔~ ：圆火球 - 低伤害 - 从左向右移动
+~罗布尔~ ：圆火球——低伤害——从左向右移动
 
 ~Tokkies~ : Spikey Balls - Low damage - Move up and down quickly
-~托基~ ：带刺球 - 低伤害 - 快速上下移动
+~托基~ ：刺球——低伤害——快速上下移动
 
 ~Zimbles~ : Eyeballs - Moderate damage - Move diagonally slowly
-~津布尔~ ：眼球 - 中等伤害 - 缓慢对角移动
+~津布尔~ ：眼球——中等伤害——缓慢对角移动
 
 ~Blottes~ : Blood Cells - High damage - Descend slowly and then bounce up quickly
-~布洛特~ ：血细胞 - 高伤害 - 缓慢下降然后快速对角
+~布洛特~ ：血细胞——高伤害——缓慢下降然后快速对角
 diagonally
 弹起
 
@@ -2291,7 +2290,7 @@ to the final level.
 最后一关。
 
 Level 5 : Mostly Roobles
-第5关：主要是鲁布尔
+第5关：主要是罗布尔
 
 Level 4 : Mostly Tokkies
 第4关：主要是托基
@@ -2303,7 +2302,7 @@ Level 3 : Zimbles and Blottes
 第3关：津布尔和布洛特
 
 Level 2 : Roobles, Tokkies, and Blottes
-第2关：鲁布尔、托基和布洛特
+第2关：罗布尔、托基和布洛特
 
 Level 1 : Mostly Zimbles
 第1关：主要是津布尔
@@ -2337,14 +2336,14 @@ as possible.
 小敌人。
 
 ~Roobles~ : Round Fireballs - These are very easy to destroy but get in your
-~罗布尔~：圆形火球——这些很容易摧毁，
+~罗布尔~：圆火球——这些很容易摧毁，
 way easily once they descend fairly low.  Try to take these out quickly if
 但一旦下降到较低位置就很容易挡道。除非有布洛特来袭，
 you can unless a Blotte is coming.
 否则能快则快地将其消灭。
 
 ~Tokkies~ : Spikey Balls - These can be avoided fairly easily since they move
-~托基~：带刺球——这些很容易避开，因为它们在屏幕上移动得非常缓慢。
+~托基~：刺球——这些很容易避开，因为它们在屏幕上移动得非常缓慢。
 very slowly across the screen.  You can usually position a sidekick to stay
 通常你可以让一个助手待在它们下方足够长的时间
 underneath them long enough to take them out.
@@ -2401,13 +2400,13 @@ My general time to beat is ~3:30~, without using many secret moves.
 *55 03
 
 Scenic guide to the universe: ~Savara~
-宇宙风景指南：~萨瓦拉~
+宇宙风景指南: ~萨瓦拉~
 
 Windy
 狂风
 
   ~SAVARA:~
-　　~萨瓦拉：~
+　　~萨瓦拉:~
 
 ~Dining:~
 ~~~餐饮:~
@@ -2475,13 +2474,13 @@ great world of Gruel.  A fun affair for the whole family!
 *56 03
 
 Scenic guide to the universe: ~Deliani~
-宇宙风景指南：~得里尼~
+宇宙风景指南: ~得里尼~
 
 Windy
 狂风
 
   ~DELIANI:~
-　　~得里尼：~
+　　~得里尼:~
 
 ~Travel Tip:~
 ~~~旅行小贴士:~
@@ -2543,7 +2542,7 @@ torture drills can be found here.  A must for military buffs.
 *57 03
 
 Scenic guide to the universe: ~Ixmucane~
-宇宙风景指南：~睡神星~
+宇宙风景指南: ~睡神星~
 
 Windy
 狂风
@@ -2585,7 +2584,7 @@ using this suggested plotline?
 *58 03
 
 Scenic guide to the universe: ~Torm~
-宇宙风景指南：~托姆~
+宇宙风景指南: ~托姆~
 
 Windy
 狂风
@@ -2689,10 +2688,10 @@ There are 7 kinds of enemies:
 ~托基~ ：50点/100点（攻击时）：伤害7：小刺球
 
 ~Garmons~ : 100 pts / 200-300 pts attacking : Damage 10 : Big Spikey Balls
-~加蒙斯~ ：100点/200-300点（攻击时）：伤害10：大刺球
+~加蒙~ ：100点/200-300点（攻击时）：伤害10：大刺球
 
 ~Widgets~ : 250 pts / 500-??? pts attacking : Damage 20 : Big Brown Ship
-~维基特~ ：250点/500-???点（攻击时）：伤害20：大棕色飞船
+~威吉特~ ：250点/500-???点（攻击时）：伤害20：大棕色飞船
 
 Your ship is armed with a simple rail gun which cannot be increased.  Also,
 你的飞船配备了一门简单的轨道炮，无法升级。
@@ -2713,7 +2712,7 @@ Game
 游戏
 
 Strategy Guide for ~ZINGLON'S~ ~SQUADRONS~: [~ZINGALA~]
-~《劲仑的中队》~[~劲伽拉~]攻略指南：
+~《劲仑的中队》~攻略指南：[~劲伽拉~]
 
 There are four types of enemy formations:
 敌方阵型共有四种类型：
@@ -2728,7 +2727,7 @@ Type 2 : ~Bombs~ : This block variation has a row of bombs in the front which
 are difficult to destroy and fly down quickly.  If you can blast through them,
 难以摧毁且下落速度极快。如果您能突破它们，
 you can get a clear shot at the Garmons.  The center Garmon will not move, so
-就能对加蒙斯进行清晰射击。中间的加蒙斯不会移动，
+就能对加蒙进行清晰射击。中间的加蒙不会移动，
 try to take it out before the formation leaves for extra points.
 所以尽量在阵型离开前将其击毁以获取额外分数。
 
@@ -2748,7 +2747,7 @@ Zoomers and Roobles will attack in force first.  Then, the Widget will attack.
 Make sure you destroy this!  After the Widget will come some more small ships
 务必将其摧毁！威吉特之后会有一些小型飞船
 and the two remaining Garmons.
-和剩余的两个加蒙斯。
+和剩余的两个加蒙。
 
 There are no special moves available in this game.
 此游戏中没有特殊操作。
@@ -2798,7 +2797,7 @@ I'll contact you again when I'm able.  Good luck.
 等我能联系上你的时候再联系。祝你好运。
 
 Dougan out.
-道根结束。
+道根，结束。
 
 *63 06
 
@@ -2858,7 +2857,7 @@ anticipate having a prototype stage 3 laser cannon very soon.
 Camanis research station Loopy is prepared to ship 3 modified battle cruisers
 卡曼尼研究站的洛皮已准备好在收到您的消息后
 to you as soon as we receive word from you.  Planetary coordinates for pickup
-立即向您发送3艘改装过的战列巡洋舰。接应的行星坐标
+立即向您发送3艘改装过的战舰。接应的行星坐标
 are 399 x 21.
 为399x21。
 
@@ -2946,13 +2945,13 @@ Check us out at ~FLUXNET~: 405-4003-3030.
 *67 03
 
 Scenic guide to the universe: ~Camanis~
-宇宙风景指南：~卡曼尼~
+宇宙风景指南: ~卡曼尼~
 
 Guidebook
 指南
 
   ~CAMANIS:~
-　　~卡曼尼：~
+　　~卡曼尼:~
 
 ~Dining:~
 ~~~餐饮:~
@@ -3029,13 +3028,13 @@ Faces
 3    *: 商人
 
 4    *: Mondus - Random scientist
-4    *: 蒙杜斯 - 随机科学家
+4    *: 蒙杜斯——随机科学家
 
 5    -: Green mottled dying person - unused
-5    -: 绿色斑点濒死之人 - 未使用
+5    -: 绿色斑点濒死之人——未使用
 
 6    *: Reid - Leader of resistance against using Hazudra as slaves
-6    *: 里德 - 反对将哈祖德拉人当作奴隶的抵抗运动领袖
+6    *: 里德——反对将哈祖德拉人当作奴隶的抵抗运动领袖
 
 7    *: Vykromod
 7    *: 维克罗莫德
@@ -3044,13 +3043,13 @@ Faces
 8    *: 特兰森
 
 9    *: Ninja - Sneezei - Mysterious Person
-9    *: 忍者 - 斯尼基 - 神秘人物
+9    *: 忍者——斯尼基——神秘人物
 
 10   *: Captain - Random human
-10   *: 船长 - 随机人类
+10   *: 船长——随机人类
 
 11   *: Dougan - Friend on Torm
-11   *: 道根 - 托姆上的朋友
+11   *: 道根——托姆上的朋友
 
 12   *: Beppo - Pirate from Torm - stupid
-12   *: 比坡 - 来自托姆的海盗 - 愚蠢
+12   *: 比坡——来自托姆的海盗——愚蠢

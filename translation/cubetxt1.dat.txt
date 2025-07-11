@@ -628,7 +628,7 @@ You must take out that lunatic or else the planet will be ruined.
 你必须除掉那个疯子，否则星球将会毁灭。
 
 Transon out.
-特兰森离开。
+特兰森，结束。
 
 *20 05
 
@@ -717,7 +717,7 @@ power are terrifying.
 这种力量的后果令人恐惧。
 
 Transon out.
-特兰森离开。
+特兰森，结束。
 
 *23 03
 
@@ -1262,7 +1262,6 @@ And the most popular song out this solar hour:
 "~CliffTunes~" : Retro New-Wave
 “~悬调~”：复古新浪潮
 
-
 Ten years.  Got some money.  Lost my mind.  Got more money.  Found a life but
 十年了，赚了些钱，失去了理智。赚了更多钱，找到了生活却
 
@@ -1291,7 +1290,7 @@ to the Anti-Fruit Decree.
 Due to the blasphemous nature of alowing food products to float around endlessly
 鉴于允许食品在太空中无休止地漂浮具有亵渎神明的性质，
 in space, potentially disrupting the nature of Zinglon, any ship allowing
-可能会扰乱津格隆的本质，
+可能会扰乱劲仑的本质，
 fruit to escape from their ship after their destruction will be sent to
 任何船只在被摧毁后让水果从船上逃逸都将被送往大自助餐厅
 the Great Buffet to give penance.
@@ -1305,7 +1304,7 @@ they are not blessed by a priest wearing the brick-red robes of inedibility.
 Anyone with knowledge of someone who has violated these sacred rules must
 任何知晓有人违反这些神圣规则的人都必须
 confess to the Order of Zinglon or else suffer a similar penance in the Great
-向津格隆教团坦白，否则将在自助餐厅上方的大等候室
+向劲仑教团坦白，否则将在自助餐厅上方的大等候室
 Waiting Room Above the Buffet.
 接受类似的忏悔。
 
@@ -1651,7 +1650,7 @@ Sealed in with a f---
 密封包装使用——
 
 [Scene edited out.]
-[画面被剪辑。]
+[画面被剪掉。]
 
 So buy some today!
 所以今天就来买一些吧！

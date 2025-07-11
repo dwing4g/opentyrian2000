@@ -103,7 +103,7 @@ All of a sudden, your prototype starship's computer springs
 突然间，你的原型星际飞船的电脑启动了！
 
 to life!  The advanced sensor array has picked up a spatial
-先进的传感器阵列在遥远的索津星球外
+先进的传感器阵列在遥远的索津行星外
 
 disturbance far out in the distant planet Soh Jin.
 侦测到了空间扰动。
@@ -189,10 +189,10 @@ Secret Hint 4-1-1:
 秘密提示 4-1-1:
 
 SAVE IXMUCANE
-拯救伊克穆卡内
+拯救睡神星
 
 There are three possible outcomes to the saving of
-拯救伊克穆卡内有三种可能的结果。
+拯救睡神星有三种可能的结果。
 
 Ixmucane.  Only one will save the people on the
 只有其中一种能拯救这个星球上的

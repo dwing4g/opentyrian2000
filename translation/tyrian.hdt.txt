@@ -100,7 +100,7 @@ Select Ordering Info from Main Menu to find out how to order.
 ~副武器~  您最多可以拥有两个副武器，通常用单独的按钮发射。剩余的射击次数显示在武器名下方。
 
 ~Shield/Armor~  These bars show how much damage you can take.  Shields will recharge with time from your ~power bar~ and a repair ship may appear if your armor is low - shoot it!
-~护盾/装甲~  这俩条显示能承受的伤害量。护盾会利用~能量条~随时间自动恢复，如果装甲过低,可能出现维修船-射击它！
+~护盾/装甲~  这俩条显示能承受的伤害量。护盾会利用~能量条~随时间自动恢复，若装甲过低，可能出现维修船，射击它！
 
 ~Side-Panel~  Top: Player 1    Bottom: Player 2
 ~侧面板~  上：玩家1    下：玩家2
@@ -634,7 +634,7 @@ Todo
 待定
 
 PeteZoomer
-皮特祖玛
+皮特祖姆
 
 RumBottle
 朗姆酒
@@ -709,7 +709,7 @@ Gencore II
 基核II号
 
 PeteZoomer
-皮特祖玛
+皮特祖姆
 
 Rum Bottle
 朗姆酒
@@ -828,7 +828,7 @@ Atomic RailGun
 原子轨道枪
 
 Widget Beam
-零件射线
+威吉特射线
 
 Sonic Impulse
 声波冲击
