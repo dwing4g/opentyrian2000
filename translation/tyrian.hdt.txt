@@ -50,7 +50,7 @@ Buy a better generator and you'll have a much better edge. Select your option in
 ~副武器~  您可以拥有一对左右副武器。这些是能与您的飞船并肩飞行的特殊武器。
 
 They range from just a simple cannon to the awesome "Atom" bomb. Some are much more powerful than others.  Many have limited ammo, but they will recharge slowly during a level!
-它们从简单的加农炮到威力惊人的“原子”炸弹应有尽有。有些武器的威力远超其他武器。许多武器的弹药有限，但会在关卡中会慢慢补充！
+它们从简单的加农炮到威力惊人的“原子”炸弹应有尽有。有些武器的威力远超其它武器。许多武器的弹药有限，但会在关卡中会慢慢补充！
 
 -nogood-
 
@@ -100,7 +100,7 @@ Select Ordering Info from Main Menu to find out how to order.
 ~副武器~  您最多可以拥有两个副武器，通常用单独的按钮发射。剩余的射击次数显示在武器名下方。
 
 ~Shield/Armor~  These bars show how much damage you can take.  Shields will recharge with time from your ~power bar~ and a repair ship may appear if your armor is low - shoot it!
-~护盾/装甲~  这俩条显示能承受的伤害量。护盾会利用~能量条~随时间自动恢复，若装甲过低，可能出现维修船，射击它！
+~护盾/装甲~ 这些条显示能承受的伤害量。护盾会利用~能量条~随时间自动恢复，若装甲过低,可能出现维修船,射击它！
 
 ~Side-Panel~  Top: Player 1    Bottom: Player 2
 ~侧面板~  上：玩家1    下：玩家2

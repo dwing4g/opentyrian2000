@@ -1960,25 +1960,25 @@ void JE_inGameHelp(void)
 	{
 		helpBoxColor = 3;
 		helpBoxBrightness = 3;
-		JE_HBox(VGAScreen, 20,  4, 36, 50);
+		JE_HBox(VGAScreen, 20,  4, 36, 60);
 
 		// weapon help
 		blit_sprite(VGAScreenSeg, 2, 21, OPTION_SHAPES, 43);
 		helpBoxColor = 5;
 		helpBoxBrightness = 3;
-		JE_HBox(VGAScreen, 55, 18, 37, 60);
+		JE_HBox(VGAScreen, 55, 18, 37, 50);
 
 		// sidekick help
 		blit_sprite(VGAScreenSeg, 5, 36, OPTION_SHAPES, 41);
 		helpBoxColor = 5;
 		helpBoxBrightness = 3;
-		JE_HBox(VGAScreen, 40, 44, 34, 60);
+		JE_HBox(VGAScreen, 40, 44, 34, 54);
 
 		// shield/armor help
 		blit_sprite(VGAScreenSeg, 2, 79, OPTION_SHAPES, 42);
 		helpBoxColor = 5;
 		helpBoxBrightness = 3;
-		JE_HBox(VGAScreen, 54, 82, 35, 60);
+		JE_HBox(VGAScreen, 54, 82, 35, 52);
 
 		helpBoxColor = 5;
 		helpBoxBrightness = 3;
@@ -1993,28 +1993,28 @@ void JE_inGameHelp(void)
 		blit_sprite(VGAScreenSeg, 15, 5, OPTION_SHAPES, 40);
 		helpBoxColor = 5;
 		helpBoxBrightness = 3;
-		JE_HBox(VGAScreen, 40, 10, 31, 60);
+		JE_HBox(VGAScreen, 40, 10, 31, 54);
 
 		// weapon help
 		blit_sprite(VGAScreenSeg, 5, 37, OPTION_SHAPES, 39);
 		helpBoxColor = 5;
 		helpBoxBrightness = 3;
-		JE_HBox(VGAScreen, 40, 36, 32, 60);
+		JE_HBox(VGAScreen, 40, 36, 32, 54);
 		helpBoxColor = 5;
 		helpBoxBrightness = 3;
-		JE_HBox(VGAScreen, 40, 60, 33, 60);
+		JE_HBox(VGAScreen, 40, 60, 33, 54);
 
 		// sidekick help
 		blit_sprite(VGAScreenSeg, 5, 98, OPTION_SHAPES, 41);
 		helpBoxColor = 5;
 		helpBoxBrightness = 3;
-		JE_HBox(VGAScreen, 40, 100, 34, 60);
+		JE_HBox(VGAScreen, 40, 100, 34, 54);
 
 		// shield/armor help
 		blit_sprite(VGAScreenSeg, 2, 138, OPTION_SHAPES, 42);
 		helpBoxColor = 5;
 		helpBoxBrightness = 3;
-		JE_HBox(VGAScreen, 54, 143, 35, 60);
+		JE_HBox(VGAScreen, 54, 143, 35, 52);
 	}
 
 	// "press a key"
