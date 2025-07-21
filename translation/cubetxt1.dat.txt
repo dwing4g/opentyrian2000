@@ -753,7 +753,7 @@ the galaxy.
 黄粉虫了。
 
 Sadly, there is only one dining establishment for humans: another chain in the
-遗憾的是，对人类只有一家餐厅：位于~星际麦粥之家~的另一家连锁店。
+遗憾的是，对人类只有一家餐厅：位于~星际麦粥之屋~的另一家连锁店。
 ~Interstellar~ ~House~ of ~Gruel~.  This one is even more miserable than the
 这家比位于托姆拥挤不堪的角落里的那家还要糟糕。
 one located in the toejam of Torm.  Avoid at all costs and try the mealworms
@@ -1024,7 +1024,7 @@ breathtaking place to visit, though.
 Though the surface is totally uninhabitable and the atmosphere still consists
 尽管地表完全无法居住，且大气中仍充斥着氯气和酸液，
 of chlorine and acid, there is an ~Interstellar~ ~House~ of ~Gruel~ already
-但这里已经有一家名叫~星际麦粥之家~。
+但这里已经有一家名叫~星际麦粥之屋~。
 located here.  While they haven't received a customer yet who survived the
 虽然他们还没有接待到任何一位成功降落到地表的顾客，
 descent to the surface, they do have high hopes.  Featured on display in the
@@ -1068,7 +1068,7 @@ Reference: Hot Dog Generators
 Following the dismantling of the ~Superspace Hot Dawg~ franchise (pushed
 随着~超空间热狗连锁店~的倒闭
 out of the picture by the increasing popularity of ~International~ ~House~ of
-（被日益流行的~国际麦粥之家~挤出了市场），
+（被日益流行的~国际麦粥之屋~挤出了市场），
 ~Gruel~), a cache of top-secret rapid hot dog generators were discovered in
 在~卡曼尼~的一个废弃的研究仓库里发现了
 a sold research warehouse on ~Camanis~.
@@ -1581,7 +1581,7 @@ Ad
 当时正值黄昏，滑溜溜的托德斯蹒跚着走向……
 
 ~The~ ~Interstellar~ ~House~ ~of~ ~Gruel~
-~星际麦粥之家~
+~星际麦粥之屋~
 
 Yes, friends.  It's all happening here in our Gruel!
 没错，朋友们。这一切都在我们的麦粥发生！
