@@ -63,10 +63,10 @@ extern "C" int next_utf8_char(const char** pp)
 
 extern "C" int get_char_index(int c)
 {
-	if (c <= 0xffff)
+	if ((unsigned int)c <= 0xffff)
 	{
-		int idx = font_chs_index[c];
-		if (idx != (int)(uint16_t)-1)
+		uint16_t idx = font_chs_index[c];
+		if (idx != (uint16_t)-1)
 			return idx;
 	}
 	return font_chs_index[0x231b]; // for showing unavailable char
