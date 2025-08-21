@@ -17,7 +17,7 @@ ENDCHAR
 --]]
 local floor = math.floor
 local codes = {}
-local code, width, height, dataLine, bbx, data = 0, 0, 0, 0, {}, {}
+local code, width, height, dataLine, data = 0, 0, 0, 0, {}
 local f = io.open(arg[2] or "src/font_chs_data.h", "wb")
 f:write "#include <stdint.h>\n\n"
 f:write "__declspec(align(16))\n"
@@ -65,7 +65,7 @@ for line in io.lines(arg[1] or "fusion-pixel-12px-monospaced-zh_hans.bdf") do --
 				f:write(string.format("\t0x%s%sULL,0x%s%sULL,//%04X,%d\n", h[2], h[1], h[4], h[3], code, n))
 				n = n + 1
 			end
-			code, width, height, dataLine, bbx, data = 0, 0, 0, 0, {}, {}
+			code, width, height, dataLine, data = 0, 0, 0, 0, {}
 		elseif tag == "PIXEL_SIZE" then
 			if args ~= "12" then
 				error("ERROR(" .. i .. "): invalid: " .. line)
