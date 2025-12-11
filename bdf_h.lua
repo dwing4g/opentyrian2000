@@ -6,7 +6,7 @@ FONT_DESCENT 2
 STARTCHAR u0020
 ENCODING 32
 DWIDTH 6 0 // 4 0 | 8 0 | 12 0
-BBX 6 12 0 -2 // 4 14 0 -3 | 8 14 0 -3 | 12 12 0 -2 | 12 14 0 -3 | 包围盒宽高+包围盒左下角对基准原点的偏移(正方向:↑→)
+BBX 6 12 0 -2 // 4 14 0 -3 | 8 14 0 -3 | 12 12 0 -2 | 12 14 0 -3 | 12 24 0 -8 | 包围盒宽高+包围盒左下角对基准原点的偏移(正方向:↑→)
 BITMAP
 0000
 0180 // 每字符从高位开始4bit
@@ -41,7 +41,7 @@ for line in io.lines(arg[1] or "fusion-pixel-12px-monospaced-zh_hans.bdf") do --
 			y = tonumber(y)
 			if w ~= width then error("ERROR(" .. i .. "): invalid w: " .. line) end
 			if x ~= 0 then error("ERROR(" .. i .. "): invalid x: " .. line) end
-			if not (h == 12 and y == -2 or h == 14 and y == -3) then error("ERROR(" .. i .. "): invalid h&y: " .. line) end
+			if not (h == 12 and y == -2 or h == 14 and y == -3 or h == 24 and y == -8) then error("ERROR(" .. i .. "): invalid h&y: " .. line) end
 			height = h
 		elseif tag == "BITMAP" then
 			dataLine = height
