@@ -60,7 +60,7 @@ for line in io.lines(arg[1] or "fusion-pixel-12px-monospaced-zh_hans.bdf") do --
 			end
 			v = v + width * b
 			h[#h + 1] = string.format("%08X", v)
-			if code <= 0xffff then
+			if code > 0 and code <= 0xffff then
 				codes[code] = n
 				f:write(string.format("\t0x%s%sULL,0x%s%sULL,//%04X,%d\n", h[2], h[1], h[4], h[3], code, n))
 				n = n + 1
