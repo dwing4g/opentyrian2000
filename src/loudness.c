@@ -20,6 +20,7 @@
 
 #include "file.h"
 #include "lds_play.h"
+#include "logging.h"
 #include "opentyr.h"
 #include "opl.h"
 
@@ -90,9 +91,9 @@ bool init_audio(void)
 	ask.samples = 256 * OUTPUT_QUALITY; // ~23 ms
 	ask.callback = audioCallback;
 
-	if (SDL_InitSubSystem(SDL_INIT_AUDIO))
+	if (SDL_InitSubSystem(SDL_INIT_AUDIO) != 0)
 	{
-		fprintf(stderr, "error: failed to initialize SDL audio: %s\n", SDL_GetError());
+		logError("Failed to initialize SDL audio: %s", SDL_GetError());
 		audio_disabled = true;
 		return false;
 	}
@@ -105,7 +106,7 @@ bool init_audio(void)
 
 	if (audioDevice == 0)
 	{
-		fprintf(stderr, "error: SDL failed to open audio device: %s\n", SDL_GetError());
+		logError("Failed to open audio device: %s", SDL_GetError());
 		audio_disabled = true;
 		return false;
 	}
@@ -265,11 +266,12 @@ static void load_song(unsigned int song_num)  // FKA NortSong.loadSong
 	if (song_num < song_count)
 	{
 		unsigned int song_size = song_offset[song_num + 1] - song_offset[song_num];
-		lds_load(music_file, song_offset[song_num], song_size);
+		if (!lds_load(music_file, song_offset[song_num], song_size))
+			logError("Failed to load song.");
 	}
 	else
 	{
-		fprintf(stderr, "warning: failed to load song %d\n", song_num + 1);
+		logWarn("Failed to load song %d.", song_num + 1);
 	}
 }
 

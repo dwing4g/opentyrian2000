@@ -93,10 +93,7 @@ bool lds_load(FILE *f, unsigned int music_offset, unsigned int music_size)
 	/* load header */
 	fread_u8_die(&mode, 1, f);
 	if (mode > 2)
-	{
-		fprintf(stderr, "error: failed to load music\n");
 		return false;
-	}
 	fread_u16_die(&speed,   1, f);
 	fread_u8_die(&tempo,    1, f);
 	fread_u8_die(&pattlen,  1, f);
@@ -308,7 +305,6 @@ int lds_update(void)
 			if(!c->packwait) {
 				Uint16 patnum = positions[posplay * 9 + chan].patnum;
 				Uint8 transpose = positions[posplay * 9 + chan].transpose;
-				/*printf("> %p", positions);*/
 
 				comword = patterns[patnum + c->packpos];
 				comhi = comword >> 8; comlo = comword & 0xff;

@@ -18,11 +18,12 @@
  */
 #include "video.h"
 
+#include "keyboard.h"
+#include "logging.h"
 #include "video_scale.h"
 
 #include <assert.h>
 #include <stdbool.h>
-#include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
 
@@ -60,13 +61,10 @@ static void scale_and_flip(SDL_Surface *);
 
 void init_video(void)
 {
-	if (SDL_WasInit(SDL_INIT_VIDEO))
-		return;
-
-	if (SDL_InitSubSystem(SDL_INIT_VIDEO) == -1)
+	if (SDL_InitSubSystem(SDL_INIT_VIDEO) != 0)
 	{
-		fprintf(stderr, "error: failed to initialize SDL video: %s\n", SDL_GetError());
-		exit(1);
+		logFatal("Failed to initialize SDL video: %s", SDL_GetError());
+		exit(EXIT_FAILURE);
 	}
 
 	// Create the software surfaces that the game renders to. These are all 320x200x8 regardless
@@ -91,7 +89,7 @@ void init_video(void)
 
 	if (main_window == NULL)
 	{
-		fprintf(stderr, "error: failed to create window: %s\n", SDL_GetError());
+		logFatal("Failed to create window: %s", SDL_GetError());
 		exit(EXIT_FAILURE);
 	}
 
@@ -127,7 +125,7 @@ static void init_renderer(void)
 
 	if (main_window_renderer == NULL)
 	{
-		fprintf(stderr, "error: failed to create renderer: %s\n", SDL_GetError());
+		logFatal("Failed to create renderer: %s", SDL_GetError());
 		exit(EXIT_FAILURE);
 	}
 }
@@ -156,7 +154,7 @@ static void init_texture(void)
 
 	if (main_window_texture == NULL)
 	{
-		fprintf(stderr, "error: failed to create scaler texture %dx%dx%s: %s\n", scaler_w, scaler_h, SDL_GetPixelFormatName(format), SDL_GetError());
+		logFatal("Failed to create scaler texture (%dx%dx%s): %s", scaler_w, scaler_h, SDL_GetPixelFormatName(format), SDL_GetError());
 		exit(EXIT_FAILURE);
 	}
 }
