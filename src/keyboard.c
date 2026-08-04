@@ -24,11 +24,8 @@
 #include "nortsong.h"
 #include "opentyr.h"
 #include "video.h"
-#include "video_scale.h"
 
 #include "SDL.h"
-
-#include <stdio.h>
 
 #define SDL_POLL_INTERVAL 10
 
