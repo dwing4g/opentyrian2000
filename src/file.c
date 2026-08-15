@@ -18,131 +18,354 @@
  */
 #include "file.h"
 
-#include "logging.h"
 #include "opentyr.h"
 
 #include "SDL.h"
 
+#include <assert.h>
+#include <ctype.h>
 #include <errno.h>
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
 
-const char *custom_data_dir = NULL;
+#ifdef _WIN32
+#include <direct.h>
+#else
+#include <sys/stat.h>
+#endif
 
-// finds the Tyrian data directory
-const char *data_dir(void)
+const char *customDataDirPath = NULL;
+
+enum
 {
-	const char *const dirs[] =
-	{
-		custom_data_dir,
-		TYRIAN_DIR,
-		"data",
-		".",
-	};
+	ERRNUM_EOF = -1,
+};
 
-	static const char *dir = NULL;
+static const char *dataDirPath = NULL;
+static size_t dataDirPathLen = 0;
 
-	if (dir != NULL)
-		return dir;
+static char *userDirPath = NULL;
+static size_t userDirPathLen = 0;
 
-	for (uint i = 0; i < COUNTOF(dirs); ++i)
-	{
-		if (dirs[i] == NULL)
-			continue;
-
-		FILE *f = dir_fopen(dirs[i], "tyrian1.lvl", "rb");
-		if (f)
-		{
-			fclose(f);
-
-			dir = dirs[i];
-			break;
-		}
-	}
-
-	if (dir == NULL) // data not found
-		dir = "";
-
-	return dir;
+static bool fileExists(const char *path)
+{
+	FILE *f = fopen(path, "rb");
+	if (f != NULL)
+		fclose(f);
+	return f != NULL;
 }
 
-// prepend directory and fopen
-FILE *dir_fopen(const char *dir, const char *file, const char *mode)
+static File fileOpen(const char *path, const char *mode)
 {
-	char *path = malloc(strlen(dir) + 1 + strlen(file) + 1);
-	sprintf(path, "%s/%s", dir, file);
-
+	errno = 0;  // fopen might not set errno
 	FILE *f = fopen(path, mode);
+	return (File) { f, errno, f == NULL };
+}
+
+bool findDataFiles(void)
+{
+	dataDirPath = NULL;
+	dataDirPathLen = 0;
+
+	const char *filename = "tyrian1.lvl";
+
+	if (customDataDirPath != NULL)
+	{
+		dataDirPath = customDataDirPath;
+		dataDirPathLen = strlen(dataDirPath);
+
+		return dataFileExists(filename);
+	}
+
+	const char *dataDirPaths[] =
+	{
+#ifdef TYRIAN_DIR
+		TYRIAN_DIR,
+#endif
+		"data",
+	};
+
+	for (size_t i = 0; i < COUNTOF(dataDirPaths); ++i)
+	{
+		if (dataDirPaths[i] == NULL)
+			continue;
+
+		dataDirPath = dataDirPaths[i];
+		dataDirPathLen = strlen(dataDirPath);
+
+		if (dataFileExists(filename))
+			return true;
+	}
+
+	dataDirPath = "";
+	dataDirPathLen = 0;
+
+	return fileExists(filename);
+}
+
+bool dataFileExists(const char *filename)
+{
+	File file = dataFileOpen(filename, "rb");
+
+	bool result = !file.error;
+
+	fileClose(&file);
+
+	return result;
+}
+
+bool userFileExists(const char *filename)
+{
+	File file = userFileOpen(filename, "rb");
+
+	bool result = !file.error;
+
+	fileClose(&file);
+
+	return result;
+}
+
+File dataFileOpen(const char *filename, const char *mode)
+{
+	if (dataDirPath == NULL)
+		findDataFiles();
+
+#ifndef NDEBUG
+	for (size_t i = 0; filename[i] != '\0'; ++i)
+		assert(!isupper(filename[i]));
+#endif
+
+	if (dataDirPathLen == 0)
+		return fileOpen(filename, mode);
+
+	size_t pathSize = dataDirPathLen + 1 + strlen(filename) + 1;
+	char *path = malloc(pathSize);
+	snprintf(path, pathSize, "%s/%s", dataDirPath, filename);
+
+	File file = fileOpen(path, mode);
 
 	free(path);
 
-	return f;
+	return file;
 }
 
-// warn when dir_fopen fails
-FILE *dir_fopen_warn(const char *dir, const char *file, const char *mode)
+static void determineUserDirPath(void)
 {
-	FILE *f = dir_fopen(dir, file, mode);
-
-	if (f == NULL)
-		logWarn("Failed to open '%s': %s", file, strerror(errno));
-
-	return f;
-}
-
-// die when dir_fopen fails
-FILE *dir_fopen_die(const char *dir, const char *file, const char *mode)
-{
-	FILE *f = dir_fopen(dir, file, mode);
-
-	if (f == NULL)
+	if (userDirPathLen != 0)
 	{
-		logFatal("Failed to open '%s': %s", file, strerror(errno));
-		exit(EXIT_FAILURE);
+		free(userDirPath);
+		userDirPathLen = 0;
 	}
 
-	return f;
-}
-
-// check if file can be opened for reading
-bool dir_file_exists(const char *dir, const char *file)
-{
-	FILE *f = dir_fopen(dir, file, "rb");
-	if (f != NULL)
-		fclose(f);
-	return (f != NULL);
-}
-
-// returns end-of-file position
-long ftell_eof(FILE *f)
-{
-	long pos = ftell(f);
-
-	fseek(f, 0, SEEK_END);
-	long size = ftell(f);
-
-	fseek(f, pos, SEEK_SET);
-
-	return size;
-}
-
-void fread_die(void *buffer, size_t size, size_t count, FILE *stream)
-{
-	size_t result = fread(buffer, size, count, stream);
-	if (result != count)
+#ifdef TARGET_WIN32
+	const char *appData = getenv("APPDATA");
+	if (appData != NULL)
 	{
-		logFatal("An error occurred while reading from a file: %s", strerror(errno));
-		exit(EXIT_FAILURE);
+		userDirPathLen = strlen(appData) + strlen("/OpenTyrian");
+		size_t userDirPathSize = userDirPathLen + 1;
+		userDirPath = malloc(userDirPathSize);
+		snprintf(userDirPath, userDirPathSize, "%s/OpenTyrian", appData);
+		return;
 	}
+#else
+	const char *xdgConfigHome = getenv("XDG_CONFIG_HOME");
+	if (xdgConfigHome != NULL)
+	{
+		userDirPathLen = strlen(xdgConfigHome) + strlen("/opentyrian");
+		size_t userDirPathSize = userDirPathLen + 1;
+		userDirPath = malloc(userDirPathSize);
+		snprintf(userDirPath, userDirPathSize, "%s/opentyrian", xdgConfigHome);
+		return;
+	}
+
+	const char *home = getenv("HOME");
+	if (home != NULL)
+	{
+		userDirPathLen = strlen(home) + strlen("/.config/opentyrian");
+		size_t userDirPathSize = userDirPathLen + 1;
+		userDirPath = malloc(userDirPathSize);
+		snprintf(userDirPath, userDirPathSize, "%s/.config/opentyrian", home);
+		return;
+	}
+#endif
+
+	userDirPath = "";
+	userDirPathLen = 0;
 }
 
-void fwrite_die(const void *buffer, size_t size, size_t count, FILE *stream)
+File userFileOpen(const char *filename, const char *mode)
 {
-	size_t result = fwrite(buffer, size, count, stream);
-	if (result != count)
+	if (userDirPath == NULL)
+		determineUserDirPath();
+
+	if (userDirPathLen == 0)
+		return fileOpen(filename, mode);
+
+#ifdef _WIN32
+	(void)_mkdir(userDirPath);
+#else
+	(void)mkdir(userDirPath, 0700);
+#endif
+
+	size_t pathSize = userDirPathLen + 1 + strlen(filename) + 1;
+	char *path = malloc(pathSize);
+	snprintf(path, pathSize, "%s/%s", userDirPath, filename);
+
+	File file = fileOpen(path, mode);
+
+	free(path);
+
+	return file;
+}
+
+void fileSetPosition(File *file, long position)
+{
+	if (file->error)
+		return;
+
+	errno = 0;  // fseek might not set errno
+	if (fseek(file->f, position, SEEK_SET) == 0)
+		return;
+
+	file->errnum = errno;
+	file->error = true;
+}
+
+long fileGetPosition(File *file)
+{
+	if (file->error)
+		return 0;
+
+	errno = 0;  // ftell might not set errno
+	long position = ftell(file->f);
+	if (position >= 0)
+		return position;
+
+	file->errnum = errno;
+	file->error = true;
+
+	return 0;
+}
+
+long fileGetLength(File *file)
+{
+	if (file->error)
+		return 0;
+
+	errno = 0;  // fseek/ftell might not set errno
+	long position = ftell(file->f);
+	if (position >= 0 &&
+	    fseek(file->f, 0, SEEK_END) == 0)
 	{
-		logFatal("An error occurred while writing to a file: %s", strerror(errno));
-		exit(EXIT_FAILURE);
+		long length = ftell(file->f);
+		if (length >= 0 &&
+		    fseek(file->f, position, SEEK_SET) == 0)
+		{
+			return length;
+		}
+	}
+
+	file->errnum = errno;
+	file->error = true;
+
+	return 0;
+}
+
+size_t fileReadAtMost(File *file, void *data, size_t size)
+{
+	if (file->error)
+		return 0;
+
+	errno = 0;  // fread might not set errno
+	size_t read = fread(data, 1, size, file->f);
+	if (read == size)
+		return read;
+
+	file->errnum = errno;
+	file->error = ferror(file->f) != 0;
+	assert(file->error || feof(file->f) != 0);
+
+	return read;
+}
+
+void fileReadExactly(File *file, void *data, size_t size)
+{
+	if (file->error)
+	{
+		memset(data, 0, size);
+		return;
+	}
+
+	errno = 0;  // fread might not set errno
+	size_t read = fread(data, 1, size, file->f);
+	if (read == size)
+		return;
+
+	file->errnum = errno;
+	file->error = true;
+
+	if (file->errnum == 0)
+		file->errnum = ERRNUM_EOF;
+
+	memset((uint8_t *)data + read, 0, size - read);
+}
+
+void fileWrite(File *file, const void *data, size_t size)
+{
+	if (file->error)
+		return;
+
+	errno = 0;  // fwrite might not set errno
+	size_t written = fwrite(data, 1, size, file->f);
+	if (written == size)
+		return;
+
+	file->errnum = errno;
+	file->error = true;
+
+	assert(written < size);
+}
+
+void fileFlush(File *file)
+{
+	if (file->error)
+		return;
+
+	errno = 0;  // fflush might not set errno
+	if (fflush(file->f) == 0)
+		return;
+
+	file->errnum = errno;
+	file->error = true;
+}
+
+void fileClose(File *file)
+{
+	if (file->f == NULL)
+		return;
+
+	errno = 0;  // fclose might not set errno
+	int result = fclose(file->f);
+	file->f = NULL;
+	if (result == 0)
+		return;
+
+	file->errnum = errno;
+	file->error = true;
+}
+
+const char *fileGetError(File *file)
+{
+	switch (file->errnum)
+	{
+	case ERRNUM_EOF:
+		return "Unexpected end of file";
+	case 0:
+		if (file->error)
+			return "Unknown error";
+		// fall through
+	default:
+		return strerror(file->errnum);
 	}
 }
