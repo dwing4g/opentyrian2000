@@ -17,7 +17,7 @@ ENDCHAR
 --]]
 local floor = math.floor
 local codes = {}
-local code, width, height, dataLine, data = 0, 0, 0, 0, {}
+local code, width, height, offsetX, offsetY, dataLine, data = 0, 0, 0, 0, 0, 0, {}
 local f = io.open(arg[2] or "src/font_chs_data.h", "wb")
 f:write "#include <stdint.h>\n\n"
 f:write "__declspec(align(16))\n"
@@ -35,22 +35,19 @@ for line in io.lines(arg[1] or "fusion-pixel-12px-monospaced-zh_hans.bdf") do --
 		elseif tag == "BBX" then
 			local w, h, x, y = args:match "^(%d+) (%d+) ([%d%-]+) ([%d%-]+)$"
 			if not w then error("ERROR(" .. i .. "): invalid: " .. line) end
-			w = tonumber(w)
-			h = tonumber(h)
-			x = tonumber(x)
-			y = tonumber(y)
-			if w ~= width then error("ERROR(" .. i .. "): invalid w: " .. line) end
-			if x ~= 0 then error("ERROR(" .. i .. "): invalid x: " .. line) end
-			if not (h == 12 and y == -2 or h == 14 and y == -3 or h == 24 and y == -8) then error("ERROR(" .. i .. "): invalid h&y: " .. line) end
-			height = h
+			-- w = tonumber(w)
+			height = tonumber(h)
+			offsetX = tonumber(x)
+			offsetY = tonumber(y)
 		elseif tag == "BITMAP" then
 			dataLine = height
 		elseif tag == "ENDCHAR" then
 			local v = 0
 			local b = 1
 			local h = {}
-			for j = height == 12 and 2 or 3, height == 12 and 12 or 13 do
-				v = v + data[j] * b
+			offsetY = 9 - offsetY - #data
+			for j = 1, 11 do
+				v = v + (data[j - offsetY] or 0) * b
 				b = b * 0x800
 				if b >= 0x100000000 then
 					h[#h + 1] = string.format("%08X", v % 0x100000000)
@@ -65,19 +62,27 @@ for line in io.lines(arg[1] or "fusion-pixel-12px-monospaced-zh_hans.bdf") do --
 				f:write(string.format("\t0x%s%sULL,0x%s%sULL,//%04X,%d\n", h[2], h[1], h[4], h[3], code, n))
 				n = n + 1
 			end
-			code, width, height, dataLine, data = 0, 0, 0, 0, {}
+			code, width, height, offsetX, offsetY, dataLine, data = 0, 0, 0, 0, 0, 0, {}
 		elseif tag == "PIXEL_SIZE" then
 			if args ~= "12" then
 				error("ERROR(" .. i .. "): invalid: " .. line)
 			end
 		end
 	else
+		line = line:sub(1, 4)
 		local v = tonumber(line, 16)
-		local v2 = 0
-		for i = 1, #line * 4 do
-			v2 = v2 * 2 + v % 2
-			v = floor(v / 2)
+		if not v then error("ERROR(" .. i .. "): invalid hex: " .. line) end
+		v = v * (2 ^ (16 - #line * 4))
+		local v2, s = 0, 1
+		for i = 1, 11 do -- only need 11 bits
+			v = v + v
+			if v >= 0x10000 then
+				v = v - 0x10000
+				v2 = v2 + s
+			end
+			s = s + s
 		end
+		v2 = v2 * (2 ^ offsetX)
 		data[#data + 1] = v2 % 0x800 -- only need 11 bits, from low(left) to high(right)
 		dataLine = dataLine - 1
 	end
