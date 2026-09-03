@@ -21,6 +21,8 @@
 #include "fonthand.h"
 #include "sprite.h"
 
+#include "font_chs.h"
+
 /**
  * \file font.c
  * \brief Text drawing routines.
@@ -149,6 +151,14 @@ void drawFontHvFullShadowAligned(SDL_Surface *surface, int x, int y, const char 
  */
 void drawFontHv(SDL_Surface *surface, int x, int y, const char *text, Font font, Uint8 hue, Sint8 value)
 {
+#if ENABLE_CHS
+	if (font == FONT_SMALL)
+	{
+		draw_font_hv_chs(surface, x, y, text, hue, value);
+		return;
+	}
+	text = untranslate(text);
+#endif
 	bool highlight = false;
 
 	for (; *text != '\0'; ++text)
@@ -216,6 +226,14 @@ void drawFontHvAligned(SDL_Surface *surface, int x, int y, const char *text, Fon
  */
 void drawFontHvBlend(SDL_Surface *surface, int x, int y, const char *text, Font font, Uint8 hue, Sint8 value)
 {
+#if ENABLE_CHS
+	if (font == FONT_SMALL)
+	{
+		draw_font_hv_blend_chs(surface, x, y, text, hue, value);
+		return;
+	}
+	text = untranslate(text);
+#endif
 	for (; *text != '\0'; ++text)
 	{
 		int sprite_id = fontMap[(unsigned char)*text];
@@ -276,6 +294,14 @@ void drawFontHvBlendAligned(SDL_Surface *surface, int x, int y, const char *text
  */
 void drawFontDark(SDL_Surface *surface, int x, int y, const char *text, Font font, bool black)
 {
+#if ENABLE_CHS
+	if (font == FONT_SMALL)
+	{
+		draw_font_dark_chs(surface, x, y, text, (int)black);
+		return;
+	}
+	text = untranslate(text);
+#endif
 	for (; *text != '\0'; ++text)
 	{
 		int sprite_id = fontMap[(unsigned char)*text];

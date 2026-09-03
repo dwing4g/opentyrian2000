@@ -25,6 +25,8 @@
 #include "vga256d.h"
 #include "video.h"
 
+#include "font_chs.h"
+
 // Mapping from CP437 to font sprite index.
 const Sint8 fontMap[256] = /* [33..168] */
 {
@@ -63,6 +65,10 @@ JE_shortint warningColChange;
 
 void JE_dString(SDL_Surface * screen, int x, int y, const char *s, unsigned int font)
 {
+#if ENABLE_CHS
+	if (font != TINY_FONT)
+		s = untranslate(s);
+#endif
 	const int defaultBrightness = -3;
 
 	int bright = 0;
@@ -101,6 +107,11 @@ int JE_fontCenter(const char *s, unsigned int font)
 
 int JE_textWidth(const char *s, unsigned int font)
 {
+#if ENABLE_CHS
+	if (font == TINY_FONT)
+		return JE_textWidth_chs(s, font);
+	s = untranslate(s);
+#endif
 	int x = 0;
 
 	for (int i = 0; s[i] != '\0'; ++i)
@@ -142,6 +153,9 @@ void JE_textShade(SDL_Surface * screen, int x, int y, const char *s, unsigned in
 
 void JE_outText(SDL_Surface * screen, int x, int y, const char *s, unsigned int colorbank, int brightness)
 {
+#if ENABLE_CHS
+	JE_outText_chs(screen, x, y, s, colorbank, brightness);
+#else
 	int bright = 0;
 
 	for (int i = 0; s[i] != '\0'; ++i)
@@ -171,10 +185,19 @@ void JE_outText(SDL_Surface * screen, int x, int y, const char *s, unsigned int 
 			break;
 		}
 	}
+#endif
 }
 
 void JE_outTextModify(SDL_Surface * screen, int x, int y, const char *s, unsigned int filter, unsigned int brightness, unsigned int font)
 {
+#if ENABLE_CHS
+	if (font == TINY_FONT)
+	{
+		JE_outTextModify_chs(screen, x, y, s, filter, brightness);
+		return;
+	}
+	s = untranslate(s);
+#endif
 	for (int i = 0; s[i] != '\0'; ++i)
 	{
 		int sprite_id = fontMap[(unsigned char)s[i]];
@@ -194,6 +217,14 @@ void JE_outTextModify(SDL_Surface * screen, int x, int y, const char *s, unsigne
 
 void JE_outTextAdjust(SDL_Surface * screen, int x, int y, const char *s, unsigned int filter, int brightness, unsigned int font, JE_boolean shadow)
 {
+#if ENABLE_CHS
+	if (font == TINY_FONT)
+	{
+		JE_outTextAdjust_chs(screen, x, y, s, filter, brightness, shadow);
+		return;
+	}
+	s = untranslate(s);
+#endif
 	int bright = 0;
 
 	for (int i = 0; s[i] != '\0'; ++i)
@@ -226,6 +257,14 @@ void JE_outTextAdjust(SDL_Surface * screen, int x, int y, const char *s, unsigne
 
 void JE_outTextAndDarken(SDL_Surface * screen, int x, int y, const char *s, unsigned int colorbank, unsigned int brightness, unsigned int font)
 {
+#if ENABLE_CHS
+	if (font == TINY_FONT)
+	{
+		JE_outTextAndDarken_chs(screen, x, y, s, colorbank, brightness);
+		return;
+	}
+	s = untranslate(s);
+#endif
 	int bright = 0;
 
 	for (int i = 0; s[i] != '\0'; ++i)

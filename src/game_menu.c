@@ -46,6 +46,8 @@
 
 #include <assert.h>
 
+#include "font_chs.h"
+
 enum
 {
 	MENU_FULL_GAME       =  0,
@@ -70,7 +72,7 @@ struct cube_struct
 	char title[81];
 	char header[13];
 	int face_sprite;
-	char text[90][36];
+	char text[90][48];
 	int last_line;
 };
 
@@ -352,7 +354,7 @@ void JE_itemScreen(void)
 				else
 					strcpy(tempStr, saveFiles[x-2].name);
 
-				int tempY = 38 + (x - min)*11;
+				int tempY = 38 + (x - min)*12;
 
 				JE_textShade(VGAScreen, 163, tempY, tempStr, temp2 / 16, temp2 % 16 - 8, DARKEN);
 
@@ -369,13 +371,13 @@ void JE_itemScreen(void)
 					{
 						char buf[20];
 
-						strcpy(tempStr, saveFiles[x-2].levelName);
+						strcpy(tempStr, translate(saveFiles[x-2].levelName));
 
 						snprintf(buf, sizeof buf, "%s%d", miscTextB[1-1], saveFiles[x-2].episode);
-						JE_textShade(VGAScreen, 297, tempY, buf, temp2 / 16, temp2 % 16 - 8, DARKEN);
+						JE_textShade(VGAScreen, 293, tempY, buf, temp2 / 16, temp2 % 16 - 8, DARKEN);
 					}
 
-					JE_textShade(VGAScreen, 245, tempY, tempStr, temp2 / 16, temp2 % 16 - 8, DARKEN);
+					JE_textShade(VGAScreen, 247, tempY, tempStr, temp2 / 16, temp2 % 16 - 8, DARKEN);
 				}
 
 				JE_drawMenuHeader();
@@ -433,7 +435,7 @@ void JE_itemScreen(void)
 			{
 				int temp = (i == curSel[curMenu] - 2u) ? 15 : 28;
 
-				JE_textShade(VGAScreen, 166, 38 + i * 8, menu_item[i], temp / 16, temp % 16 - 8, DARKEN);
+				JE_textShade(VGAScreen, 166, 38 + i * 9, menu_item[i], temp / 16, temp % 16 - 8, DARKEN);
 
 				temp = (i == curSel[curMenu] - 2u) ? 252 : 250;
 
@@ -461,7 +463,7 @@ void JE_itemScreen(void)
 					joystick_assignments_to_string(value, sizeof(value), joystick[joystick_config].assignment[i - 4]);
 				}
 
-				JE_textShade(VGAScreen, 236, 38 + i * 8, value, temp / 16, temp % 16 - 8, DARKEN);
+				JE_textShade(VGAScreen, 236, 38 + i * 9, value, temp / 16, temp % 16 - 8, DARKEN);
 			}
 
 			menuChoices[curMenu] = COUNTOF(menu_item) + 1;
@@ -597,8 +599,8 @@ void JE_itemScreen(void)
 				{
 					char buf[20];
 
-					snprintf(buf, sizeof buf, "Cost: %d", temp_cost);
-					JE_textShade(VGAScreen, 187, tempY+10, buf, temp2 / 16, temp2 % 16 - 8 - afford_shade, DARKEN);
+					snprintf(buf, sizeof buf, "%s%d", translate("Cost: "), temp_cost);
+					JE_textShade(VGAScreen, 250, tempY+12, buf, temp2 / 16, temp2 % 16 - 8 - afford_shade, DARKEN);
 				}
 			}
 		}
@@ -617,7 +619,7 @@ void JE_itemScreen(void)
 				char buf[20];
 
 				snprintf(buf, sizeof buf, "%lu", player[0].cash);
-				JE_textShade(VGAScreen, 65, 173, buf, 1, 6, DARKEN);
+				JE_textShade(VGAScreen, 65, 170, buf, 1, 6, DARKEN);
 			}
 			JE_barDrawShadow(VGAScreen, 42, 152, 3, 14, player[0].armor, 2, 13);
 			JE_barDrawShadow(VGAScreen, 104, 152, 2, 14, shields[player[0].items.shield].mpwr * 2, 2, 13);
@@ -638,7 +640,7 @@ void JE_itemScreen(void)
 				for (uint i = 0; i < 2; ++i)
 				{
 					snprintf(buf, sizeof(buf), "%s %lu", miscText[40 + i], player[i].cash);
-					JE_textShade(VGAScreen, 25, 50 + 10 * i, buf, 15, 0, FULL_SHADE);
+					JE_textShade(VGAScreen, 25, 50 + 12 * i, buf, 15, 0, FULL_SHADE);
 				}
 			}
 			else if (superArcadeMode != SA_NONE || superTyrian)
@@ -699,7 +701,7 @@ void JE_itemScreen(void)
 							temp2 = 250;
 						}
 
-						JE_helpBox(VGAScreen, 192, 44 + (x - 1) * 28, cube[x - 1].title, 24, 7, temp2 / 16, (temp2 % 16) - 8, DARKEN);
+						JE_helpBox(VGAScreen, 192, 40 + (x - 1) * 28, cube[x - 1].title, 30, 7, temp2 / 16, (temp2 % 16) - 8, DARKEN);
 					}
 					int x = cubeMax + 1;
 					if (x + 1 == curSel[curMenu])
@@ -778,7 +780,8 @@ void JE_itemScreen(void)
 		if ((curMenu == MENU_DATA_CUBES || curMenu == MENU_DATA_CUBE_SUB) &&
 			curSel[MENU_DATA_CUBES] < menuChoices[MENU_DATA_CUBES])
 		{
-			JE_textShade(VGAScreen, 75 - JE_textWidth(cube[curSel[MENU_DATA_CUBES] - 2].header, TINY_FONT) / 2, 173, cube[curSel[MENU_DATA_CUBES] - 2].header, 14, 3, DARKEN);
+			const char* header = translate(cube[curSel[MENU_DATA_CUBES] - 2].header);
+			JE_textShade(VGAScreen, 75 - JE_textWidth(header, TINY_FONT) / 2, 170, header, 14, 3, DARKEN);
 		}
 
 		/* SYN: Everything above was just drawing the screen. In the rest of it, we process
@@ -818,7 +821,7 @@ void JE_itemScreen(void)
 							mouseCursor = MOUSE_POINTER_UP;
 					}
 
-					fill_rectangle_xy(VGAScreen, 160, 49, 310, 158, 228);
+					fill_rectangle_xy(VGAScreen, 160, 49, 310, 157, 228);
 					if (yLoc + yChg < 0)
 					{
 						yChg = 0;
@@ -841,7 +844,7 @@ void JE_itemScreen(void)
 					}
 
 					fill_rectangle_xy(VGAScreen, 160, 39, 310, 48, 228);
-					fill_rectangle_xy(VGAScreen, 160, 157, 310, 166, 228);
+					fill_rectangle_xy(VGAScreen, 160, 158, 310, 171, 228);
 
 					int percent_read = (cube[currentCube].last_line <= 9)
 					                   ? 100
@@ -1761,7 +1764,7 @@ bool load_cube(int cube_slot, int cube_index)
 	--cube[cube_slot].face_sprite;
 
 	readEncryptedString(&file, cube[cube_slot].title, sizeof(cube[cube_slot].title));
-	readEncryptedString(&file, cube[cube_slot].header, sizeof(cube[cube_slot].header));
+	readEncryptedString2(&file, cube[cube_slot].header, sizeof(cube[cube_slot].header), 0);
 
 	uint line = 0, line_chars = 0, line_width = 0;
 
@@ -1788,28 +1791,41 @@ bool load_cube(int cube_slot, int cube_index)
 			continue;
 		}
 
-		uint word_start = 0;
+		uint word_start = 0, bright_num = 0;
+		bool last_is_narrow = 1;
 		for (uint i = 0; ; ++i)
 		{
 			bool end_of_line = (buf[i] == '\0'),
-			     end_of_word = end_of_line || (buf[i] == ' ');
+			     end_of_word = end_of_line || buf[i] == ' ' || i > 0 && ((unsigned char)buf[i] >= 0xc0 && buf[i - 1] != '~' || buf[i] > 0 && buf[i - 1] < 0);
 
 			if (end_of_word)
 			{
+				char e = buf[i];
 				buf[i] = '\0';
 
 				char *word = &buf[word_start];
-				word_start = i + 1;
+				word_start = (unsigned char)e <= ' ' ? i + 1 : i;
 
 				uint word_chars = strlen(word),
 				     word_width = JE_textWidth(word, TINY_FONT);
 
 				// word won't fit; no can do
 				if (word_chars > cube_line_chars || word_width > cube_line_width)
+				{
+					buf[i] = e;
 					break;
+				}
 
-				bool prepend_space = true;
+				bool is_narrow = (*word == '~' ? word[1] : *word) >= 0;
+				bool prepend_tab = !line_chars && !is_narrow;
+				bool prepend_space = !prepend_tab && last_is_narrow && is_narrow && !(*word == '~' && word[1] == '~');
+				last_is_narrow = is_narrow && !(*word == '~' && word[1] == '~');
 
+				if (prepend_tab)
+				{
+					line_chars = 6;
+					line_width = char_advance(0x3000) * 2;
+				}
 				line_chars += word_chars + (prepend_space ? 1 : 0);
 				line_width += word_width + (prepend_space ? 6 : 0);
 
@@ -1826,13 +1842,23 @@ bool load_cube(int cube_slot, int cube_index)
 				// append word
 				if (line < COUNTOF(cube->text))
 				{
+					if (prepend_tab)
+						strcpy(cube[cube_slot].text[line], "\xe3\x80\x80\xe3\x80\x80");
 					if (prepend_space)
 						strcat(cube[cube_slot].text[line], " ");
+					if ((bright_num & 1) != 0 && !*cube[cube_slot].text[line])
+						strcat(cube[cube_slot].text[line], "~");
 					strcat(cube[cube_slot].text[line], word);
+					for (int j = 0; word[j]; j++)
+					{
+						if (word[j] == '~')
+							bright_num++;
+					}
 
 					// track last line with text
 					cube[cube_slot].last_line = line + 1;
 				}
+				buf[i] = e;
 			}
 
 			if (end_of_line)
@@ -1954,11 +1980,11 @@ void JE_drawMenuChoices(void)
 		if (curSel[curMenu] == x)
 		{
 			str[0] = '~';
-			strcpy(str+1, menuInt[curMenu + 1][x-1]);
+			strcpy(str+1, untranslate(menuInt[curMenu + 1][x-1]));
 		}
 		else
 		{
-			strcpy(str, menuInt[curMenu + 1][x-1]);
+			strcpy(str, untranslate(menuInt[curMenu + 1][x-1]));
 		}
 		JE_dString(VGAScreen, 166, tempY, str, SMALL_FONT_SHAPES);
 		free(str);
@@ -2353,7 +2379,7 @@ void JE_drawMainMenuHelpText(void)
 		memcpy(tempStr, mainMenuHelp[17 + curMenu - 3], sizeof(tempStr));
 	}
 	
-	JE_textShade(VGAScreen, 10, 187, tempStr, 14, 1, DARKEN);
+	JE_textShade(VGAScreen, 10, 184, tempStr, 14, 1, DARKEN);
 }
 
 JE_boolean JE_quitRequest(void)
@@ -2532,7 +2558,7 @@ void JE_drawScore(void)
 	if (curMenu == MENU_UPGRADE_SUB)
 	{
 		sprintf(cl, "%d", JE_cashLeft());
-		JE_textShade(VGAScreen, 65, 173, cl, 1, 6, DARKEN);
+		JE_textShade(VGAScreen, 65, 170, cl, 1, 6, DARKEN);
 	}
 }
 
@@ -2697,7 +2723,7 @@ void JE_menuFunction(JE_byte select)
 				{
 					colC *= -1;
 				}
-				JE_rectangle(VGAScreen, 230, tempY - 2, 300, tempY + 7, col);
+				JE_rectangle(VGAScreen, 230, tempY, 300, tempY + 12, col);
 
 				JE_showVGA();
 
@@ -3002,10 +3028,10 @@ void JE_drawShipSpecs(SDL_Surface * screen, SDL_Surface * temp_screen)
 	JE_rectangle(screen, 1, 1, 318, 198, 35);
 
 	JE_outText(screen, 10, 2, ships[player[0].items.ship].name, 12, 3);
-	JE_helpBox(screen, 100, 20, shipInfo[player[0].items.ship-1][0], 40, 9, 12, 1, FULL_SHADE);
-	JE_helpBox(screen, 100, 100, shipInfo[player[0].items.ship-1][1], 40, 9, 12, 1, FULL_SHADE);
+	JE_helpBox(screen, 100, 20, shipInfo[player[0].items.ship-1][0], 40, 12, 12, 1, FULL_SHADE);
+	JE_helpBox(screen, 100, 100, shipInfo[player[0].items.ship-1][1], 40, 12, 12, 1, FULL_SHADE);
 
-	JE_outText(screen, JE_fontCenter(miscText[4], TINY_FONT), 190, miscText[4], 12, 2);
+	JE_outText(screen, JE_fontCenter(miscText[4], TINY_FONT), 188, miscText[4], 12, 2);
 
 	//now draw the green ship over that.
 	//This hardcoded stuff is for positioning our little ship graphic
@@ -3094,7 +3120,7 @@ void JE_weaponSimUpdate(void)
 		if (leftPower)
 		{
 			sprintf(buf, "%d", downgradeCost);
-			JE_outText(VGAScreen, 26, 137, buf, 1, 4);
+			JE_outText(VGAScreen, 26, 134, buf, 1, 4);
 		}
 		else
 		{
@@ -3106,13 +3132,13 @@ void JE_weaponSimUpdate(void)
 			if (!rightPowerAfford)
 			{
 				sprintf(buf, "%d", upgradeCost);
-				JE_outText(VGAScreen, 108, 137, buf, 7, 4);
+				JE_outText(VGAScreen, 108, 134, buf, 7, 4);
 				blit_sprite(VGAScreenSeg, 119, 149, OPTION_SHAPES, 14);  // upgrade disabled
 			}
 			else
 			{
 				sprintf(buf, "%d", upgradeCost);
-				JE_outText(VGAScreen, 108, 137, buf, 1, 4);
+				JE_outText(VGAScreen, 103, 134, buf, 1, 4);
 			}
 		}
 		else

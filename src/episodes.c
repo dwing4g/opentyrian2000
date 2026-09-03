@@ -25,6 +25,8 @@
 #include "lvlmast.h"
 #include "opentyr.h"
 
+#include "font_chs.h"
+
 /* MAIN Weapons Data */
 JE_WeaponPortType weaponPort;
 JE_WeaponType     weapons[WEAP_NUM + 1]; /* [0..weapnum] */
@@ -134,6 +136,7 @@ void JE_loadItemDat(void)
 		fileReadU16Array( &file, &weaponPort[i].cost,        1);
 		fileReadU16Array( &file, &weaponPort[i].itemgraphic, 1);
 		fileReadU16Array( &file, &weaponPort[i].poweruse,    1);
+		translate_inline(weaponPort[i].name, sizeof(weaponPort[i].name));
 	}
 
 	for (size_t i = 0; i < SPECIAL_NUM + 1; ++i)
@@ -145,6 +148,7 @@ void JE_loadItemDat(void)
 		fileReadU8Array(  &file, &special[i].pwr,         1);
 		fileReadU8Array(  &file, &special[i].stype,       1);
 		fileReadU16Array( &file, &special[i].wpn,         1);
+		translate_inline(special[i].name, sizeof(special[i].name));
 	}
 
 	for (size_t i = 0; i < POWER_NUM + 1; ++i)
@@ -156,6 +160,7 @@ void JE_loadItemDat(void)
 		fileReadU8Array(  &file, &powerSys[i].power,       1);
 		fileReadS8Array(  &file, &powerSys[i].speed,       1);
 		fileReadU16Array( &file, &powerSys[i].cost,        1);
+		translate_inline(powerSys[i].name, sizeof(powerSys[i].name));
 	}
 
 	for (size_t i = 0; i < SHIP_NUM + 1; ++i)
@@ -170,6 +175,7 @@ void JE_loadItemDat(void)
 		fileReadU8Array(  &file, &ships[i].dmg,            1);
 		fileReadU16Array( &file, &ships[i].cost,           1);
 		fileReadU8Array(  &file, &ships[i].bigshipgraphic, 1);
+		translate_inline(ships[i].name, sizeof(ships[i].name));
 	}
 
 	for (size_t i = 0; i < OPTION_NUM + 1; ++i)
@@ -190,6 +196,7 @@ void JE_loadItemDat(void)
 		fileReadU8Array(  &file, &options[i].ammo,        1);
 		fileReadBoolArray(&file, &options[i].stop,        1);
 		fileReadU8Array(  &file, &options[i].icongr,      1);
+		translate_inline(options[i].name, sizeof(options[i].name));
 	}
 
 	for (size_t i = 0; i < SHIELD_NUM + 1; ++i)
@@ -201,6 +208,7 @@ void JE_loadItemDat(void)
 		fileReadU8Array(  &file, &shields[i].mpwr,        1);
 		fileReadU16Array( &file, &shields[i].itemgraphic, 1);
 		fileReadU16Array( &file, &shields[i].cost,        1);
+		translate_inline(shields[i].name, sizeof(shields[i].name));
 	}
 	
 	for (size_t i = 0; i < ENEMY_NUM + 1; ++i)

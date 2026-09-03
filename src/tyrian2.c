@@ -56,6 +56,8 @@
 #include <string.h>
 #include <stdint.h>
 
+#include "font_chs.h"
+
 inline static void blit_enemy(SDL_Surface *surface, unsigned int i, signed int x_offset, signed int y_offset, signed int sprite_offset);
 
 boss_bar_t boss_bar[2];
@@ -3283,7 +3285,7 @@ bool titleScreen(void)
 
 			JE_loadPic(VGAScreen, 4, false);
 
-			drawFontHvShadow(VGAScreen, 2, 192, opentyrian_version, FONT_SMALL, 15, 0, false, 1);
+			drawFontHvShadow(VGAScreen, 2, 188, translate(opentyrian_version), FONT_SMALL, 15, 0, false, 1);
 
 			if (moveTyrianLogoUp)
 			{

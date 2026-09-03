@@ -66,6 +66,7 @@ extern char shipInfo[HELPTEXT_SHIPINFO_COUNT][2][256];
 extern char menuInt[MENU_MAX+1][11][18];
 
 void readEncryptedString(File *file, char *dst, size_t size);
+void readEncryptedString2(File *file, char *dst, size_t size, int translate);
 
 void JE_helpBox(SDL_Surface *screen, int x, int y, const char *message, JE_byte boxWidth, JE_byte verticalHeight, JE_byte color, JE_byte brightness, JE_byte shadeType);
 void JE_HBox(SDL_Surface *screen, int x, int y, JE_byte messageNum, JE_byte boxWidth, JE_byte verticalHeight, JE_byte color, JE_byte brightness);

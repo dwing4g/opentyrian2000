@@ -28,6 +28,8 @@
 #include <stdlib.h>
 #include <string.h>
 
+#include "font_chs.h"
+
 const JE_byte menuHelp[MENU_MAX][11] = /* [1..maxmenu, 1..11] */
 {
 	{  1, 34,  2,  3,  4,  5,                  0, 0, 0, 0, 0 },
@@ -88,6 +90,11 @@ static void decrypt_string(char *s, size_t len)
 
 void readEncryptedString(File *file, char *dst, size_t size)
 {
+	readEncryptedString2(file, dst, size, 1);
+}
+
+void readEncryptedString2(File *file, char *dst, size_t size, int translate)
+{
 	Uint8 buffer[255];
 
 	Uint8 len = fileReadU8(file);
@@ -103,11 +110,14 @@ void readEncryptedString(File *file, char *dst, size_t size)
 
 	memcpy(dst, buffer, len);
 	dst[len] = '\0';
+
+	if (translate)
+		translate_inline(dst, (int)size);
 }
 
 void JE_helpBox(SDL_Surface *screen,  int x, int y, const char *message, JE_byte boxWidth, JE_byte verticalHeight, JE_byte color, JE_byte brightness, JE_byte shadeType)
 {
-	JE_byte startpos, endpos, pos;
+	JE_byte startpos, endpos, pos, brightnum;
 	JE_boolean endstring;
 
 	char substring[256];
@@ -120,6 +130,7 @@ void JE_helpBox(SDL_Surface *screen,  int x, int y, const char *message, JE_byte
 	pos = 1;
 	endpos = 0;
 	endstring = false;
+	brightnum = message[0] == '~';
 
 	do
 	{
@@ -130,6 +141,8 @@ void JE_helpBox(SDL_Surface *screen,  int x, int y, const char *message, JE_byte
 			endpos = pos;
 			do
 			{
+				if (message[pos] == '~')
+					brightnum++;
 				pos++;
 				if (pos == strlen(message))
 				{
@@ -139,12 +152,11 @@ void JE_helpBox(SDL_Surface *screen,  int x, int y, const char *message, JE_byte
 						endpos = pos + 1;
 					}
 				}
+			} while (!(endstring || message[pos-1] == ' ' || (brightnum & 1) == 0 && (unsigned char)message[pos] >= 0xc0));
 
-			} while (!(message[pos-1] == ' ' || endstring));
+		} while (!(endstring || (unsigned)(pos - startpos) > boxWidth));
 
-		} while (!((unsigned)(pos - startpos) > boxWidth || endstring));
-
-		SDL_strlcpy(substring, message + startpos - 1, MIN((size_t)(endpos - startpos + 1), sizeof(substring)));
+		SDL_strlcpy(substring, message + startpos - 1, MIN((size_t)(endpos - startpos + 2), sizeof(substring)));
 		JE_textShade(screen, x, y, substring, color, brightness, shadeType);
 
 		y += verticalHeight;
